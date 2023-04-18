@@ -1,0 +1,4708 @@
+{
+	"Result": "True",
+	"errMsg": "",
+	"UserGroupId": "17025447",
+	"QuanZhanScore": "00.00",
+	"PaperId": "15152",
+	"TimeLimit": "180",
+	"IsBaoCun": "",
+	"BaoGaoFenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanBaoGaoFenXiang/PointShare.aspx",
+	"YiZuoTiMuShu": "",
+	"TotalScore": "100.00",
+	"ShengYuShiJian": "",
+	"Questions": [{
+		"SbjTypeName": "完形填空",
+		"SbjType": "20",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "5",
+		"QuanZhanRightRate": "20.0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "1",
+		"SbjId": "722873",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Section I Use of English"
+		}, {
+			"QType": "1",
+			"QContent": "Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Read the following passage. For each numbered blank there are four choices marked A, B, C and D. Choose the best one and mark your answers on ANSWER SHEET . (10 points)"
+		}, {
+			"QType": "1",
+			"QContent": "In Cambodia, the choice of a spouse is a complex one for the young male. It may involve not only his parents and his friends, __1__ those of the young woman, but also a matchmaker. A young man can__2__a likely spouse on his own and then ask his parents to__3__the marriage negotiations, or the young man's parents may make the choice of a spouse, giving the child little to say in the selection. __4__, a girl may veto the spouse her parents have chosen. __5__a spouse has been selected, each family investigates the other to make sure its child is marrying__6__ a good family."
+		}, {
+			"QType": "1",
+			"QContent": "The traditional wedding is a long and colorful affair. Formerly it lasted three days__7__ by the 1980s it more commonly lasted a day and a half. Buddhist priests offer a short sermon and __8__ prayers of blessing. Parts of the ceremony involve ritual hair cutting, __9__cotton threads soaked in holy water around the bride’s and groom’s wrists, and__10__a candle around a circle of happily married and respected couples to bless the __11__.Newlyweds traditionally move in with the wife’s parents and may __12__with them up to a year, __13__they can build a new house nearby."
+		}, {
+			"QType": "1",
+			"QContent": "Divorce is legal and easy to__14__, but not common. Divorced persons are__15__with some disapproval. Each spouse retains__16__property he or she__17__into the marriage, and jointly-acquired property is__18__equally. Divorced persons may remarry, but a gender prejudice__19__up: The divorced male doesn’t have a waiting period before he can remarry__20__the woman must wait ten months. "
+		}],
+		"XiaoTiCount": "20",
+		"SbjSubContentList": [{
+			"SbjId": "722874",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]by way of"
+			}, {
+				"Label": "B",
+				"Text": "[B]on behalf of"
+			}, {
+				"Label": "C",
+				"Text": "[C]as well as"
+			}, {
+				"Label": "D",
+				"Text": "[D]with regard to"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[C]as well as"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析：本题考察逻辑关系"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：因为考察逻辑关系，所以需要我们先对填空前后的原文信息做定位分析：文章身处大环境"
+			}, {
+				"QType": "1",
+				"QContent": "not only…but also之中，这是一个明显的并列关系，表示"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "不仅"
+			}, {
+				"QType": "1",
+				"QContent": "……"
+			}, {
+				"QType": "1",
+				"QContent": "而且"
+			}, {
+				"QType": "1",
+				"QContent": "……”"
+			}, {
+				"QType": "1",
+				"QContent": "该空与前一句"
+			}, {
+				"QType": "1",
+				"QContent": "“his parents and his friends”"
+			}, {
+				"QType": "1",
+				"QContent": "也是并列关系，表示"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "与他本人以及伴侣的父母朋友相关"
+			}, {
+				"QType": "1",
+				"QContent": "” "
+			}, {
+				"QType": "1",
+				"QContent": "所以答案只能是"
+			}, {
+				"QType": "1",
+				"QContent": "C.as well as"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": "A.by way of"
+			}, {
+				"QType": "1",
+				"QContent": "通过 "
+			}, {
+				"QType": "1",
+				"QContent": "B. on behalf of "
+			}, {
+				"QType": "1",
+				"QContent": "代表 "
+			}, {
+				"QType": "1",
+				"QContent": "D. with regard to "
+			}, {
+				"QType": "1",
+				"QContent": "关于"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722875",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]adapt to"
+			}, {
+				"Label": "B",
+				"Text": "[B]provide for"
+			}, {
+				"Label": "C",
+				"Text": "[C]compete with"
+			}, {
+				"Label": "D",
+				"Text": "[D]decide on"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D] decide on"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：根据该句的主语"
+			}, {
+				"QType": "1",
+				"QContent": "a young man与宾语"
+			}, {
+				"QType": "1",
+				"QContent": "a likely spouse"
+			}, {
+				"QType": "1",
+				"QContent": "的关系，答案只能是"
+			}, {
+				"QType": "1",
+				"QContent": "D. decide on "
+			}, {
+				"QType": "1",
+				"QContent": "决定，表示自己决定自己的对象。"
+			}, {
+				"QType": "1",
+				"QContent": "A. adapt to"
+			}, {
+				"QType": "1",
+				"QContent": "适用"
+			}, {
+				"QType": "1",
+				"QContent": "B. provide for "
+			}, {
+				"QType": "1",
+				"QContent": "为"
+			}, {
+				"QType": "1",
+				"QContent": "……"
+			}, {
+				"QType": "1",
+				"QContent": "提供准备 "
+			}, {
+				"QType": "1",
+				"QContent": "C. compete with"
+			}, {
+				"QType": "1",
+				"QContent": "与"
+			}, {
+				"QType": "1",
+				"QContent": "……"
+			}, {
+				"QType": "1",
+				"QContent": "竞争 "
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}]
+		}, {
+			"SbjId": "722876",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]close"
+			}, {
+				"Label": "B",
+				"Text": "[B]renew"
+			}, {
+				"Label": "C",
+				"Text": "[C]arrange"
+			}, {
+				"Label": "D",
+				"Text": "[D]postpone"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[C]arrange"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及动词辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：该句意思为，他可以自己选择自己中意的伴侣并让父母"
+			}, {
+				"QType": "1",
+				"QContent": "___相关事务。四个选项中，"
+			}, {
+				"QType": "1",
+				"QContent": "A.close "
+			}, {
+				"QType": "1",
+				"QContent": "关闭 "
+			}, {
+				"QType": "1",
+				"QContent": "B.renew "
+			}, {
+				"QType": "1",
+				"QContent": "更新；恢复 "
+			}, {
+				"QType": "1",
+				"QContent": "D.postpone“"
+			}, {
+				"QType": "1",
+				"QContent": "推迟"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "，语义不正确，只有"
+			}, {
+				"QType": "1",
+				"QContent": "C.arrange"
+			}, {
+				"QType": "1",
+				"QContent": "安排是符合语境。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722877",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]Above all"
+			}, {
+				"Label": "B",
+				"Text": "[B]In theory"
+			}, {
+				"Label": "C",
+				"Text": "[C]In time"
+			}, {
+				"Label": "D",
+				"Text": "[D]For example"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[B]In theory"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：逻辑判断题。主要是看前后两句的含义，前面是说"
+			}, {
+				"QType": "1",
+				"QContent": "“他可以自己选择自己中意的伴侣并让父母安排相关事务，或者几乎不参与，完全让父母选择自己的对象。"
+			}, {
+				"QType": "1",
+				"QContent": "” "
+			}, {
+				"QType": "1",
+				"QContent": "空格后面说"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "女方可以拒绝她父母所选择的对象。"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "这两句之间没有举例说明的关系，且有一个"
+			}, {
+				"QType": "1",
+				"QContent": "may"
+			}, {
+				"QType": "1",
+				"QContent": "，更证明"
+			}, {
+				"QType": "1",
+				"QContent": "B.In theory"
+			}, {
+				"QType": "1",
+				"QContent": "的正确性。而其他选项 "
+			}, {
+				"QType": "1",
+				"QContent": "A.Above all"
+			}, {
+				"QType": "1",
+				"QContent": "最重要的是 "
+			}, {
+				"QType": "1",
+				"QContent": "C.In time "
+			}, {
+				"QType": "1",
+				"QContent": "准时 "
+			}, {
+				"QType": "1",
+				"QContent": "D.For example"
+			}, {
+				"QType": "1",
+				"QContent": "举例，均不符合题意。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722878",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]Although"
+			}, {
+				"Label": "B",
+				"Text": "[B]Lest"
+			}, {
+				"Label": "C",
+				"Text": "[C]After"
+			}, {
+				"Label": "D",
+				"Text": "[D]Unless"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[C]After"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：根据下文"
+			}, {
+				"QType": "1",
+				"QContent": "“____a spouse has been selected， "
+			}, {
+				"QType": "1",
+				"QContent": "each family investigates the other……”"
+			}, {
+				"QType": "1",
+				"QContent": "知道，只有对象选择好后，父母才会去调查研究对方的背景。所以只有"
+			}, {
+				"QType": "1",
+				"QContent": "after"
+			}, {
+				"QType": "1",
+				"QContent": "才对。其他选项"
+			}, {
+				"QType": "1",
+				"QContent": "A. Although "
+			}, {
+				"QType": "1",
+				"QContent": "尽管"
+			}, {
+				"QType": "1",
+				"QContent": "B.Lest "
+			}, {
+				"QType": "1",
+				"QContent": "以免，唯恐 "
+			}, {
+				"QType": "1",
+				"QContent": "D. Unless "
+			}, {
+				"QType": "1",
+				"QContent": "除非，否则"
+			}, {
+				"QType": "1",
+				"QContent": ", "
+			}, {
+				"QType": "1",
+				"QContent": "都不符合题意。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722879",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "6"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]into"
+			}, {
+				"Label": "B",
+				"Text": "[B]within"
+			}, {
+				"Label": "C",
+				"Text": "[C]from"
+			}, {
+				"Label": "D",
+				"Text": "[D]through"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[A]into"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及介词词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：这里主要是看"
+			}, {
+				"QType": "1",
+				"QContent": "marry与相关介词的固定搭配。这里"
+			}, {
+				"QType": "1",
+				"QContent": "marry into"
+			}, {
+				"QType": "1",
+				"QContent": "就是指嫁到，而其他选项均没有这层含义。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722880",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "7"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]since"
+			}, {
+				"Label": "B",
+				"Text": "[B]but"
+			}, {
+				"Label": "C",
+				"Text": "[C]or"
+			}, {
+				"Label": "D",
+				"Text": "[D]so"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[B]but"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：逻辑关系题"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：根据上文，说传统的婚礼时间跨度很长，但是到了"
+			}, {
+				"QType": "1",
+				"QContent": "1980s， 婚礼只持续一天半。所以与前文发生转变。因此要选择"
+			}, {
+				"QType": "1",
+				"QContent": "but"
+			}, {
+				"QType": "1",
+				"QContent": "转折关系。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722881",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "8"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]copy"
+			}, {
+				"Label": "B",
+				"Text": "[B]test"
+			}, {
+				"Label": "C",
+				"Text": "[C]recite"
+			}, {
+				"Label": "D",
+				"Text": "[D]create"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[C]recite"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及动词词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：空格处需要填一个动词，和后面的"
+			}, {
+				"QType": "1",
+				"QContent": "prayers of blessing所搭配，"
+			}, {
+				"QType": "1",
+				"QContent": "C"
+			}, {
+				"QType": "1",
+				"QContent": "选项"
+			}, {
+				"QType": "1",
+				"QContent": "recite "
+			}, {
+				"QType": "1",
+				"QContent": "为背诵的意思，与所给短语搭配最为合理，译为"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "为祈祷者做祈福"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722882",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "9"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]folding"
+			}, {
+				"Label": "B",
+				"Text": "[B]piling"
+			}, {
+				"Label": "C",
+				"Text": "[C]wrapping"
+			}, {
+				"Label": "D",
+				"Text": "[D]tying"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D]tying"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及动词词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：本题需要根据上下文语义分析，空格处需要搭配后文"
+			}, {
+				"QType": "1",
+				"QContent": "“棉花线头"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "，纵观四个选项"
+			}, {
+				"QType": "1",
+				"QContent": "[A]"
+			}, {
+				"QType": "1",
+				"QContent": "折叠"
+			}, {
+				"QType": "1",
+				"QContent": "[B]"
+			}, {
+				"QType": "1",
+				"QContent": "堆积 "
+			}, {
+				"QType": "1",
+				"QContent": "[C]"
+			}, {
+				"QType": "1",
+				"QContent": "包裹 "
+			}, {
+				"QType": "1",
+				"QContent": "[D]"
+			}, {
+				"QType": "1",
+				"QContent": "系上，根据选项含义，只有"
+			}, {
+				"QType": "1",
+				"QContent": "D"
+			}, {
+				"QType": "1",
+				"QContent": "和后文的"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "棉花线头"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "搭配最为合理。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722883",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "10"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]passing"
+			}, {
+				"Label": "B",
+				"Text": "[B]lighting"
+			}, {
+				"Label": "C",
+				"Text": "[C]hiding"
+			}, {
+				"Label": "D",
+				"Text": "[D]serving"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[A]passing"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及动词词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：本题根据选项"
+			}, {
+				"QType": "1",
+				"QContent": "[A]传递"
+			}, {
+				"QType": "1",
+				"QContent": "[B]"
+			}, {
+				"QType": "1",
+				"QContent": "点亮 "
+			}, {
+				"QType": "1",
+				"QContent": "[C]"
+			}, {
+				"QType": "1",
+				"QContent": "隐藏 "
+			}, {
+				"QType": "1",
+				"QContent": "[D]"
+			}, {
+				"QType": "1",
+				"QContent": "服务，原文空格需要填写一个动词与后文"
+			}, {
+				"QType": "1",
+				"QContent": "“around a circle”"
+			}, {
+				"QType": "1",
+				"QContent": "来搭配，译为"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "将蜡烛传一圈"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "，故"
+			}, {
+				"QType": "1",
+				"QContent": "[A]"
+			}, {
+				"QType": "1",
+				"QContent": "传递为正确选项。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722884",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "11"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]meeting"
+			}, {
+				"Label": "B",
+				"Text": "[B]collection"
+			}, {
+				"Label": "C",
+				"Text": "[C]association"
+			}, {
+				"Label": "D",
+				"Text": "[D]union"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D]union"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：名词词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析：本题根据选项[A] 会议，会面 [B] 收藏，收藏品[C] 协会，社团 [D]结合。本句语义为“这些受尊敬的夫妻祈祷…”根据语境，结婚是一种夫妻二人的结合，因此，选项[D]结合更符合语境。"
+			}]
+		}, {
+			"SbjId": "722885",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "12"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]grow"
+			}, {
+				"Label": "B",
+				"Text": "[B]part"
+			}, {
+				"Label": "C",
+				"Text": "[C]deal"
+			}, {
+				"Label": "D",
+				"Text": "[D]live"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D]live"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及动词词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：本题比较简单。根据语义"
+			}, {
+				"QType": "1",
+				"QContent": "“根据传统，新婚夫妇要搬到妻子父母家，与父母"
+			}, {
+				"QType": "1",
+				"QContent": "__"
+			}, {
+				"QType": "1",
+				"QContent": "一年"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "根据语境，应为"
+			}, {
+				"QType": "1",
+				"QContent": "[D]"
+			}, {
+				"QType": "1",
+				"QContent": "居住为最佳答案。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722886",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "13"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]whereas"
+			}, {
+				"Label": "B",
+				"Text": "[B]until"
+			}, {
+				"Label": "C",
+				"Text": "[C]if"
+			}, {
+				"Label": "D",
+				"Text": "[D]for"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[B]until"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：时间逻辑关系"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：根据原文，"
+			}, {
+				"QType": "1",
+				"QContent": "“____他们在附近建造一栋新房子"
+			}, {
+				"QType": "1",
+				"QContent": "” [A]"
+			}, {
+				"QType": "1",
+				"QContent": "然而"
+			}, {
+				"QType": "1",
+				"QContent": "[B]"
+			}, {
+				"QType": "1",
+				"QContent": "直到 "
+			}, {
+				"QType": "1",
+				"QContent": "[C]"
+			}, {
+				"QType": "1",
+				"QContent": "为 "
+			}, {
+				"QType": "1",
+				"QContent": "[D]"
+			}, {
+				"QType": "1",
+				"QContent": "如果 结合语境，"
+			}, {
+				"QType": "1",
+				"QContent": "[B]"
+			}, {
+				"QType": "1",
+				"QContent": "直到最符合原文语境，搭配最为合理。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722887",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "14"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]obtain"
+			}, {
+				"Label": "B",
+				"Text": "[B]follow"
+			}, {
+				"Label": "C",
+				"Text": "[C]challenge"
+			}, {
+				"Label": "D",
+				"Text": "[D]avoid"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[A]obtain"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及动词词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：Divorce is legal and relatively easy to __14__，"
+			}, {
+				"QType": "1",
+				"QContent": "but not common"
+			}, {
+				"QType": "1",
+				"QContent": "。该句句意为离婚是合法的，且相对容易"
+			}, {
+				"QType": "1",
+				"QContent": "____"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": "A. obtain"
+			}, {
+				"QType": "1",
+				"QContent": "获得"
+			}, {
+				"QType": "1",
+				"QContent": "B.follow "
+			}, {
+				"QType": "1",
+				"QContent": "跟随"
+			}, {
+				"QType": "1",
+				"QContent": "C.challenge"
+			}, {
+				"QType": "1",
+				"QContent": "挑战，质疑"
+			}, {
+				"QType": "1",
+				"QContent": "D. avoid "
+			}, {
+				"QType": "1",
+				"QContent": "避免。这里出现"
+			}, {
+				"QType": "1",
+				"QContent": "and"
+			}, {
+				"QType": "1",
+				"QContent": "，所以对于离婚这件事不可能是避免或是挑战，但是跟随和离婚之间语义不符，但是获得离婚（的批准）是可以的。选"
+			}, {
+				"QType": "1",
+				"QContent": "A"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722888",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "15"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]isolated"
+			}, {
+				"Label": "B",
+				"Text": "[B]persuaded"
+			}, {
+				"Label": "C",
+				"Text": "[C]viewed"
+			}, {
+				"Label": "D",
+				"Text": "[D]exposed"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[C] viewed"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及动词词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：Divorced persons are __15__ with some disapproval。离婚的人"
+			}, {
+				"QType": "1",
+				"QContent": "…"
+			}, {
+				"QType": "1",
+				"QContent": "一些不赞同。在段首，已经注明离婚是合法的且相对容易得到批准，但是不常见。这说明离婚在现实中肯定是不太受到人们的欢迎的。而接下来这句就说离婚的人"
+			}, {
+				"QType": "1",
+				"QContent": "…"
+			}, {
+				"QType": "1",
+				"QContent": "一些不赞同。再看选项："
+			}, {
+				"QType": "1",
+				"QContent": "A.isolated"
+			}, {
+				"QType": "1",
+				"QContent": "孤立 "
+			}, {
+				"QType": "1",
+				"QContent": "B.persuaded"
+			}, {
+				"QType": "1",
+				"QContent": "劝说"
+			}, {
+				"QType": "1",
+				"QContent": "C.viewed"
+			}, {
+				"QType": "1",
+				"QContent": "看做 "
+			}, {
+				"QType": "1",
+				"QContent": "D.exposed"
+			}, {
+				"QType": "1",
+				"QContent": "接触，受到"
+			}, {
+				"QType": "1",
+				"QContent": "…"
+			}, {
+				"QType": "1",
+				"QContent": "的影响"
+			}, {
+				"QType": "1",
+				"QContent": "C"
+			}, {
+				"QType": "1",
+				"QContent": "选项固定搭配被认为。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722889",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "16"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]whatever"
+			}, {
+				"Label": "B",
+				"Text": "[B]however"
+			}, {
+				"Label": "C",
+				"Text": "[C]whenever"
+			}, {
+				"Label": "D",
+				"Text": "[D]wherever"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[A]whatever"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：语法"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：Each spouse retains __16__ property he or she _17_ into the marriage，"
+			}, {
+				"QType": "1",
+				"QContent": "17"
+			}, {
+				"QType": "1",
+				"QContent": "个空对应的都是动词，所以该句意思为：夫妇双方保有"
+			}, {
+				"QType": "1",
+				"QContent": "…"
+			}, {
+				"QType": "1",
+				"QContent": "财产，这个财产是他或她"
+			}, {
+				"QType": "1",
+				"QContent": "…"
+			}, {
+				"QType": "1",
+				"QContent": "（动词）进婚姻的。 结合选项"
+			}, {
+				"QType": "1",
+				"QContent": "A.whatever“"
+			}, {
+				"QType": "1",
+				"QContent": "无论什么；任何（东西）"
+			}, {
+				"QType": "1",
+				"QContent": "=anything that/any+N that”"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": "B.however "
+			}, {
+				"QType": "1",
+				"QContent": "无论如何；无论多么"
+			}, {
+				"QType": "1",
+				"QContent": "C.whenever"
+			}, {
+				"QType": "1",
+				"QContent": "无论何时；任何（时间"
+			}, {
+				"QType": "1",
+				"QContent": "=any time when"
+			}, {
+				"QType": "1",
+				"QContent": "）。根据语义"
+			}, {
+				"QType": "1",
+				"QContent": "D.whenever“"
+			}, {
+				"QType": "1",
+				"QContent": "无论何地；任何（地方）"
+			}, {
+				"QType": "1",
+				"QContent": "=any place where"
+			}, {
+				"QType": "1",
+				"QContent": "（定从）"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "。，这里应该不是让步的关系，而且填的这个词还要能修饰"
+			}, {
+				"QType": "1",
+				"QContent": "property"
+			}, {
+				"QType": "1",
+				"QContent": "。因此，选择"
+			}, {
+				"QType": "1",
+				"QContent": "A =retains any property that he or she …"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722890",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "17"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]changed"
+			}, {
+				"Label": "B",
+				"Text": "[B]brought"
+			}, {
+				"Label": "C",
+				"Text": "[C]shaped"
+			}, {
+				"Label": "D",
+				"Text": "[D]pushed"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "： [B]brought"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及动词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：Each spouse retains __16__property he or she _17_ into the marriage，结合选项"
+			}, {
+				"QType": "1",
+				"QContent": "A changed“"
+			}, {
+				"QType": "1",
+				"QContent": "改变"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": "B.brought “"
+			}, {
+				"QType": "1",
+				"QContent": "带来"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": "C.shaped“"
+			}, {
+				"QType": "1",
+				"QContent": "形成"
+			}, {
+				"QType": "1",
+				"QContent": "” D.pushed“"
+			}, {
+				"QType": "1",
+				"QContent": "推，逼迫"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "。结合语境只有"
+			}, {
+				"QType": "1",
+				"QContent": "B"
+			}, {
+				"QType": "1",
+				"QContent": "符合，把财产带入婚姻。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722891",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "18"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]withdrawn"
+			}, {
+				"Label": "B",
+				"Text": "[B]invested"
+			}, {
+				"Label": "C",
+				"Text": "[C]donated"
+			}, {
+				"Label": "D",
+				"Text": "[D]divided"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D]divided"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义及动词义辨析"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：…and jointly-acquired property is _18_equally。结合选项"
+			}, {
+				"QType": "1",
+				"QContent": "A. withdrawn"
+			}, {
+				"QType": "1",
+				"QContent": "撤出，提取。"
+			}, {
+				"QType": "1",
+				"QContent": "B. invested"
+			}, {
+				"QType": "1",
+				"QContent": "投资"
+			}, {
+				"QType": "1",
+				"QContent": "C.donated "
+			}, {
+				"QType": "1",
+				"QContent": "捐赠"
+			}, {
+				"QType": "1",
+				"QContent": "D. divided"
+			}, {
+				"QType": "1",
+				"QContent": "平分。根据语义应该是共同财产被（夫妻双方）平分。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722892",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "19"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]breaks"
+			}, {
+				"Label": "B",
+				"Text": "[B]warms"
+			}, {
+				"Label": "C",
+				"Text": "[C]shows"
+			}, {
+				"Label": "D",
+				"Text": "[D]clears"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "： [C]shows"
+			}, {
+				"QType": "1",
+				"QContent": "考点分析"
+			}, {
+				"QType": "1",
+				"QContent": "：动词固定搭配"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": " 解析"
+			}, {
+				"QType": "1",
+				"QContent": "：Divorced persons may remarry，"
+			}, {
+				"QType": "1",
+				"QContent": "but a gender prejudice _19_up"
+			}, {
+				"QType": "1",
+				"QContent": "。该句语义为离过婚的人或许会再婚，但是性别偏见"
+			}, {
+				"QType": "1",
+				"QContent": "…"
+			}, {
+				"QType": "1",
+				"QContent": "。结合选项"
+			}, {
+				"QType": "1",
+				"QContent": "A. break"
+			}, {
+				"QType": "1",
+				"QContent": "（"
+			}, {
+				"QType": "1",
+				"QContent": "up"
+			}, {
+				"QType": "1",
+				"QContent": "）分裂，分开"
+			}, {
+				"QType": "1",
+				"QContent": "B. warm"
+			}, {
+				"QType": "1",
+				"QContent": "（"
+			}, {
+				"QType": "1",
+				"QContent": "up"
+			}, {
+				"QType": "1",
+				"QContent": "）加热"
+			}, {
+				"QType": "1",
+				"QContent": "C.show "
+			}, {
+				"QType": "1",
+				"QContent": "（"
+			}, {
+				"QType": "1",
+				"QContent": "up"
+			}, {
+				"QType": "1",
+				"QContent": "）显现"
+			}, {
+				"QType": "1",
+				"QContent": "D. clear"
+			}, {
+				"QType": "1",
+				"QContent": "（"
+			}, {
+				"QType": "1",
+				"QContent": "up"
+			}, {
+				"QType": "1",
+				"QContent": "） 变晴；显然"
+			}, {
+				"QType": "1",
+				"QContent": "C"
+			}, {
+				"QType": "1",
+				"QContent": "是正确选项。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "722893",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "5",
+			"QuanZhanRightRate": "20.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "20"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]that"
+			}, {
+				"Label": "B",
+				"Text": "[B]while"
+			}, {
+				"Label": "C",
+				"Text": "[C]once"
+			}, {
+				"Label": "D",
+				"Text": "[D]inthat"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[B]while"
+			}, {
+				"QType": "1",
+				"QContent": "选项分析"
+			}, {
+				"QType": "1",
+				"QContent": "：上下文语义"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：很明显的两类人的对比比较关系。只能选择"
+			}, {
+				"QType": "1",
+				"QContent": "while。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "10",
+		"QuanZhanRightRate": "40.0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "2",
+		"SbjId": "239902",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Section Ⅱ Reading comprehension"
+		}, {
+			"QType": "1",
+			"QContent": "Part A"
+		}, {
+			"QType": "1",
+			"QContent": "Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Read the following four passages. Answer the questions below each passage by choosing A, B ,C and D. Mark your answers on ANSWER SHEET .(40 points)"
+		}, {
+			"QType": "1",
+			"QContent": "Text 1"
+		}, {
+			"QType": "1",
+			"QContent": "France, which prides itself as the global innovator of fashion, has decided its fashion industry has lost an absolute right to define physical beauty for women. Its lawmakers gave preliminary approval last week to a law that would make it a crime to employ ultra-thin models on runaways. The parliament also agreed to ban websites that “incite excessive thinness” by promoting extreme dieting."
+		}, {
+			"QType": "1",
+			"QContent": "Such measures have a couple of uplifting motives. They suggest beauty should not be defined by looks that end up impinging on health. That's a start. And the ban on ultra-thin models seems to go beyond protecting models from starving themselves to death-as some have done. It tells the fashion industry that it must take responsibility for the signal it sends women, especially teenage girls, about the social tape-measure they must use to determine their individual worth."
+		}, {
+			"QType": "1",
+			"QContent": "The bans, if fully enforced, would suggest to women (and many men) that they should not let others be arbiters of their beauty. And perhaps faintly, they hint that people should look to intangible qualities like character and intellect rather than dieting their way to size zero or wasp-waist physiques."
+		}, {
+			"QType": "1",
+			"QContent": "The French measures, however, rely too much on severe punishment to change a culture that still regards beauty as skin-deep—and bone-showing. Under the law, using a fashion model that does not meet a government-defined index of body mass could result in a $85,000 fine and six months in prison."
+		}, {
+			"QType": "1",
+			"QContent": "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types. In Denmark, the United States, and a few other countries, it is trying to set voluntary standards for models and fashion images that rely more on peer pressure for enforcement."
+		}, {
+			"QType": "1",
+			"QContent": "In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models. The newly revised Danish Fashion Ethical Charter clearly states: “We are aware of and take responsibility for the impact the fashion industry has on body ideals, especially on young people.” The charter's main tool of enforcement is to deny access for designers and modeling agencies to Copenhagen Fashion Week (CFW), which is run by the Danish Fashion Institute. But in general it relies on a name-and-shame method of compliance."
+		}, {
+			"QType": "1",
+			"QContent": "Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step. Even better would be to help elevate notions of beauty beyond the material standards of a particular industry. "
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "239902",
+		"SbjSubContentList": [{
+			"SbjId": "1764681",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "10",
+			"QuanZhanRightRate": "40.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "21. According to the first paragraph, what would happen in France?"
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]New runways would be constructed."
+			}, {
+				"Label": "B",
+				"Text": "[B]Physical beauty would be redefined."
+			}, {
+				"Label": "C",
+				"Text": "[C]Websites about dieting would thrive."
+			}, {
+				"Label": "D",
+				"Text": "[D]The fashion industry would decline."
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[B]Physical beauty would be redefined"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：这是一道细节题，根据"
+			}, {
+				"QType": "1",
+				"QContent": "France定位到第一段第一句，主干成分为"
+			}, {
+				"QType": "1",
+				"QContent": "France has lost an absolute right to define physical beauty"
+			}, {
+				"QType": "1",
+				"QContent": "。此外第二段第二句"
+			}, {
+				"QType": "1",
+				"QContent": "They suggest beauty should not be define by looks…"
+			}, {
+				"QType": "1",
+				"QContent": "故而"
+			}, {
+				"QType": "1",
+				"QContent": "A physical beauty would be redefined"
+			}, {
+				"QType": "1",
+				"QContent": "为同义替换，即为正确答案。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764682",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "10",
+			"QuanZhanRightRate": "40.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "22. The phrase “impinging on” (Line2, Para.2) is closest in meaning to____."
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]heightening the value of."
+			}, {
+				"Label": "B",
+				"Text": "[B]indicating the state of."
+			}, {
+				"Label": "C",
+				"Text": "[C]losing faith in."
+			}, {
+				"Label": "D",
+				"Text": "[D]doing harm to."
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D] doing harm to"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：此题为词义题。定位到第二段第二句"
+			}, {
+				"QType": "1",
+				"QContent": "They suggest beauty should not be defined by looks that end up impinging on health。根据"
+			}, {
+				"QType": "1",
+				"QContent": "end up"
+			}, {
+				"QType": "1",
+				"QContent": "可以看出"
+			}, {
+				"QType": "1",
+				"QContent": "beauty should not be defined by looks "
+			}, {
+				"QType": "1",
+				"QContent": "和"
+			}, {
+				"QType": "1",
+				"QContent": "that end up impinging on health"
+			}, {
+				"QType": "1",
+				"QContent": "为顺承关系，所以"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "改变人们对美不仅仅是外表的定义"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "可以结束对健康的危害。故而可以推知"
+			}, {
+				"QType": "1",
+				"QContent": "doing harm to"
+			}, {
+				"QType": "1",
+				"QContent": "是正确答案。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764683",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "10",
+			"QuanZhanRightRate": "40.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "23. Which of the following is true of the fashion industry?"
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]New standards are being set in Denmark."
+			}, {
+				"Label": "B",
+				"Text": "[B]The French measures have already failed."
+			}, {
+				"Label": "C",
+				"Text": "[C]Models are no longer under peer pressure."
+			}, {
+				"Label": "D",
+				"Text": "[D]Its inherent problems are getting worse."
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[A] New Standards are being set in Denmark"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：此题是正误判断题。根据第五段第二句话"
+			}, {
+				"QType": "1",
+				"QContent": " In Denmark，"
+			}, {
+				"QType": "1",
+				"QContent": "…it is trying to set voluntary standards for models and fashion…"
+			}, {
+				"QType": "1",
+				"QContent": "可知"
+			}, {
+				"QType": "1",
+				"QContent": "A"
+			}, {
+				"QType": "1",
+				"QContent": "选项 "
+			}, {
+				"QType": "1",
+				"QContent": "New standards are being set in Denmark"
+			}, {
+				"QType": "1",
+				"QContent": "是其同义替换。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764684",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "10",
+			"QuanZhanRightRate": "40.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "24. A designer is most likely to be rejected by CFW for____."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]pursuing perfect physical conditions."
+			}, {
+				"Label": "B",
+				"Text": "[B]caring too much about models’ character."
+			}, {
+				"Label": "C",
+				"Text": "[C]showing little concern for health factors."
+			}, {
+				"Label": "D",
+				"Text": "[D]setting a high age threshold for models."
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[C] showing little concern for health factors"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：细节题。一个设计师很可能因为什么原因被"
+			}, {
+				"QType": "1",
+				"QContent": "CFW拒绝，根据关键词可回到文中定位至倒数第二段，首句说丹麦的时尚界就有关模特的年龄，健康及其他特性的内容达成一致意见，切一项新法案也明确规定，他们已经意识到时尚界对于人们尤其是年轻人的身体健康所带来的影响，并且该对此负责，接着下一句就说，这一法规的执行方式就是拒绝一些设计师，因为可以推断设计师很可能因为不考虑身体健康因素而被"
+			}, {
+				"QType": "1",
+				"QContent": "CFW"
+			}, {
+				"QType": "1",
+				"QContent": "拒绝。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764685",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "10",
+			"QuanZhanRightRate": "40.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "25. Which of the following may be the best title of the text?"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]A Challenge to the Fashion Industry’s Body Ideals"
+			}, {
+				"Label": "B",
+				"Text": "[B]A Dilemma for the Starving Models in France"
+			}, {
+				"Label": "C",
+				"Text": "[C]Just Another Round of Struggle for Beauty"
+			}, {
+				"Label": "D",
+				"Text": "[D]The Great Threats to the Fashion Industry"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[A]A challenge to the Fashion Industry’s Body Ideals"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：主旨题。本文从首段就开始阐述法国的观点，即时尚界已经失去了定义女性身体之美的权利，且议会也禁止网站通过宣传过度节食来强调过度消瘦。二段继续说明美丽不能只看外表更不能以牺牲健康为代价。三段说女性不该让他人来评判自己的美丽。以及后面的段落中也一直在不断说明一点，即健康很重要，不能只看外表。所以文章最佳标题应该是"
+			}, {
+				"QType": "1",
+				"QContent": "A，对时尚界完美身材的质疑。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "8",
+		"QuanZhanRightRate": "50.0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "3",
+		"SbjId": "239908",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Text 2"
+		}, {
+			"QType": "1",
+			"QContent": "For the first time in history more people live in towns than in the country. In Britain this has had a curious result. While polls show Britons rate “the countryside” alongside the royal family, Shakespeare and the National Health Service (NHS) as what makes them proudest of their country, this has limited political support."
+		}, {
+			"QType": "1",
+			"QContent": "A century ago Octavia Hill launched the National Trust not to rescue stylish houses but to save “the beauty of natural places for everyone forever.” It was specifically to provide city dwellers with spaces for leisure where they could experience “a refreshing air.” Hill's pressures later led to the creation of national parks and green belts. They don't make countryside any more, and every year concrete consumes more of it. It needs constant guardianship."
+		}, {
+			"QType": "1",
+			"QContent": "At the next election none of the big parties seem likely to endorse this sentiment. The Conservatives' planning reform explicitly gives rural development priority over conservation, even authorizing “off-plan” building where local people might object. The concept of sustainable development has been defined as profitable. Labour likewise wants to discontinue local planning where councils oppose development. The Liberal Democrats are silent. Only Ukip, sensing its chance, has sided with those pleading for a more considered approach to using green land. Its Campaign to Protect Rural England struck terror into many local Conservative parties."
+		}, {
+			"QType": "1",
+			"QContent": "The sensible place to build new houses, factories and offices is where people are, in cities and towns where infrastructure is in place. The London agents Stirling Ackroyd recently identified enough sites for half a million houses in the London area alone, with no intrusion on green belt. What is true of London is even truer of the provinces."
+		}, {
+			"QType": "1",
+			"QContent": "The idea that “housing crisis” equals “concreted meadows” is pure lobby talk. The issue is not the need for more houses but, as always, where to put them. Under lobby pressure, George Osborne favours rural new-build against urban renovation and renewal. He favours out-of-town shopping sites against high streets. This is not a free market but a biased one. Rural towns and villages have grown and will always grow. They do so best where building sticks to their edges and respects their character. We do not ruin urban conservation areas. Why ruin rural ones?"
+		}, {
+			"QType": "1",
+			"QContent": "Development should be planned, not let rip. After the Netherlands, Britain is Europe's most crowded country. Half a century of town and country planning has enabled it to retain an enviable rural coherence, while still permitting low-density urban living. There is no doubt of the alternative—the corrupted landscapes of southern Portugal, Spain or Ireland. Avoiding this rather than promoting it should unite the left and right of the political spectrum. "
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "239908",
+		"SbjSubContentList": [{
+			"SbjId": "1764686",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "50.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "26. Britain's public sentiment about the countryside____."
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]didn't start till the Shakespearean age."
+			}, {
+				"Label": "B",
+				"Text": "[B]has brought much benefit to the NHS."
+			}, {
+				"Label": "C",
+				"Text": "[C]is fully backed by the royal family."
+			}, {
+				"Label": "D",
+				"Text": "[D]is not well reflected in politics."
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D] is not well reflected in politics"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：细节题。精读题干，划出关键词。根据题干回到原文精确定位到首段最后一句，该句中的"
+			}, {
+				"QType": "1",
+				"QContent": "polls民意调查对应题干中的"
+			}, {
+				"QType": "1",
+				"QContent": "public sentiment"
+			}, {
+				"QType": "1",
+				"QContent": "，定位答案处为 "
+			}, {
+				"QType": "1",
+				"QContent": "“this has limited political support”"
+			}, {
+				"QType": "1",
+				"QContent": "，意思为这在政治支持方面是有限的。与"
+			}, {
+				"QType": "1",
+				"QContent": "D"
+			}, {
+				"QType": "1",
+				"QContent": "选项"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "在政治上没有得到很好的反响"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "为同义替换。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764687",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "50.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "27. According to Paragraph 2, the achievements of the National Trust are now being____."
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]gradually destroyed."
+			}, {
+				"Label": "B",
+				"Text": "[B]effectively reinforced."
+			}, {
+				"Label": "C",
+				"Text": "[C]largely overshadowed."
+			}, {
+				"Label": "D",
+				"Text": "[D]properly protected."
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[A] gradually destroyed"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：推理判断题。通过对第二段第"
+			}, {
+				"QType": "1",
+				"QContent": "4句的理解（国家公园及绿化带不再是农村的一部分，而每年现代建筑都在吞噬着越来越多的农村地区），可以推知"
+			}, {
+				"QType": "1",
+				"QContent": "A"
+			}, {
+				"QType": "1",
+				"QContent": "项"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "逐渐破坏"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "正确。提干问的是现在的情况，而不是以往的成绩，"
+			}, {
+				"QType": "1",
+				"QContent": "B"
+			}, {
+				"QType": "1",
+				"QContent": "项"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "有效加强"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "是过去的事情，排除。"
+			}, {
+				"QType": "1",
+				"QContent": "C"
+			}, {
+				"QType": "1",
+				"QContent": "项"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "大大盖过"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "需要对"
+			}, {
+				"QType": "1",
+				"QContent": "overshadow"
+			}, {
+				"QType": "1",
+				"QContent": "一词作出正确的理解，参看英语解释"
+			}, {
+				"QType": "1",
+				"QContent": "If you are overshadowed by a person or thing, you are less successful, important, or impressive than they are. "
+			}, {
+				"QType": "1",
+				"QContent": "可知"
+			}, {
+				"QType": "1",
+				"QContent": "overshadow"
+			}, {
+				"QType": "1",
+				"QContent": "用在两者比较而相形见绌，这里并没有指出还有别的类似"
+			}, {
+				"QType": "1",
+				"QContent": "National Trust"
+			}, {
+				"QType": "1",
+				"QContent": "的机构做出了比它更大的成就，所以排除。"
+			}, {
+				"QType": "1",
+				"QContent": "D"
+			}, {
+				"QType": "1",
+				"QContent": "项"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "恰当保护"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "为方向干扰，第二段"
+			}, {
+				"QType": "1",
+				"QContent": "5"
+			}, {
+				"QType": "1",
+				"QContent": "句明确指出需要不断保护。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764688",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "50.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "28. Which of the following can be inferred from Paragraph 3?"
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]Labour is under attack for opposing development."
+			}, {
+				"Label": "B",
+				"Text": "[B]The Conservatives may abandon “off-plan” building."
+			}, {
+				"Label": "C",
+				"Text": "[C]The Liberal Democrats are losing political influence."
+			}, {
+				"Label": "D",
+				"Text": "[D]Ukip may gain from its support for rural conservation."
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D] Ukip may gain from its support for rural conservation"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：推断题。题干问的是从第三段能推出什么，考察的是相应段落的段落中心。观察选项不难发现，选项中都是大写的"
+			}, {
+				"QType": "1",
+				"QContent": "Ukip，"
+			}, {
+				"QType": "1",
+				"QContent": "The Conservatives"
+			}, {
+				"QType": "1",
+				"QContent": "，"
+			}, {
+				"QType": "1",
+				"QContent": "The Liberal Democrats"
+			}, {
+				"QType": "1",
+				"QContent": "，"
+			}, {
+				"QType": "1",
+				"QContent": "Labour"
+			}, {
+				"QType": "1",
+				"QContent": "。可根据选项中的大写回段落中寻找，发现"
+			}, {
+				"QType": "1",
+				"QContent": "Ukip"
+			}, {
+				"QType": "1",
+				"QContent": "所在的定位句为"
+			}, {
+				"QType": "1",
+				"QContent": "Only"
+			}, {
+				"QType": "1",
+				"QContent": "的倒装强调句（倒装强调句往往为答案所在处）。该句子意思是：只有"
+			}, {
+				"QType": "1",
+				"QContent": "Ukip"
+			}, {
+				"QType": "1",
+				"QContent": "意识到其机会，并支持这些人。和选项"
+			}, {
+				"QType": "1",
+				"QContent": "D"
+			}, {
+				"QType": "1",
+				"QContent": "对应一下，"
+			}, {
+				"QType": "1",
+				"QContent": "Ukip"
+			}, {
+				"QType": "1",
+				"QContent": "可能能从其对农村保护的支持中获得好处，是同义替换。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764689",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "50.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "29. The author holds that George Osborne's preference____."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]highlights his firm stand against lobby pressure."
+			}, {
+				"Label": "B",
+				"Text": "[B]shows his disregard for the character of rural areas."
+			}, {
+				"Label": "C",
+				"Text": "[C]stresses the necessity of easing the housing crisis."
+			}, {
+				"Label": "D",
+				"Text": "[D]reveals a strong prejudice against urban areas."
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[B] Shows his disregard for the character of rural areas"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：细节题"
+			}, {
+				"QType": "1",
+				"QContent": " 问的是作者对于奥斯本的偏好（观点）的具体看法。根据关键词奥斯本定位至第五段，因为问的是作者对于奥斯本观点的看法，所以只需要看在奥斯本的观点之后作者的表达内容，第五段倒数两句话就是作者表达自己观点的地方，即"
+			}, {
+				"QType": "1",
+				"QContent": "“我们没有破坏城市中受到保护的地方"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "，"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "你们为什么要破坏乡村的呢？"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "这就说明奥斯本一方的观点是要破坏乡村环境。所以可得出答案是奥斯本想法表明了他对于乡村人们的忽视。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764690",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "50.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "30. In the last paragraph, the author shows his appreciation of____."
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]the size of population in Britain."
+			}, {
+				"Label": "B",
+				"Text": "[B]the political life in today’s Britain."
+			}, {
+				"Label": "C",
+				"Text": "[C]the enviable urban lifestyle in Britain."
+			}, {
+				"Label": "D",
+				"Text": "[D]the town-and-country planning in Britain."
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D] the-town-and-country planning in Britain"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：根据题干定位到最后一段，问的是作者欣赏赞同什么，作者的观点即是文章末段的段落中心，可定位到末段末句。末句指出，避免"
+			}, {
+				"QType": "1",
+				"QContent": "this会将左右党派联系起来，"
+			}, {
+				"QType": "1",
+				"QContent": "this"
+			}, {
+				"QType": "1",
+				"QContent": "代词指代指代上句中所提到的内容。"
+			}, {
+				"QType": "1",
+				"QContent": "Should"
+			}, {
+				"QType": "1",
+				"QContent": "即作者赞同的地方，也就是作者赞同的是城乡结合。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "8",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "4",
+		"SbjId": "239914",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Text 3"
+		}, {
+			"QType": "1",
+			"QContent": "“There is one and only one social responsibility of business,” wrote Milton Friedman, a Nobel prize-winning economist “That is, to use its resources and engage in activities designed to increase its profits.” But even if you accept Fiedman’s premise and regard corporate social responsibility (CSR) policies as a waste of shareholders money, things may not be absolutely clear-cut. New research suggests that CSR may create monetary value for companies —at least when they are prosecuted for corruption."
+		}, {
+			"QType": "1",
+			"QContent": "The largest firms in America and Britain together spend more than $15 billion a year on CSR , according to an estimate by EPG, a consulting firm .This could add value to their businesses in three ways. First, consumers may take CSR spending as a “signal” that a company’s products are of high quality. Second, customers may be willing to buy a company’s products as an indirect way to donate to the good causes is helps. And third, through a more diffuse “halo effect,” whereby its good deeds earn it greater consideration from consumers and others."
+		}, {
+			"QType": "1",
+			"QContent": "Previous studies on CSR have had trouble differentiating these effects because consumers can be affected by all three. A recent study attempts to separate them by looking at bribery prosecutions under America’s Foreign Corrupt Practices Act (FCPA). It argues that since prosecutors do not consume a company's products as part of their investigations, they could be influenced only by the halo effect."
+		}, {
+			"QType": "1",
+			"QContent": "The study found that, among prosecuted firms, those with the most comprehensive CSR programmers tended to get more lenient penalties. Their analysis ruled out the possibility that it was firms' political influence, rather than their CSR stand, that accounted for the leniency: Companies that contributed more to political campaigns did not receive lower fines."
+		}, {
+			"QType": "1",
+			"QContent": "In all, the study concludes that whereas prosecutors should only evaluate a case based on its merits, they do seem to be influenced by a company’s record in CSR. We estimate that either eliminating a substantial labour-rights concern, such as child labour, or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment for bribing foreign officials, says one researcher."
+		}, {
+			"QType": "1",
+			"QContent": "Researchers admit that their study does not answer the question of how much businesses ought to spend on CSR. Nor does it reveal how much companies are banking on the halo effect, rather than the other possible benefits, when they decide their do-gooding policies. But at least they have demonstrated that when companies get into trouble with the law, evidence of good character can win them a less costly punishment. "
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "239914",
+		"SbjSubContentList": [{
+			"SbjId": "1764692",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "31. The author views Milton Friedman’s statement about CSR with____."
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]uncertainty"
+			}, {
+				"Label": "B",
+				"Text": "[B]skepticism"
+			}, {
+				"Label": "C",
+				"Text": "[C]approval"
+			}, {
+				"Label": "D",
+				"Text": "[D]tolerance"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[B] Skepticism"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：作者观点态度题。题干问的是作者对有关"
+			}, {
+				"QType": "1",
+				"QContent": "CSR方面"
+			}, {
+				"QType": "1",
+				"QContent": "Milton Friedman"
+			}, {
+				"QType": "1",
+				"QContent": "的说法是什么态度。根据大写"
+			}, {
+				"QType": "1",
+				"QContent": "Milton Friedman"
+			}, {
+				"QType": "1",
+				"QContent": "这个人定位到定位到首段首句。注意题干问的是作者的看法，因此定位到后一句"
+			}, {
+				"QType": "1",
+				"QContent": "but"
+			}, {
+				"QType": "1",
+				"QContent": "转折处。转折处的主题句式"
+			}, {
+				"QType": "1",
+				"QContent": "“things may not absolutely clear-cut”"
+			}, {
+				"QType": "1",
+				"QContent": "，作者持的是否定态度，选择答案"
+			}, {
+				"QType": "1",
+				"QContent": "B"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": "A"
+			}, {
+				"QType": "1",
+				"QContent": "选项是作者态度不明确，不能选择。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764693",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "32. According to Paragraph 2, CSR helps a company by____."
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]guarding it against malpractices"
+			}, {
+				"Label": "B",
+				"Text": "[B]protecting it from being defamed"
+			}, {
+				"Label": "C",
+				"Text": "[C]winning trust from consumers."
+			}, {
+				"Label": "D",
+				"Text": "[D]raising the quality of its products"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[C] winning trust from consumers"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：根据题干找到第二段。根据第二段内容，"
+			}, {
+				"QType": "1",
+				"QContent": "CSR could add value to their business in three ways。 从而定位下面三点。"
+			}, {
+				"QType": "1",
+				"QContent": "First"
+			}, {
+				"QType": "1",
+				"QContent": "后面出现了"
+			}, {
+				"QType": "1",
+				"QContent": "high quality"
+			}, {
+				"QType": "1",
+				"QContent": "，但是它是在从句中，从句修饰"
+			}, {
+				"QType": "1",
+				"QContent": "“signal”"
+			}, {
+				"QType": "1",
+				"QContent": "，而本句谓语动词是"
+			}, {
+				"QType": "1",
+				"QContent": "take"
+			}, {
+				"QType": "1",
+				"QContent": "，与"
+			}, {
+				"QType": "1",
+				"QContent": "D"
+			}, {
+				"QType": "1",
+				"QContent": "中 "
+			}, {
+				"QType": "1",
+				"QContent": "raising "
+			}, {
+				"QType": "1",
+				"QContent": "并不是同义词，故排除。"
+			}, {
+				"QType": "1",
+				"QContent": "Second"
+			}, {
+				"QType": "1",
+				"QContent": "，和"
+			}, {
+				"QType": "1",
+				"QContent": "third "
+			}, {
+				"QType": "1",
+				"QContent": "都与消费者购买心态有关，和"
+			}, {
+				"QType": "1",
+				"QContent": "C"
+			}, {
+				"QType": "1",
+				"QContent": "选项 "
+			}, {
+				"QType": "1",
+				"QContent": "winning trust from consumers "
+			}, {
+				"QType": "1",
+				"QContent": "相对应。而"
+			}, {
+				"QType": "1",
+				"QContent": "A"
+			}, {
+				"QType": "1",
+				"QContent": "，"
+			}, {
+				"QType": "1",
+				"QContent": "B"
+			}, {
+				"QType": "1",
+				"QContent": "选项的"
+			}, {
+				"QType": "1",
+				"QContent": "malpractices"
+			}, {
+				"QType": "1",
+				"QContent": "和"
+			}, {
+				"QType": "1",
+				"QContent": "defamed"
+			}, {
+				"QType": "1",
+				"QContent": "在原文中并未出现，且没有同义词，故排除。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764694",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "33. The expression more lenient(line 2, Para.4)is closest in meaning to____."
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]less controversial"
+			}, {
+				"Label": "B",
+				"Text": "[B]more lasting"
+			}, {
+				"Label": "C",
+				"Text": "[C]more effective"
+			}, {
+				"Label": "D",
+				"Text": "[D]less severe"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D] less severe"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：根据题干找到第四段对应处。可见题干的"
+			}, {
+				"QType": "1",
+				"QContent": " more lenient 是作为修饰 "
+			}, {
+				"QType": "1",
+				"QContent": "penalties"
+			}, {
+				"QType": "1",
+				"QContent": "（惩罚） 的，故推测本句在讨论 "
+			}, {
+				"QType": "1",
+				"QContent": "CSR "
+			}, {
+				"QType": "1",
+				"QContent": "和 "
+			}, {
+				"QType": "1",
+				"QContent": "penalties "
+			}, {
+				"QType": "1",
+				"QContent": "有什么联系。而本段与惩罚相关的词只有最后一个词 "
+			}, {
+				"QType": "1",
+				"QContent": "fines"
+			}, {
+				"QType": "1",
+				"QContent": "（罚金），修饰它的形容词是"
+			}, {
+				"QType": "1",
+				"QContent": "lower"
+			}, {
+				"QType": "1",
+				"QContent": "， 故可推测 "
+			}, {
+				"QType": "1",
+				"QContent": "more lenient "
+			}, {
+				"QType": "1",
+				"QContent": "与降低惩罚有关，只有"
+			}, {
+				"QType": "1",
+				"QContent": "D"
+			}, {
+				"QType": "1",
+				"QContent": "选项满足。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764695",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "34. When prosecutors evaluate a case, a company's CSR record____."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]comes across as reliable evidence"
+			}, {
+				"Label": "B",
+				"Text": "[B]has an impact on their decision"
+			}, {
+				"Label": "C",
+				"Text": "[C]increases the chance of being penalized"
+			}, {
+				"Label": "D",
+				"Text": "[D]constitutes part of the investigation"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[B] has an impact on their decision"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：题干中问的是"
+			}, {
+				"QType": "1",
+				"QContent": " CSR record 与 "
+			}, {
+				"QType": "1",
+				"QContent": "prosecutors evaluate a case "
+			}, {
+				"QType": "1",
+				"QContent": "的关系，根据题干内容到对应点：第五段第一句。本句说，"
+			}, {
+				"QType": "1",
+				"QContent": "…they do seem to be influenced by a company’s recore in CSR. 这里的"
+			}, {
+				"QType": "1",
+				"QContent": " be influenced 与B"
+			}, {
+				"QType": "1",
+				"QContent": "选项 "
+			}, {
+				"QType": "1",
+				"QContent": "has an impact "
+			}, {
+				"QType": "1",
+				"QContent": "对应，故选B"
+			}, {
+				"QType": "1",
+				"QContent": "。 而A"
+			}, {
+				"QType": "1",
+				"QContent": "选项中的 "
+			}, {
+				"QType": "1",
+				"QContent": "reliable evidence"
+			}, {
+				"QType": "1",
+				"QContent": "， "
+			}, {
+				"QType": "1",
+				"QContent": "C "
+			}, {
+				"QType": "1",
+				"QContent": "选项中的 "
+			}, {
+				"QType": "1",
+				"QContent": "the chance of being penalized "
+			}, {
+				"QType": "1",
+				"QContent": "在原文中没有体现。"
+			}, {
+				"QType": "1",
+				"QContent": "D"
+			}, {
+				"QType": "1",
+				"QContent": "选项中的 "
+			}, {
+				"QType": "1",
+				"QContent": "investigation "
+			}, {
+				"QType": "1",
+				"QContent": "与题干中的 "
+			}, {
+				"QType": "1",
+				"QContent": "When prosecutors evaluate a case "
+			}, {
+				"QType": "1",
+				"QContent": "明显对应不上，故不予考虑。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764696",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "35. Which of the following is true of CSR according to the last paragraph?"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] The necessary amount of companies spending on it is unknown"
+			}, {
+				"Label": "B",
+				"Text": "[B] Companies' financial capacity for it has been overestimated"
+			}, {
+				"Label": "C",
+				"Text": "[C] Its negative effects on businesses are often overlooked"
+			}, {
+				"Label": "D",
+				"Text": "[D]It has brought much benefit to the banking industry"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[B] The necessary amount of companies’ spending on it is unknown"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：该题是一道判断题，题干问的是有关"
+			}, {
+				"QType": "1",
+				"QContent": "CSR哪个是对的。先根据"
+			}, {
+				"QType": "1",
+				"QContent": "CSR"
+			}, {
+				"QType": "1",
+				"QContent": "回到最后一段，定位到末段首句。首句提到"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "研究人员承认到其研究没有回答如下问题：公司应该在"
+			}, {
+				"QType": "1",
+				"QContent": "CSR"
+			}, {
+				"QType": "1",
+				"QContent": "方面花费多少钱"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "。选项"
+			}, {
+				"QType": "1",
+				"QContent": "B"
+			}, {
+				"QType": "1",
+				"QContent": "的意思是公司在其方面的花费是未知的，属于原文的同义替换。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "8",
+		"QuanZhanRightRate": "62.50",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "5",
+		"SbjId": "239920",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Text 4"
+		}, {
+			"QType": "1",
+			"QContent": "There will eventually come a day when The New York Times ceases to publish stories on newsprint. Exactly when that day will be is a matter of debate. “Sometime in the future,” the paper's publisher said back in 2010."
+		}, {
+			"QType": "1",
+			"QContent": "Nostalgia for ink on paper and the rustle of pages aside ,there's plenty of incentive to ditch print.The infrastructure required to make a physical newspapers—printing presses, delivery truck—isn't just expensive; it's excessive at a time when online-only competitors don't have the same set financial constraints. Readers are migrating away from print away. And though print ad sales still dwarf their online and mobile counterparts, revenue from print is still declining."
+		}, {
+			"QType": "1",
+			"QContent": "Overhead may be high and circulation lower, but rushing to eliminate its print edition would be a mistake, says Buzz Feed CEO Jonah Peretti."
+		}, {
+			"QType": "1",
+			"QContent": "Peretti says the Times shouldn't waste time getting of the print business, but only if they go about doing it the right way “Figuring out a way to accelerate that transition would make sense for them, he said, “but if you discontinue it, you're going to have your most loyal customers really upset with you."
+		}, {
+			"QType": "1",
+			"QContent": "Sometimes that's worth making a change anyway. Peretti gives example of Netflix discontinuing its DVD-mailing service to focus on streaming. It was seen as a blunder. he said. The move turned out to be foresighted. And if Peretti were in charge at the Times? “l wouldn't pick a year to end print.  he said. “I would raise prices and make it into more of a legacy product.”"
+		}, {
+			"QType": "1",
+			"QContent": "The most loyal costumers would still get the product they favor, the idea goes, and they'd feel like they were helping sustain the quality of something they believe in. So if you're overpaying for print, you could feel like you were helping, Peretti said. Then increase it at a higher rate each year and essentially try to make a generate additional revenue. In other words, if you're going to print product, make it for the people who are already obsessed with it. Which may be what the Times is doing already. Getting the print edition seven days a week costs nearly $500 a year — more than twice as much as a digital-only subscription.   "
+		}, {
+			"QType": "1",
+			"QContent": "It's a really hard thing to do and it's a tremendous luxury that BuzzFeed doesn't have a legacy business, Peretti remarked. But we're going to have questions like that where we have things we're doing that don't make sense when the market changes and the world changes. In those situations, it's better to be more aggressive than less aggressive."
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "239920",
+		"SbjSubContentList": [{
+			"SbjId": "1764697",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "62.50",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "36.The New York Times is considering ending its print edition partly due to____."
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]the high cost of operation."
+			}, {
+				"Label": "B",
+				"Text": "[B]the pressure form its investors."
+			}, {
+				"Label": "C",
+				"Text": "[C]the complaints form its readers"
+			}, {
+				"Label": "D",
+				"Text": "[D]the increasing online ad sales."
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[A] the high cost of operation"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：因果细节题，问的是纽约时报考虑停止纸质版新闻印刷出版的原因是什么。文章首段首句即是此内容的同义表达，二段解释具体原因，二段二句内容"
+			}, {
+				"QType": "1",
+				"QContent": " The infrastructure isn’t just expensive； "
+			}, {
+				"QType": "1",
+				"QContent": "it’s excessive at a time when online-only competitors don’t have the same set of financial constraints"
+			}, {
+				"QType": "1",
+				"QContent": "。意思是维持纸质印刷的基础设施建设不仅仅是贵，是相当贵， 而他们的竞争对手却没有这样的经济上的限制。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764698",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "62.50",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "37.Peretti suggests that, in face of the present situation, the Times should____."
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]seek new sources of readership."
+			}, {
+				"Label": "B",
+				"Text": "[B]end the print edition for good."
+			}, {
+				"Label": "C",
+				"Text": "[C]aim for efficient management."
+			}, {
+				"Label": "D",
+				"Text": "[D]make strategic adjustments."
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D] make strategic adjustments"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：细节题，问的是面对目前的形势，"
+			}, {
+				"QType": "1",
+				"QContent": "Peretti建议时代杂志怎么做，根据关键词"
+			}, {
+				"QType": "1",
+				"QContent": "Peretti"
+			}, {
+				"QType": "1",
+				"QContent": "回文定位至第四段，首句内容是"
+			}, {
+				"QType": "1",
+				"QContent": "Peretti"
+			}, {
+				"QType": "1",
+				"QContent": "说时代杂志不该浪费时间去想着如何停止纸质印刷，而应该找到一种正确的方法去解决这件事。接着二句往后在具体说明该如何正确解决目前的问题。由此推出答案是"
+			}, {
+				"QType": "1",
+				"QContent": "D "
+			}, {
+				"QType": "1",
+				"QContent": "做出策略上的调整。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764699",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "62.50",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "38.It can inferred form Paragraphs 5 and 6 that a “legacy product” ____."
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]helps restore the glory of former times."
+			}, {
+				"Label": "B",
+				"Text": "[B]is meant for the most loyal customers."
+			}, {
+				"Label": "C",
+				"Text": "[C]will have the cost of printing reduced."
+			}, {
+				"Label": "D",
+				"Text": "[D]expands the popularity of the paper"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "： [B] is meant for the most loyal customers"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：推断题与词汇题的结合，要根据上下文来做出选择。首先定位在第五段最后一句："
+			}, {
+				"QType": "1",
+				"QContent": "I would raise prices and make it into more of a legacy product。 不仅要提高价格还要将它变为一种可以传承的产物。单单这一句不足以做出选择。需要继续往下看在第六段中有没有对于这个词的解释之类的。第六段开头提到了他认为"
+			}, {
+				"QType": "1",
+				"QContent": "most consumer "
+			}, {
+				"QType": "1",
+				"QContent": "依旧坚持去相信他们认为好的东西，喜欢的，相信的东西。如果可以每年增加一些比例，那么依旧是可以创收的。长篇大段的叙述可以让大家明白这个词一定跟"
+			}, {
+				"QType": "1",
+				"QContent": "consumer"
+			}, {
+				"QType": "1",
+				"QContent": "有关。最为关键的是：紧接着出现了 "
+			}, {
+				"QType": "1",
+				"QContent": "in other world"
+			}, {
+				"QType": "1",
+				"QContent": "，重述上文，不过却简洁的总结了前文。如果我们要做这些"
+			}, {
+				"QType": "1",
+				"QContent": "print product"
+			}, {
+				"QType": "1",
+				"QContent": "， 那就选择那些已经痴迷于他们的人吧。（那么对于他们来讲就是一件可以传承的东西了，以前喜欢，会依旧喜欢下去）。所以这句为做题的关键，对应同义替换，选择"
+			}, {
+				"QType": "1",
+				"QContent": "B"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": "A"
+			}, {
+				"QType": "1",
+				"QContent": "重建以往的关荣，与消费者关系不大"
+			}, {
+				"QType": "1",
+				"QContent": "C"
+			}, {
+				"QType": "1",
+				"QContent": "选项中的降低成本没有在文中相应位置涉及到。 "
+			}, {
+				"QType": "1",
+				"QContent": "D"
+			}, {
+				"QType": "1",
+				"QContent": "扩大受欢迎程度，范围过大。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764700",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "62.50",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "39.Peretti believes that, in a changing world,____."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]legacy businesses are becoming outdated ."
+			}, {
+				"Label": "B",
+				"Text": "[B]cautiousness facilitates problem-solving."
+			}, {
+				"Label": "C",
+				"Text": "[C]aggressiveness better meets challenges."
+			}, {
+				"Label": "D",
+				"Text": "[D]traditional luxuries can stay unaffected."
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[C] aggressiveness better meets challenges"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：观点态度题。偏细节题。定位"
+			}, {
+				"QType": "1",
+				"QContent": "Peretti在文中的观点，首次出现在第三段 "
+			}, {
+				"QType": "1",
+				"QContent": "overhead…but rushing to eliminate its print edition would be a mistake"
+			}, {
+				"QType": "1",
+				"QContent": "。并且一直贯穿于下文。我们首先从选项来看。"
+			}, {
+				"QType": "1",
+				"QContent": "D"
+			}, {
+				"QType": "1",
+				"QContent": "中"
+			}, {
+				"QType": "1",
+				"QContent": "…can stay unaffected "
+			}, {
+				"QType": "1",
+				"QContent": "过于绝对，不选。"
+			}, {
+				"QType": "1",
+				"QContent": "A"
+			}, {
+				"QType": "1",
+				"QContent": "选项中"
+			}, {
+				"QType": "1",
+				"QContent": "legacy business "
+			}, {
+				"QType": "1",
+				"QContent": "不是文中的讨论话题，所以可以直接排除。而"
+			}, {
+				"QType": "1",
+				"QContent": "B"
+			}, {
+				"QType": "1",
+				"QContent": "选项中谨慎可以促进问题的解决，在"
+			}, {
+				"QType": "1",
+				"QContent": "perreti"
+			}, {
+				"QType": "1",
+				"QContent": "的观点中根本没有体现，相反他建议要有所改变，并且要找对方式，言下之意就是大胆去面对挑战。所以最终确定是"
+			}, {
+				"QType": "1",
+				"QContent": "C"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}, {
+			"SbjId": "1764701",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "8",
+			"QuanZhanRightRate": "62.50",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "40.Which of the following would be the best title of the text?"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]Shift to Online Newspapers All at Once"
+			}, {
+				"Label": "B",
+				"Text": "[B]Cherish the Newspapers Still in Your Hand"
+			}, {
+				"Label": "C",
+				"Text": "[C]Make Your Print Newspaper a Luxury Good"
+			}, {
+				"Label": "D",
+				"Text": "[D]Keep Your Newspapers Forever in Fashion"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[C] Make Your Print Newspaper a Luxury Good"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：主旨题。出现在最后一道题目中，全文共有"
+			}, {
+				"QType": "1",
+				"QContent": "7段，根据上面的细节题目，大致可以确定本文的中心词为"
+			}, {
+				"QType": "1",
+				"QContent": "“print newspaper”B"
+			}, {
+				"QType": "1",
+				"QContent": "，"
+			}, {
+				"QType": "1",
+				"QContent": "D "
+			}, {
+				"QType": "1",
+				"QContent": "两个选项中的"
+			}, {
+				"QType": "1",
+				"QContent": "newspaper "
+			}, {
+				"QType": "1",
+				"QContent": "都属于范围过大，是主旨题的典型错误选项，而"
+			}, {
+				"QType": "1",
+				"QContent": "A"
+			}, {
+				"QType": "1",
+				"QContent": "选项中出现的"
+			}, {
+				"QType": "1",
+				"QContent": "online newspaper "
+			}, {
+				"QType": "1",
+				"QContent": "只是文中"
+			}, {
+				"QType": "1",
+				"QContent": "print newspaper"
+			}, {
+				"QType": "1",
+				"QContent": "时提到的一个面临的 一个挑战，不足以引领全文，并且"
+			}, {
+				"QType": "1",
+				"QContent": "all at once"
+			}, {
+				"QType": "1",
+				"QContent": "， 是"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "立刻，马上"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "之意，与原文的观点也有出入，最终确定选"
+			}, {
+				"QType": "1",
+				"QContent": "C"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}, {
+				"QType": "1",
+				"QContent": " "
+			}]
+		}]
+	}, {
+		"SbjTypeName": "新题型",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "3",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "6",
+		"SbjId": "239926",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Part B"
+		}, {
+			"QType": "1",
+			"QContent": "Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of each of the numbered paragraphs,(41-45).There are two extra subheadings. Mark your answers on ANSWER SHEET. (10 points)"
+		}, {
+			"QType": "1",
+			"QContent": "[A]Create a new image of yourself"
+		}, {
+			"QType": "1",
+			"QContent": "[B]Have confidence in yourself  "
+		}, {
+			"QType": "1",
+			"QContent": "[C]Decide if the time is right"
+		}, {
+			"QType": "1",
+			"QContent": "[D]Understand the context"
+		}, {
+			"QType": "1",
+			"QContent": "[E]Work with professionals"
+		}, {
+			"QType": "1",
+			"QContent": "[F]Mark it efficient"
+		}, {
+			"QType": "1",
+			"QContent": "[G]Know your goals"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "No matter how formal or informal the work environment, the way you present yourself has an impact. This is especially true in the first impressions. According to research from Princeton University , people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look."
+		}, {
+			"QType": "1",
+			"QContent": "The difference between today's workplace and the dress for success era is that the range of options is so much broader. Norms have evolved and fragmented. In some settings, red sneakers or dress T-shirts can convey status; in other not so much. Plus, whatever image we present is magnified by social-media services like LinkedIn. Chances are, your headshots are seen much more often now than a decade or two ago. Millennials, it seems, face the paradox of being the least formal generation yet the most conscious of style and personal branding. It can be confusing."
+		}, {
+			"QType": "1",
+			"QContent": "So how do we navigate this? How do we know when to invest in an upgrade? And what's the best way to pull off one that enhances our goals? Here are some tips:"
+		}, {
+			"QType": "1",
+			"QContent": "41. ______________________"
+		}, {
+			"QType": "1",
+			"QContent": "As an executive coach, I’ve seen image upgrades be particularly helpful during transitions —when looking for a new job, stepping into a new or more public role , or changing work environments. If you’re in a period of change or just feeling stuck and in a rut, now may be a good time. If you’re not sure, ask for honest feedback from trusted friends, colleagues and professionals . Look for cues about how others perceive you. Maybe there’s no need for an upgrade and that’s OK."
+		}, {
+			"QType": "1",
+			"QContent": "42. _____________________"
+		}, {
+			"QType": "1",
+			"QContent": "Get clear on what impact you’re hoping to have. Are you looking to refresh your image or pivot it? For one person, the goal may be to be taken more seriously and enhance their professional image. For another, it may be to be perceived as more approachable, or more modern and stylish. For someone moving from finance to advertising, maybe they want to look more “SoHo.” (It’s OK to use characterizations like that.)"
+		}, {
+			"QType": "1",
+			"QContent": "43. _____________________"
+		}, {
+			"QType": "1",
+			"QContent": "Look at your work environment like an anthropologist. What are the norms of your environment? What conveys status? Who are your most important audience? How do the people you respect and look up to prevent themselves? The better you understand the cultural context, the more control you can have over your impact."
+		}, {
+			"QType": "1",
+			"QContent": "44. _______________________"
+		}, {
+			"QType": "1",
+			"QContent": "Enlist the support of professionals and share with them your goals and context. Hire a personal stylist, or use the free styling service of a store like J.Crew. Try a hair stylist instead of a barber. Work with a professional photographer instead of your spouse of friend. It’s not as expensive as you might think."
+		}, {
+			"QType": "1",
+			"QContent": "45. _______________________"
+		}, {
+			"QType": "1",
+			"QContent": "The point of a style upgrade isn’t to become more vain or to spend more time fussing over what to wear. Instead, use it as an opportunity to reduce decision fatigue. Pick a standard work uniform or a few go-to opinions. Buy all your clothes once with a stylist instead or shopping alone, one article of clothing at a time. "
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "239926",
+		"SbjSubContentList": [{
+			"SbjId": "239927",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "3",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "41."
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "： [C] Decide if the time is right"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：此段第一句话主句里面说"
+			}, {
+				"QType": "1",
+				"QContent": "“在过渡的阶段提升自我形象尤其有用"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "。第二句和第三、四句分别展开说明，第二句表明：如果你处在变动的时期或者感觉需要变动，那么可能这可能是一个好的时机。 相反，第三、四句话表示：如果不确定的话，就需要得到别人的反馈了。也许无需提升。故整段的意思是说要先确定是否现在是提升自我形象的正确时机。故答案为"
+			}, {
+				"QType": "1",
+				"QContent": "C"
+			}, {
+				"QType": "1",
+				"QContent": "选项。"
+			}]
+		}, {
+			"SbjId": "239928",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "3",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "42."
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "G",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[G] Know your goals"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：此段中心句即第一句话，标明"
+			}, {
+				"QType": "1",
+				"QContent": "“要清楚你想要的结果或影响"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "。其实就是你想要的目标。紧接着开始解释，提到比如，你是否想要更新你的形象？那么，对于一个人来讲，这个目标可能是要被认真对待或者要加强专业的形象。对于其他人，这个目标可能是要被看作可以触摸到的，或者是现代的，或者是时尚的。对于那些要从金融转到广告的，他们可能得看起来更"
+			}, {
+				"QType": "1",
+				"QContent": "“SOHO”"
+			}, {
+				"QType": "1",
+				"QContent": "。所以，整段都在讲目标。而选项"
+			}, {
+				"QType": "1",
+				"QContent": "F"
+			}, {
+				"QType": "1",
+				"QContent": "中的"
+			}, {
+				"QType": "1",
+				"QContent": "”goal”"
+			}, {
+				"QType": "1",
+				"QContent": "形成复现。故为答案。"
+			}]
+		}, {
+			"SbjId": "239929",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "3",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "43."
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[D] Understand the context"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：复现原则，文章多次重复"
+			}, {
+				"QType": "1",
+				"QContent": "environment， "
+			}, {
+				"QType": "1",
+				"QContent": "understand the context "
+			}, {
+				"QType": "1",
+				"QContent": "就是要理解你的工作处境。"
+			}]
+		}, {
+			"SbjId": "239930",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "3",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "44."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "E",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[E] Work with professionals"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：复现原则，文章多次重复"
+			}, {
+				"QType": "1",
+				"QContent": "professional， "
+			}, {
+				"QType": "1",
+				"QContent": "work with"
+			}, {
+				"QType": "1",
+				"QContent": "，就是要与专业人士一起工作。"
+			}]
+		}, {
+			"SbjId": "239931",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "3",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "45."
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "F",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "答案"
+			}, {
+				"QType": "1",
+				"QContent": "：[F] Make it efficient"
+			}, {
+				"QType": "1",
+				"QContent": "解析"
+			}, {
+				"QType": "1",
+				"QContent": "：此段第二句句首出现"
+			}, {
+				"QType": "1",
+				"QContent": "instead， 故为转折句。所以从此句获得中心内容。该句讲的是"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "最好是将形象升级用做减少做决定的机会。"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "紧接着提到"
+			}, {
+				"QType": "1",
+				"QContent": "“"
+			}, {
+				"QType": "1",
+				"QContent": "选取一套标准的工作服或几个其他的选择。把衣服一下子都买了，而不是一个人购买，或者一次只买一件"
+			}, {
+				"QType": "1",
+				"QContent": "”"
+			}, {
+				"QType": "1",
+				"QContent": "。这些提到的都是要有效率。故选"
+			}, {
+				"QType": "1",
+				"QContent": "G"
+			}, {
+				"QType": "1",
+				"QContent": "。"
+			}]
+		}]
+	}, {
+		"SbjTypeName": "翻译",
+		"SbjType": "5",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "0",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "7",
+		"SbjId": "239932",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Part C"
+		}, {
+			"QType": "1",
+			"QContent": "Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on the ANSWER SHEET. (10 points)"
+		}, {
+			"QType": "1",
+			"QContent": "Mental health is our birthright. (46) We don’t have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone. Mental health can't be learned, only reawakened. It is like the immune system of the body, which under stress or through lack of nutrition or exercise can be weakened, but which never leaves us. When we don't understand the value of mental health and we don't know how to gain access to it, mental health will remain hidden from us. (47) Our mental health doesn’t really go anywhere; like the sun behind a cloud. it can be temporarily hidden from view, but it is fully capable of being restored in an instant. "
+		}, {
+			"QType": "1",
+			"QContent": "Mental health is the seed that contains self-esteem — confidence in ourselves and an ability to trust in our common sense. It allows us to have perspective on our lives — the ability to not take ourselves too seriously, to laugh at ourselves, to see the bigger picture, and to see that things will work out. It's a form of innate or unlearned optimism. (48) Mental health allows us to view others with sympathy if they are having troubles with kindness if they are in pain and with unconditional love no matter who they are. Mental health is the source of creativity for solving problems, resolving conflict, making our surroundings more beautiful, managing our home life, or coming up with a creative business idea or invention to make our lives easier. It gives us patience for ourselves and toward others as well as patience while driving, catching a fish, working on our car. or raising a child. It allows us to see the beauty that surrounds us each moment in nature, in culture, in the flow of our daily lives."
+		}, {
+			"QType": "1",
+			"QContent": "(49) Although mental health is the cure-all for living our lives, it is perfectly ordinary as you will see that it has been there to direct you through all your difficult decisions. It has been available even in the most mundane of life situations to show you right from wrong, good from bad, friend from foe. Mental health has commonly been called conscience, instinct, wisdom, common sense, or the inner voice. We think of it simply as a healthy and helpful flow of intelligent thought. (50) As you will come to see, knowing that mental health is always available and knowing to trust it allow us to slow down to the moment and live life happily. "
+		}],
+		"Score": "10.00",
+		"AnswerList": [{
+			"QType": "1",
+			"QContent": "46、"
+		}, {
+			"QType": "1",
+			"QContent": "We don’t have to learn how to be mentally healthy"
+		}, {
+			"QType": "1",
+			"QContent": "; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone."
+		}, {
+			"QType": "1",
+			"QContent": "句子结构"
+		}, {
+			"QType": "1",
+			"QContent": "：分号连接的两个并列句，第一个并列句主干是"
+		}, {
+			"QType": "1",
+			"QContent": " We don’t have to learn ，"
+		}, {
+			"QType": "1",
+			"QContent": "how"
+		}, {
+			"QType": "1",
+			"QContent": "引导宾语从句做"
+		}, {
+			"QType": "1",
+			"QContent": "learn"
+		}, {
+			"QType": "1",
+			"QContent": "的宾语，第二个并列句主干是"
+		}, {
+			"QType": "1",
+			"QContent": "it is built into us in the same way"
+		}, {
+			"QType": "1",
+			"QContent": "，"
+		}, {
+			"QType": "1",
+			"QContent": "that"
+		}, {
+			"QType": "1",
+			"QContent": "引导定语从句修饰先行词"
+		}, {
+			"QType": "1",
+			"QContent": "way"
+		}, {
+			"QType": "1",
+			"QContent": "，"
+		}, {
+			"QType": "1",
+			"QContent": "that"
+		}, {
+			"QType": "1",
+			"QContent": "定语从句中主干是"
+		}, {
+			"QType": "1",
+			"QContent": "our bodies know"
+		}, {
+			"QType": "1",
+			"QContent": "，"
+		}, {
+			"QType": "1",
+			"QContent": "how"
+		}, {
+			"QType": "1",
+			"QContent": "引导宾语从句做"
+		}, {
+			"QType": "1",
+			"QContent": "know"
+		}, {
+			"QType": "1",
+			"QContent": "的宾语。"
+		}, {
+			"QType": "1",
+			"QContent": "参考译文"
+		}, {
+			"QType": "1",
+			"QContent": "：我们无需刻意去了解学习才能让心理更健康，它正如我们的身体知道怎样让伤口愈合和修复骨折一样，是根植于我们体内的"
+		}, {
+			"QType": "1",
+			"QContent": "/是我们与生俱来的能力。"
+		}, {
+			"QType": "1",
+			"QContent": "47、Our mental health doesn’t really go anywhere; like the sun behind a cloud, it can be temporarily hidden from view， "
+		}, {
+			"QType": "1",
+			"QContent": "but it is fully capable of being restored in an instant"
+		}, {
+			"QType": "1",
+			"QContent": "."
+		}, {
+			"QType": "1",
+			"QContent": "句子结构"
+		}, {
+			"QType": "1",
+			"QContent": "：分号连接的两个并列句，"
+		}, {
+			"QType": "1",
+			"QContent": " 第一个并列句主谓结构，很简单，第二个并列句中，"
+		}, {
+			"QType": "1",
+			"QContent": "like the sun behind a cloud是状语，"
+		}, {
+			"QType": "1",
+			"QContent": "but "
+		}, {
+			"QType": "1",
+			"QContent": "连接两个并列分句，包括短语"
+		}, {
+			"QType": "1",
+			"QContent": "be hidden from "
+		}, {
+			"QType": "1",
+			"QContent": "和"
+		}, {
+			"QType": "1",
+			"QContent": "be capable of"
+		}, {
+			"QType": "1",
+			"QContent": "。 涉及被动语态的翻译方法。"
+		}, {
+			"QType": "1",
+			"QContent": "参考译文"
+		}, {
+			"QType": "1",
+			"QContent": "：我们的心理健康并不是真的消失不见，就像云朵背后的太阳，它也许暂时被遮挡，但是它也可以在瞬间重焕光芒。"
+		}, {
+			"QType": "1",
+			"QContent": "48、"
+		}, {
+			"QType": "1",
+			"QContent": "Mental health allows us to view others with sympathy if they are having troubles"
+		}, {
+			"QType": "1",
+			"QContent": ", with kindness if they are in pain, and with unconditional love no matter who they are."
+		}, {
+			"QType": "1",
+			"QContent": "句子结构"
+		}, {
+			"QType": "1",
+			"QContent": "：句子主干是"
+		}, {
+			"QType": "1",
+			"QContent": " Mental health allows us to view others， 三个并列"
+		}, {
+			"QType": "1",
+			"QContent": "with "
+		}, {
+			"QType": "1",
+			"QContent": "引导的介词短语做状语，前两个"
+		}, {
+			"QType": "1",
+			"QContent": "with"
+		}, {
+			"QType": "1",
+			"QContent": "引导的状语中各包含一个"
+		}, {
+			"QType": "1",
+			"QContent": "if"
+		}, {
+			"QType": "1",
+			"QContent": "引导的条件状从，最后一个"
+		}, {
+			"QType": "1",
+			"QContent": "with"
+		}, {
+			"QType": "1",
+			"QContent": "状语中包含一个"
+		}, {
+			"QType": "1",
+			"QContent": "no matter "
+		}, {
+			"QType": "1",
+			"QContent": "引导的让步状语。"
+		}, {
+			"QType": "1",
+			"QContent": "参考译文"
+		}, {
+			"QType": "1",
+			"QContent": "： 心理健康使我们在他人遇到麻烦时给予同情，在他人痛苦时心存善意，而且无论对方是谁都会给予无条件的关爱。"
+		}, {
+			"QType": "1",
+			"QContent": "49、参考译文"
+		}, {
+			"QType": "1",
+			"QContent": "：尽管拥有健康的心智是我们生活中的万能药，但它并不稀奇，你会发现在你难以做决定时，它一直在指引着你。"
+		}, {
+			"QType": "1",
+			"QContent": "句子结构"
+		}, {
+			"QType": "1",
+			"QContent": "：本题有一个由"
+		}, {
+			"QType": "1",
+			"QContent": "although引导的让步状语从句，"
+		}, {
+			"QType": "1",
+			"QContent": "as"
+		}, {
+			"QType": "1",
+			"QContent": "引导的时间状语从句，以及"
+		}, {
+			"QType": "1",
+			"QContent": "that"
+		}, {
+			"QType": "1",
+			"QContent": "引导的宾语从句构成。此处"
+		}, {
+			"QType": "1",
+			"QContent": "“mental health”"
+		}, {
+			"QType": "1",
+			"QContent": "若是翻译成心理健康与下文连接，则不符合中文表达习惯，又因"
+		}, {
+			"QType": "1",
+			"QContent": "mental"
+		}, {
+			"QType": "1",
+			"QContent": "本身与智力相关，所以将其翻译成"
+		}, {
+			"QType": "1",
+			"QContent": "“"
+		}, {
+			"QType": "1",
+			"QContent": "健康的心智"
+		}, {
+			"QType": "1",
+			"QContent": "”"
+		}, {
+			"QType": "1",
+			"QContent": "；此外"
+		}, {
+			"QType": "1",
+			"QContent": "“perfectly ordinary”"
+		}, {
+			"QType": "1",
+			"QContent": "可以正译，译为"
+		}, {
+			"QType": "1",
+			"QContent": "“"
+		}, {
+			"QType": "1",
+			"QContent": "非常普遍"
+		}, {
+			"QType": "1",
+			"QContent": "”"
+		}, {
+			"QType": "1",
+			"QContent": "，本译文采取正话反说的方式，译为"
+		}, {
+			"QType": "1",
+			"QContent": "“"
+		}, {
+			"QType": "1",
+			"QContent": "并不稀奇"
+		}, {
+			"QType": "1",
+			"QContent": "”"
+		}, {
+			"QType": "1",
+			"QContent": "。再次，"
+		}, {
+			"QType": "1",
+			"QContent": "“difficult decisions”"
+		}, {
+			"QType": "1",
+			"QContent": "若翻译为困难的决定，不符合中文的表达方式，所以将"
+		}, {
+			"QType": "1",
+			"QContent": "decision"
+		}, {
+			"QType": "1",
+			"QContent": "，名词译为动词"
+		}, {
+			"QType": "1",
+			"QContent": "“"
+		}, {
+			"QType": "1",
+			"QContent": "做决定"
+		}, {
+			"QType": "1",
+			"QContent": "”"
+		}, {
+			"QType": "1",
+			"QContent": "。"
+		}, {
+			"QType": "1",
+			"QContent": "50、"
+		}, {
+			"QType": "1",
+			"QContent": "As you will come to see"
+		}, {
+			"QType": "1",
+			"QContent": ", knowing that mental health is always available and knowing to trust it allow us slow down to the moment and live life happily."
+		}, {
+			"QType": "1",
+			"QContent": "参考译文"
+		}, {
+			"QType": "1",
+			"QContent": "：你会慢慢理解到，健康的心智会一直存在，坚信这一点，此刻我们就可以放慢生活节奏，快乐的生活。"
+		}, {
+			"QType": "1",
+			"QContent": "句子结构"
+		}, {
+			"QType": "1",
+			"QContent": "：本题由"
+		}, {
+			"QType": "1",
+			"QContent": "as 引导的时间状语从句，"
+		}, {
+			"QType": "1",
+			"QContent": "that"
+		}, {
+			"QType": "1",
+			"QContent": "引导的宾语从句组成，并且考察代词"
+		}, {
+			"QType": "1",
+			"QContent": "“it”"
+		}, {
+			"QType": "1",
+			"QContent": "。"
+		}, {
+			"QType": "1",
+			"QContent": "“see”"
+		}, {
+			"QType": "1",
+			"QContent": "在此时了解而不是看到的意思，意思和"
+		}, {
+			"QType": "1",
+			"QContent": "knowing"
+		}, {
+			"QType": "1",
+			"QContent": "一致，随意合并翻译；"
+		}, {
+			"QType": "1",
+			"QContent": "“available”"
+		}, {
+			"QType": "1",
+			"QContent": "本意"
+		}, {
+			"QType": "1",
+			"QContent": "“"
+		}, {
+			"QType": "1",
+			"QContent": "可得到的"
+		}, {
+			"QType": "1",
+			"QContent": "”"
+		}, {
+			"QType": "1",
+			"QContent": "，句中意译为"
+		}, {
+			"QType": "1",
+			"QContent": "“"
+		}, {
+			"QType": "1",
+			"QContent": "一直存在"
+		}, {
+			"QType": "1",
+			"QContent": "”"
+		}, {
+			"QType": "1",
+			"QContent": "。"
+		}],
+		"ExplainList": [],
+		"Explain": "",
+		"ImageList": []
+	}, {
+		"SbjTypeName": "小作文",
+		"SbjType": "5",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "0",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "8",
+		"SbjId": "239934",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Section Ⅲ  Writing"
+		}, {
+			"QType": "1",
+			"QContent": "Part A"
+		}, {
+			"QType": "1",
+			"QContent": "51. Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Suppose you are a librarian in your university. Write a notice of about 100 words, providing the newly-enrolled international students with relevant information about the library."
+		}, {
+			"QType": "1",
+			"QContent": "You should write neatly on the ANSWER SHEET."
+		}, {
+			"QType": "1",
+			"QContent": "Do not sign your own name at the end of the notice. Use “LI Ming” instead."
+		}, {
+			"QType": "1",
+			"QContent": "Do not write the address. (10 points)"
+		}],
+		"Score": "10.00",
+		"AnswerList": [{
+			"QType": "1",
+			"QContent": "参考范文："
+		}, {
+			"QType": "1",
+			"QContent": "Notice"
+		}, {
+			"QType": "1",
+			"QContent": "    For better serving the international students, a notice is released here to provide the necessary information about the library."
+		}, {
+			"QType": "1",
+			"QContent": "    The university library opens at 8 a.m. and closes at 10 p.m. from Monday to Friday, but from 9 a.m. to 9 p.m. on weekends. If you need to borrow books, please follow the following steps. First, bring your student card and register first at the librarian’s office. At most six books can be borrowed once from the library. You should keep in mind the days that you can keep the book(s) you borrow. Three months is the longest period. If you exceed the limited time, some fines should be paid."
+		}, {
+			"QType": "1",
+			"QContent": "    If you have any questions or suggestions about borrowing or returning books, please telephone 010-8248119 or send an email to university@163.com. We sincerely hope that you all enjoy the study and life in our university."
+		}, {
+			"QType": "1",
+			"QContent": "University Library"
+		}, {
+			"QType": "1",
+			"QContent": "December 26, 2015"
+		}],
+		"ExplainList": [],
+		"Explain": "",
+		"ImageList": []
+	}, {
+		"SbjTypeName": "大作文",
+		"SbjType": "5",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "0",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "9",
+		"SbjId": "239936",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Part B"
+		}, {
+			"QType": "1",
+			"QContent": "52. Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "  Write an essay of 160-200 words based on the following pictures. In your essay you should"
+		}, {
+			"QType": "1",
+			"QContent": "&emsp;&emsp;"
+		}, {
+			"QType": "1",
+			"QContent": "1) describe the drawing briefly"
+		}, {
+			"QType": "1",
+			"QContent": "&emsp;&emsp;"
+		}, {
+			"QType": "1",
+			"QContent": "2) interpret the meaning, and"
+		}, {
+			"QType": "1",
+			"QContent": "&emsp;&emsp;"
+		}, {
+			"QType": "1",
+			"QContent": "3) give your comments"
+		}, {
+			"QType": "1",
+			"QContent": "You should write neatly on ANSWER SHEET. (20 points)"
+		}, {
+			"QType": "2",
+			"QContent": "/asynupload/QuessionImgs/imagekaoyangongkao/20181019/20181019143006_2031.png"
+		}, {
+			"QType": "1",
+			"QContent": "  "
+		}],
+		"Score": "20.00",
+		"AnswerList": [{
+			"QType": "1",
+			"QContent": "参考范文："
+		}, {
+			"QType": "1",
+			"QContent": "    The above two pictures reveal two fathers’ different teaching methods. In the first picture, the father is urging his son to study hard while he is smoking and watching TV idly. In the second picture, the father and his son are both concentrating on the study. The caption under the cartoon reads: “It is better to set an example than to make demands”."
+		}, {
+			"QType": "1",
+			"QContent": "    Apparently, the author of the cartoon focuses on a fact that many parents when educating their children tend to neglect the impact of their own acts upon their children. It is without any doubt that all parents hope that their children could have a bright future. Therefore, they tend to count on schools and the society to provide their kids with a good education. However, what they don’t realize is that parents are the first teachers of children. Parents failing to set a role model for their children will only result in an unhealthy family atmosphere, which is definitely harmful to the future development of their children."
+		}, {
+			"QType": "1",
+			"QContent": "    From my perspective, education from parents is of vital importance to a child’s healthy growth. Therefore, parents should provide their children with a favorable growing environment by being a positive role model. Only through persistent efforts and proper guidance can children enjoy a bright future."
+		}],
+		"ExplainList": [{
+			"QType": "1",
+			"QContent": "解析："
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "2015年的大作文从总体上来看不难，因为它考查到了现在的一个社会热点。这个热点甚至比"
+		}, {
+			"QType": "1",
+			"QContent": "2014"
+		}, {
+			"QType": "1",
+			"QContent": "年当时的热点还要热！就内容和话题而言，属于综合性话题，既考察了当今信息社会发展过程中网络对我们生活的影响，正如任何事物有两个方面一样，积极方面和消极方面，必须做到两者的统一，对于手机的影响这个话题大家应该是有话可说的。同时，本题也考查了人际关系方面的内容，同样是两方面内容所引申出来的，这是借用人际关系这个事件来说明和阐述手机的两方面的影响和作用，也就是手机的出现和发展给我们之间的联系提供了方便，使我们的世界变成了地球村，另外比如信息共享，成果共享等都非常方便；除此之外，也有消极的一方面，也就是手机的出现同时淡漠了人际关系，忽视了人与人之间的面对面的交往和联系，同时人们之间面对面说话的交流机会少了，话题也少了。最后说出你的对策。"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "更重要的是：从十年的考研真题来讲，"
+		}, {
+			"QType": "1",
+			"QContent": "2009年的大作文考查到了网络的问题，当年的图画是很多人在一个类似大的蜘蛛网的区域里上网，图片下面有一行字：网络的"
+		}, {
+			"QType": "1",
+			"QContent": "“"
+		}, {
+			"QType": "1",
+			"QContent": "近"
+		}, {
+			"QType": "1",
+			"QContent": "”"
+		}, {
+			"QType": "1",
+			"QContent": "与"
+		}, {
+			"QType": "1",
+			"QContent": "“"
+		}, {
+			"QType": "1",
+			"QContent": "远"
+		}, {
+			"QType": "1",
+			"QContent": "”"
+		}, {
+			"QType": "1",
+			"QContent": "！当年的描述图画部分比较难表达，而今年图画描述部分相比起来就容易得多。下面我们就从写作的标准三段式来讲讲这三段我们应该怎么写。"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "第一段图画描述段的写作内容主要是表述图画，四个人都在盯着手机，桌子上的饭菜没动，还可以更加注意写细节，比如他们认真的神情和桌子上的饭菜未动之类！第二段是图画涵义阐释段。本段可分两个方面来具体写。一方面具体写明手机给我们带来的好处；另一方面，我们要指出手机的弊端，给我们生活带来了很多负面影响。第三段评论段的写作内容为给出自己的评论和建议。可以指出年轻人应该重视面对面的交流！最后一句可以展望一下未来，说如果我们放下手机拿起筷子享受美食，和谐的关系就会出现了！"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "如果同学们指出这个是一个社会问题，我们要加以改正，这也是可以接受的！"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}],
+		"Explain": "",
+		"ImageList": []
+	}]
+}

@@ -1,0 +1,80 @@
+[year:2018][index:1]
+[ans]:【答案】[C] for
+[point]:【考点】介词
+[analysis]:【解析】此处考察介词的用法。it’s a necessary condition ____ many worthwhile things (信任是一个必要条件_____  许多重要事情) 此处应该是说，信任对许多重要事情来说是一个必要条件。C 选项 for(对...来说)符合语义，故为正确  答案;D 选项 from(来自于)，B 选项 like(像...)，A 选项 on(关于)语义不恰当，故排除。
+[year:2018][index:2]
+[ans]:【答案】[A] faith
+[point]:【考点】词义辨析+中心一致性原则
+[analysis]:【解析】此处考察词义辨析和中心一致性原则。第一段首句提出主题句：trust is a tricky business (信任是一个奇 怪 的 东 西 ) 。 后 面 进 一 步 对 该 主 题 句 进 行 解 释 说 明 ： On the one hand, it’s a necessary condition ___ for ___ many  worthwhile things: child care, friendships, etc. (一方面，信任对许多重要事情来说是必要条件，比如照看孩子，友谊等)，  这句话在说信任的好处。On the other hand, putting your ___ in the wrong place often carries a high ____. (另一方面，把...  放在错误的地方往往会带来巨大...)，显然这句话依旧在解释主题词“trust”，只有 A 选项 faith(信任、忠诚)与 trust 属  于近义词复现，故正确答案为[A] faith。
+[year:2018][index:3]
+[ans]:【答案】[D] price
+[point]:【考点】词义辨析
+[analysis]:【解析】此处考察词义辨析。第一段首句提出主题句：trust is a tricky business(信任是一个奇怪的东西)。后面进  一步对该主题句进行解释说明：On the one hand, it’s a necessary condition __ for __ many worthwhile things: child care, friendships, etc. (一方面，信任对许多重要事情来说是必要条件，比如照看孩子，友谊等)，这句话在说信任的好处。  On the other hand, putting your ___ in the wrong place often carries a high____. (另一方面，把...放在错误的地方往往会带  来巨大...)，显然这句话依旧在解释主题词“trust”，并且根据空格所在句中的关键词“wrong place”，本句应该在说信任  不当的弊端，所以空格处应该填入一个负向感情色彩的词，故 A 选项 benefit 和 C 选项 hope 排除，而 B 选项 debt(债  务)带入之后语义不当，故正确答案为[D] price(代价)。
+[year:2018][index:4]
+[ans]:【答案】[B] Then
+[point]:【考点】察逻辑关系
+[analysis]:【解析】此处考察逻辑关系。上段讲述的是信任的好处和信任不当的弊端。第二段段首提出问题：“_____我们  为什么要信任”。只有 B 选项 then(那么)填入后能形成顺畅的语义和逻辑关系。故正确答案为 B then(那么)。D 选项 again(再次)表示强调;C 选项 instead(但是、然而)表示转折;A 选项 therefore(因此)表示结果，不符合要求，故排除。
+[year:2018][index:5]
+[ans]:【答案】[D] When
+[point]:【考点】逻辑关系
+[analysis]:【解析】此处考察逻辑关系。空格所在句含义为：______人们信任一个人或一个组织机构，他们的大脑会释放  催产素。只有 D 选项 when(当..时候)填入后符合逻辑要求，故正确答案为 D 选项 when。其他三个选项 B 选项 unless(如  果不)表条件，C 选项 although(尽管)表让步，A 选项 until(直到...)表时间，带入后均语义不通顺，故排除。
+[year:2018][index:6]
+[ans]:【答案】[B] produce
+[point]:【考点】动宾搭配
+[analysis]:【解析】此处考察动宾搭配问题。上文指出：When people place their trust in an …their brains release oxytocin, a hormone.上文指出当人们产生信任感，大脑就会产生一种荷尔蒙，后面是定语从句，句内的动宾搭配， 可推知这个  荷尔蒙能产生令人愉悦的情绪， 并且与后面的 trigger 同义复现，因此 B. produce 正确。
+[year:2018][index:7]
+[ans]:【答案】[C] connect
+[point]:【考点】上下文信息照应
+[analysis]:【解析】此处考察上下文信息照应题。上文讲到这种荷尔蒙能够激发一种群居本能，the herding instinct that leads sheep to flock together for safety and promote …with one another，这种本能有两个作用，并用 and 连接，所以复现同义 and 前面的 flock together. 因此选择 C. connect
+[year:2018][index:8]
+[ans]:【答案】[D] to
+[point]:【考点】上下语境下的名词介词搭配
+[analysis]:【解析】此处考察上下语境下的名词介词搭配问题。根据上文的结论，下文实验展开分析，Swiss scientists have found that exposure to this hormone puts us….所以研究中要求受试者要先处于这种环境中，所以名词 exposure to 构成  搭配语义关系，表示“接触”的意思，因此选择 to。
+[year:2018][index:9]
+[ans]:【答案】[B] mood
+[point]:【考点】上下文的信息对应和句内信息对应
+[analysis]:【解析】此处考察上下文的信息对应和句内信息对应。上文提到身体会产生荷尔蒙，会给你带来一种愉悦的情  绪 pleasurable feelings，这个上文结论。实验中 exposure to this hormone puts us in a trusting …，因此，根据上下文，  试验中，处于这种荷尔蒙环境中，会给人带来情绪;语气;心境;。因此选择 mood。
+[year:2018][index:10]
+[ans]:【答案】[A] counterparts
+[point]:【考点】上下文的信息对应和句内信息对应
+[analysis]:【解析】此处考察上下文的信息对应和句内信息对应。上文指出，In a study, researchers sprayed oxytocin into the noses of half the subjects ,可推知本句再讲与另外一组受试者比较。故选择 A。counterparts. 相对物，相对应的人。
+[year:2018][index:11]
+[ans]:【答案】[B] Lucky
+[point]:【考点】上下文的逻辑关系
+[analysis]:【解析】此处考察上下文的逻辑关系。因为这个句子当中有个词 also，说明前文和后文情感是一致的关系。说  我们有这两种天赋，对大家来说都是好事，所以需要选择一个正向的情感色彩。只能选择 lucky。C 选项 odd 奇怪的  是，A 选项 funny 有趣的是，D 选项 ironic 讽刺的是，皆不符合文意。
+[year:2018][index:12]
+[ans]:【答案】[B] protect
+[point]:【考点】上下文的成分搭配
+[analysis]:【解析】此处考察上下文的成分搭配。因为这个句子当中有个词 also，说明前文和后文情感是并列平行关系，  前后情感应该一致。所以此处只能选择 protect 保护我们，符合文意。D 选项 delight 使高兴; C 选项 surprise 使震  惊;A 选项 monitor 监控皆不符合文意。
+[year:2018][index:13]
+[ans]:【答案】[A] between
+[point]:【考点】固定搭配
+[analysis]:【解析】此处考察固定搭配。differentiate between D and B. 介词 between 表示在 D 和 B 之间 , 原文含义为：“4  个月大的孩子可以区分出一个可信的人和一个不诚实的人”。
+[year:2018][index:14]
+[ans]:【答案】[C] introduced
+[point]:【考点】成分搭配
+[analysis]:【解析】此处考察成分搭配。原文表达： Sixty toddlers were each______ to an adult tester holding a plastic container.  只有 C 选项 be introduced to sth 表示“初次认识某事物”，符合文意。A 选项 added 添加;B 选项 transferred 转移;D 选  项 entrusted 委托，皆不符合文意。
+[year:2018][index:15]
+[ans]:【答案】[D] inside
+[point]:【考点】介词搭配+词义复现
+[analysis]:【解析】此处考察介词搭配及词义复现。原文表达：“What’s in here?” before looking into the container…… Each subject was then invited to _________. 只有选择 D 选项 inside 才能和前文所表达的 in here 和 looking into 一脉相承。
+[year:2018][index:16]
+[ans]:【答案】[A] discovered
+[point]:【考点】词义复现
+[analysis]:【解析】此处考察词义复现，属于句子内部的显性线索。根据原文 Half of them found a toy; the other half 16 the container was empty… 这是用分号并列的连个句子，都是在讲试验的结果句型结构基本一致，前半句再讲一半的受  测者在盒子里面找到了玩具，后半句肯定是再说另半会怎么样，两个小分句的结构基本一致 Half of them = the other half，found=16，a toy= the container was empty，所以 16 题填入的应该是 found 的同义词，发现的含义，故 A 为正确  选项。
+[year:2018][index:17]
+[ans]:【答案】[C] fooled
+[point]:【考点】句间逻辑关系
+[analysis]:【解析】此处句间逻辑关系，属于句子内部的显性线索。—and realized the tester had 17 them，此句位于破折号  后面，是对前面意思的解释说明。前面提到另一半人发现盒子是空的，并且意识到测试者对他们怎么样，既然盒子  是空的那么肯定认识到测试者是在戏弄他们，所以作对此题必须要理解 tester 测试者是主语，宾语是 them 指的是受  测者，主语的意思决定了谓语动词的含义为戏弄，故 C fooled 为正确选项。
+[year:2018][index:18]
+[ans]:【答案】[B] willing
+[point]:【考点】搭配关系
+[analysis]:【解析】此处考察搭配关系，属于句子内部的显性线索。Among the children who had not been tricked, the majority were 18 to cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership. 根据句子结构我  们可以看出逗号之前是一个介词短语意为在所有没有被戏弄过的孩子里面，大多数的孩子在习得一种新技能的时候  与测试者的合作是怎么样的，demonstrating that they trusted his leadership 表明这些孩子信任他的领导，所以既然信任  他们就是愿意与其合作，故选择 B. willing，与 were willing to 构成固定搭配，意为愿意。
+[year:2018][index:19]
+[ans]:【答案】[A] In contrast
+[point]:【考点】句间的逻辑关系
+[analysis]:【解析】此处考察句间的逻辑关系。19, only five of the 30 children paired with the “20” tester participated in a follow-up activity. 通过该句中的 only 仅仅，可以看出与上文的 the majority of 形成鲜明的对比，19 题应该填入的应  该是表示转折，与上文形成对比的逻辑关系词。分析四个选项 D 表示总结，B 表示结果，C 表示举例子，只有 A 表  示转折，对比，故 A 为正确选项。
+[year:2018][index:20]
+[ans]:【答案】[C] unreliable
+[point]:【考点】词义辨析
+[analysis]:【解析】此处考察词义辨析。19, only five of the 30 children paired with the “20” tester participated in a follow-up activity.该句含义为：在接下来的活动中 30 个孩子中只有 5 个孩子与。。。样的测试者能合作，所以结合上文提到的  大部分孩子信任测试者，但是 5/30 属于一小部分，大部分对应的是信任，那么小比例的对应的是不信任，所以 tester  的修饰词应该为 C，unreliable 不可靠的，不可信任的，故 C 为正确选项。

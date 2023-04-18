@@ -1,0 +1,2083 @@
+{
+	"Result": "True",
+	"errMsg": "",
+	"UserGroupId": "17025447",
+	"QuanZhanScore": "00.00",
+	"PaperId": "21924",
+	"TimeLimit": "180",
+	"IsBaoCun": "",
+	"BaoGaoFenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanBaoGaoFenXiang/PointShare.aspx",
+	"YiZuoTiMuShu": "",
+	"TotalScore": "100.00",
+	"ShengYuShiJian": "",
+	"Questions": [{
+		"SbjTypeName": "完形填空",
+		"SbjType": "20",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "17",
+		"QuanZhanRightRate": "11.76",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "1",
+		"SbjId": "1764530",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Section I Use of English"
+		}, {
+			"QType": "1",
+			"QContent": "Read the following text. Choose the best word (s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET (10 points)"
+		}, {
+			"QType": "1",
+			"QContent": "Today we live in a world where GPS systems, digital maps, and other navigation apps are available on our smart phones._1_of us just walk straight into the woods without a phone. But phones _2_ on batteries, and batteries can die faster than we realize. _3_ you get lost without a phone or a compass, and you _4_ can' t find north, a few tricks to help you navigate _5_ to civilization, one of which is to follow the land."
+		}, {
+			"QType": "1",
+			"QContent": "When you find yourself well _6_ a trail, but not in a completely _7_ area, you have to answer two questions: Which _8_ is downhill, in this particular area? And where is the nearest water source? Humans overwhelmingly live in valleys, and on supplies of fresh water. _9_ , if you head downhill, and follow any H2Q you find, you should _10_ see signs of people."
+		}, {
+			"QType": "1",
+			"QContent": "If you’ve explored the area before, keep an eye out for familiar sights—you may be _11_ how quickly identifying a distinctive rock or tree can restore your bearings."
+		}, {
+			"QType": "1",
+			"QContent": "Another _12_ : Climb high and look for signs of human habitation. _13_ , even in dense forest, you should be able to _14_ gaps in the tree line due to roads, train tracks, and other paths people carve _15_the woods. Head toward these_16_to find a way out. At night, scan the horizon for_17_ light sources, such as fires and streetlights, then walk toward the glow of light pollution."
+		}, {
+			"QType": "1",
+			"QContent": "_18_ assuming you’re lost in an area humans tend to frequent, look for the _19_we leave on the landscape. Trail blazes, tire tracks, and other features can_20_you to civilization."
+		}],
+		"XiaoTiCount": "20",
+		"SbjSubContentList": [{
+			"SbjId": "1764531",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.Some"
+			}, {
+				"Label": "B",
+				"Text": "B.Most"
+			}, {
+				"Label": "C",
+				"Text": "C.Few"
+			}, {
+				"Label": "D",
+				"Text": "D.All"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析：此题词义辨析和上下文语境。首句为主题句：今天，我们生活在一个GPS系统，数字地图和其他导航应用程序都在我们的智能手机上唾手可得的世界。空格所在句指出：我们中_____在没有电话，个人GPS或其他导航工具的情况下直接走进树林。本句有without与few构成双重否定表肯定，根据语义应该填入few(几乎没有人)，符合文意。"
+			}]
+		}, {
+			"SbjId": "1764532",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.put"
+			}, {
+				"Label": "B",
+				"Text": "B.take"
+			}, {
+				"Label": "C",
+				"Text": "C.run"
+			}, {
+				"Label": "D",
+				"Text": "D.come"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.此题考查词组搭配。run on battery表示手机用电池发动，运行。其他选项：Put on (穿上;使运转);take on (承担;呈现);come on (快点;开始)，语义不通顺。故正确答案为C. run。"
+			}]
+		}, {
+			"SbjId": "1764533",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.Since"
+			}, {
+				"Label": "B",
+				"Text": "B.If"
+			}, {
+				"Label": "C",
+				"Text": "C.Though"
+			}, {
+				"Label": "D",
+				"Text": "D.Until"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.此题考查逻辑关系。空格所在句译文：____你在没有电话或指南针的情况下迷路，____找不到北方，我们有一些技巧可以帮助你导航____文明。此处为假设的情况，故填入if(如果)符合上下文的表达。其余选项：Since (因为;自从), though (虽然), until (直到)带入后，语义不通顺。故正确答案为B. If。"
+			}]
+		}, {
+			"SbjId": "1764534",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.formally"
+			}, {
+				"Label": "B",
+				"Text": "B.relatively"
+			}, {
+				"Label": "C",
+				"Text": "C.gradually"
+			}, {
+				"Label": "D",
+				"Text": "D.literally"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.空格所在句译文：____你在没有电话或指南针的情况下迷路，____找不到北方，我们有一些技巧可以帮助你导航____文明。此处literally表示确实地，真正地，带入原文语义通顺：你的确找不到北方。其余选项：Formally (正式地)，relatively(相对地)，gradually(逐渐地)带入后，语义不通顺。故正确答案为D. literally."
+			}]
+		}, {
+			"SbjId": "1764535",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.back"
+			}, {
+				"Label": "B",
+				"Text": "B.next"
+			}, {
+				"Label": "C",
+				"Text": "C.around"
+			}, {
+				"Label": "D",
+				"Text": "D.away"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.空格所在句译文：____你在没有电话或指南针的情况下迷路，____找不到北方，我们有一些技巧可以帮助你导航____文明。前文讲lost(迷路)，此处填入back(回到)文明之地相互呼应，故正确答案为A. back。"
+			}]
+		}, {
+			"SbjId": "1764536",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "6"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.onto"
+			}, {
+				"Label": "B",
+				"Text": "B.off"
+			}, {
+				"Label": "C",
+				"Text": "C.across"
+			}, {
+				"Label": "D",
+				"Text": "D.alone"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.此处考察词义辨析和词组搭配。空格所在句的句意为：当你____路径，但不是完全______的区域，你需要回答两个问题：在这个特殊区域，哪儿条路是下坡?哪儿里有最近的水源?通过后半句的问题，能够了解到前面是当你偏离轨道，迷失踪迹的时候。B选项off (远离，离开)符合语义要求;A选项onto(在...之上)，C选项across(穿过，横穿)，D选项alone(独自地，单独地)带入空格后，语义不通顺，均排除。故正确答案为B选项off。"
+			}]
+		}, {
+			"SbjId": "1764537",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "7"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.unattractive"
+			}, {
+				"Label": "B",
+				"Text": "B.uncrowded"
+			}, {
+				"Label": "C",
+				"Text": "C.unchanged"
+			}, {
+				"Label": "D",
+				"Text": "D.unfamiliar"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.此处考察词义辨析。空格所在句的前一句说迷失踪迹，偏离轨道。空格所在的后半句but开头，所填入的形容词词需要和前面构成转折的逻辑关系，虽然偏离轨道，但也不是完全不熟悉的路。只有D选项unfamiliar(不熟悉的，不常见的)符合要求;A选项unattractive(不吸引人的)，B选uncrowded(不拥挤的，宽敞的)，C选项unchanged(未改变的，无变化的)带入后，语义不通顺。故正确答案为D.unfamiliar。"
+			}]
+		}, {
+			"SbjId": "1764538",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "8"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.site"
+			}, {
+				"Label": "B",
+				"Text": "B.point"
+			}, {
+				"Label": "C",
+				"Text": "C.way"
+			}, {
+				"Label": "D",
+				"Text": "D.place"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.此处考察词义辨析和上下文语境。空格所在句的句意：你需要回答两个问题：在这个特殊区域，哪儿个_____是下坡?哪儿里有最近的水源?空格处所需的名词需要符合上下文语境。C选项way(道路)符合语义要求;A选项site(地点，位置，场所)，B选项point(要点)，D选项place(地方，地点)带入空格后，语义不通顺，均排除。故正确答案为C选项way。"
+			}]
+		}, {
+			"SbjId": "1764539",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "9"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.So"
+			}, {
+				"Label": "B",
+				"Text": "B.Yet"
+			}, {
+				"Label": "C",
+				"Text": "C.Instead"
+			}, {
+				"Label": "D",
+				"Text": "D.Besides"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.此处考察词逻辑关系。空格所在句的前一句指出：生活在山谷中的人，基本都靠淡水为生。后面也就是空格所在句：_______如果你下山，沿着水走，你会发现人类的迹象......很明显空格处所填入的连词和前面构成因果的逻辑关系，只有A选项So(所以，因此)符合要求;B选项Yet(但是，然而)，C选Instead(代替，反而)，D选项Besides(此外，而且)带入后，语义不通顺。故正确答案为A.So。"
+			}]
+		}, {
+			"SbjId": "1764540",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "10"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.immediately"
+			}, {
+				"Label": "B",
+				"Text": "B.intentionally"
+			}, {
+				"Label": "C",
+				"Text": "C.unexpectedly"
+			}, {
+				"Label": "D",
+				"Text": "D.eventually"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.此处考察词义辨析。空格所在句的句意：所以如果你下山，沿着你找到的水一直走，你______会看到人类的迹象......，空格处所需的副词需要符合本句语境并是句子语义通顺。D选项eventually (最后，终于)符合语义要求;A选项immediately(立即，立刻)，B选项intentionally(故意地，有意地)，C选项unexpectedly(意外地，出乎意料地)带入空格后，语义不通顺，均排除。故正确答案为D选项eventually。"
+			}]
+		}, {
+			"SbjId": "1764541",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "11"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.surprised"
+			}, {
+				"Label": "B",
+				"Text": "B.annoyed"
+			}, {
+				"Label": "C",
+				"Text": "C.frightened"
+			}, {
+				"Label": "D",
+				"Text": "D.confused"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.空格所在句提到：If you’ve explored the area before, keep an eye out for familiar sights—you may be surprised how quickly spotting a distinctive rock or tree can restore your bearings(如果你之前去过这个地方，一定要注意熟悉的景象，你或许会____快速识别出一块特征明显的岩石或树木能帮助你恢复记忆)。此句明显体现了积极褒义的感情色彩，根据这个线索，可直接确定A选项surprised为正确答案，即：你或许会感到惊讶。"
+			}]
+		}, {
+			"SbjId": "1764542",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "12"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.problem"
+			}, {
+				"Label": "B",
+				"Text": "B.option"
+			}, {
+				"Label": "C",
+				"Text": "C.view"
+			}, {
+				"Label": "D",
+				"Text": "D.result"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.本文第一段提到：“如果你在没有电话或指南针的情况下迷路了，而且你真的找不到北方，我们有一些技巧可以帮助你回到文明社会”。空格所在处提到：另一个___:登到高处寻找有人类住所的标志，因此此处的another__应该与tricks构成总分关系，即，空格处所填的名词应与tricks语义相近。只有B选项option(选择，办法)符合要求。"
+			}]
+		}, {
+			"SbjId": "1764543",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "13"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.Aboveall"
+			}, {
+				"Label": "B",
+				"Text": "B.Incontrast"
+			}, {
+				"Label": "C",
+				"Text": "C.Onaverage"
+			}, {
+				"Label": "D",
+				"Text": "D.Forexample"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据选项特征得知，本题属于句间逻辑关系题，因此需要根据空格前后两句话之间的语义关系来选择。空格前提到“另一个办法就是登高来寻找有人类居住的标志”，关键词为：look for signs;空格后提到“在茂密森林里，你应该能够发现由于道路、电缆、火车轨道和人们在树林中开辟的其他道路而造成的树木之间的空隙”，关键词为：spot gaps。而look for与spot语义相近，signs为抽象名词，gaps为具体名词，因此空格前后表是例证关系或总分关系，故D选项for example(例如)为正确答案。"
+			}]
+		}, {
+			"SbjId": "1764544",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "14"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.bridge"
+			}, {
+				"Label": "B",
+				"Text": "B.avoid"
+			}, {
+				"Label": "C",
+				"Text": "C.spot"
+			}, {
+				"Label": "D",
+				"Text": "D.separate"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.该题需结合第13题来选择。本题空格所在句是对前面句子的例证，故主题一致，因此空格处需填入的动词需和look for语义相近，故选择spot(识别，发现)。"
+			}]
+		}, {
+			"SbjId": "1764545",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "15"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.form"
+			}, {
+				"Label": "B",
+				"Text": "B.through"
+			}, {
+				"Label": "C",
+				"Text": "C.beyond"
+			}, {
+				"Label": "D",
+				"Text": "D.under"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.空格处需填入介词来和前面的动词carve及后面的名词woods构成顺畅的语义搭配。Carve____woods:在森林中开辟道路, B选项through用法最恰当，故为正确答案。"
+			}]
+		}, {
+			"SbjId": "1764546",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "16"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.posts"
+			}, {
+				"Label": "B",
+				"Text": "B.links"
+			}, {
+				"Label": "C",
+				"Text": "C.shades"
+			}, {
+				"Label": "D",
+				"Text": "D.breaks"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.本题空前有一个指示代词these，通过语义，“these 16 ”指代上文的“roads, train tracks, and other paths”，并由定语从句“people carve through the woods”(人们在森林中开辟的……)修饰。从语义上来看，breaks最合适。"
+			}]
+		}, {
+			"SbjId": "1764547",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "17"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.artificial"
+			}, {
+				"Label": "B",
+				"Text": "B.mysterious"
+			}, {
+				"Label": "C",
+				"Text": "C.hidden"
+			}, {
+				"Label": "D",
+				"Text": "D.limited"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析. 本空所处的句子“scan … for 17 light sources”,与本段开头“look for sign of human habitation ”结构一致，语义相关，空格处所填形容词和human意思相近，选择artificial “人造的”。除此之外，17题 后面“such as fires and streetlights,”所列举的两种光源的共同特点就是artificial。"
+			}]
+		}, {
+			"SbjId": "1764548",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "18"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.Finally"
+			}, {
+				"Label": "B",
+				"Text": "B.Consequently"
+			}, {
+				"Label": "C",
+				"Text": "C.Incidentally"
+			}, {
+				"Label": "D",
+				"Text": "D.Generally"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析. 本空位于段首，并由逗号隔开，所以考察上下段落逻辑。空后为条件状语从句“assuming you ”，与上文的“If you”构成顺接递进关系，选项中，只用finally表顺接。"
+			}]
+		}, {
+			"SbjId": "1764549",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "19"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.memories"
+			}, {
+				"Label": "B",
+				"Text": "B.marks"
+			}, {
+				"Label": "C",
+				"Text": "C.notes"
+			}, {
+				"Label": "D",
+				"Text": "D.belongings"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.空后的定语从句“we leave on the landscape”，由语义得知此处应该填“标记”，所以选marks。"
+			}]
+		}, {
+			"SbjId": "1764550",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "11.76",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "20"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A.restrict"
+			}, {
+				"Label": "B",
+				"Text": "B.adopt"
+			}, {
+				"Label": "C",
+				"Text": "C.lead"
+			}, {
+				"Label": "D",
+				"Text": "D.expose"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.本空主要考察语义搭配，所填动词需要与主语“tire blazes, tire tracks and other features”(轮胎，轮胎痕迹和其他标记)，宾语you，以及不定式to civilization(文明)之间构成完整语义，所以此处填lead“引导”最合适。"
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "3",
+		"QuanZhanZuoDa": "17",
+		"QuanZhanRightRate": "35.29",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "2",
+		"SbjId": "573289",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Section II Reading Comprehension"
+		}, {
+			"QType": "1",
+			"QContent": "Part A"
+		}, {
+			"QType": "1",
+			"QContent": "Directions."
+		}, {
+			"QType": "1",
+			"QContent": "Read the following four texts. Answer the questions below each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET.(40 points) "
+		}, {
+			"QType": "1",
+			"QContent": "Text 1"
+		}, {
+			"QType": "1",
+			"QContent": "Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks. Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing. The main purpose of this “clawback” rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institution. Yet officials also hope for a much larger benefit: more long term decision-making not only by banks but by all corporations, to build a stronger economy for future generations."
+		}, {
+			"QType": "1",
+			"QContent": "“Short-termism” or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England' s top economist, Andrew Haldane. He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like Children who pick the plums out of their pudding to eat them at once” rather than putting them aside to be eaten last."
+		}, {
+			"QType": "1",
+			"QContent": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades. Transient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to invest in long-term research or to build up customer loyalty. This has been dubbed “quarterly capitalism”."
+		}, {
+			"QType": "1",
+			"QContent": "In addition, new digital technologies have allowed more rapid trading of equities, quicker use of information, and thus shorters attention spans in financial markets. There seems to be a predominance of short-term thinking at the expense of long-term investing, said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week."
+		}, {
+			"QType": "1",
+			"QContent": "In the US, the Sarbanes-OXley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce “Short-termism.” In its latest survey of CEO pay, the Wall Street Journal finds that “a substantial part” of executive pay is now tied to performance."
+		}, {
+			"QType": "1",
+			"QContent": "Much more could be done to encourage “long-termism,” such as changes in the tax code and quicker disclosure of stock acquisitions. In France, shareholders who hold onto a company investment for at least two years can sometimes earn more voting rights in a company."
+		}, {
+			"QType": "1",
+			"QContent": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders. Britain’s new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term."
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "573289",
+		"SbjSubContentList": [{
+			"SbjId": "573290",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "35.29",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "21. According to Paragraph 1, one motive in imposing the new rule is the"
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. enhance bankers' sense of responsibility"
+			}, {
+				"Label": "B",
+				"Text": "B. help corporations achieve larger profits"
+			}, {
+				"Label": "C",
+				"Text": "C. build a new system of financial regulation"
+			}, {
+				"Label": "D",
+				"Text": "D. guarantee the bonuses of top executives"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干可知这是一道典型的细节题。根据题干关键词“paragraph 1”和“one motive in imposing the new rule”回文定位在第一段第三句“The main purpose of this ‘clawback’ rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions.”(这个规则主要目的是让银行家为不良风险负责以及修复公众对金融机构的信任)，对比所给四个选项，只有A项enhance banks’ sense of responsibility (增加银行的责任感)与原文表述一致，故为正确答案。B项“help corporations achieve profits”(帮助公司获得利润)以及C项“build a new system of financial regulation”(建立新的金融监管体系)在原文中并未提及。D项“guarantee the bonuses of top executives”(保证高管的奖金)与原文“…any guaranteed bonus of top executives could be delayed 10 years…”(高管的任何有保证的奖金会被延迟10年)表述相反，故排除。"
+			}]
+		}, {
+			"SbjId": "573291",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "35.29",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "22. Alfred Marshall is quoted to indicate"
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. the conditions for generating quick profits"
+			}, {
+				"Label": "B",
+				"Text": "B. governments’ impatience in decision-making"
+			}, {
+				"Label": "C",
+				"Text": "C. the solid structure of publicly traded companies"
+			}, {
+				"Label": "D",
+				"Text": "D. “short-termism” in economic activities"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干中的“Alfred Marshall”回文定位在第二段最后一句“Alfred Marshall, in describing this financial impatience as acting like….”，其中的“this financial impatience”指上文提到的“short-termism”，也就是Alfred Marshall描述“短期主义”的行为就像……，由此可知，D项“short-termism” in economic activities(经济活动中的“短期主义”)为正确答案。其他选项在原文中均未提及，故排除"
+			}]
+		}, {
+			"SbjId": "573292",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "35.29",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "23. It is argued that the influence of transient investment on public companies can be"
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. indirect"
+			}, {
+				"Label": "B",
+				"Text": "B. adverse"
+			}, {
+				"Label": "C",
+				"Text": "C. minimal"
+			}, {
+				"Label": "D",
+				"Text": "D. temporary"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干关键词“Transient investment”定位第三段第二句，“Transient investors, ... can hinder a firm’s efforts to invest in long-term research or to build up customer loyalty”(短暂投资会对公司的长期规划设阻，并影响客户的忠诚度。)A项indirect (间接的)，原文未提及，排除; B项adverse (不利的)对应原文“hinder”，故为正确选项;C项minimal (最小的)和D项temporary(暂时的)原文未提及，故排除。"
+			}]
+		}, {
+			"SbjId": "573293",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "35.29",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "24. The US and France examples are used to illustrate"
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. the obstacles to preventing “short-termism”"
+			}, {
+				"Label": "B",
+				"Text": "B. the significance of long-term thinking"
+			}, {
+				"Label": "C",
+				"Text": "C. the approaches to promoting “long-termism”"
+			}, {
+				"Label": "D",
+				"Text": "D. the prevalence of short-term thinking"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析. 根据题干定位到第五、六段，第五段为美国的例子，第六段为法国的例子，(第五段中美国延迟发放才上任一年左右的高管绩效津贴，继而促进缓解“短期主义”盛行的现状;第六段在法国持股两年以上者拥有更大的选票权。)第六段首句承前启后讲到“Much more could be done to encourage ‘long-termism’”促进“长期主义”还有很多做法。A项The obstacles to preventing “short-termism”(预防“短期主义”的阻碍)，无中生有，故排除; B项The significance of long-termism thinking(“长期主义”思维的意义)，无中生有，故排除;C项The approaches to promoting “Long-termism”(促进“长期主义”的方法)，与原文一致，故为正确选项;D. The prevalence of short-termism thinking (“长期主义”思维的盛行)为第四段内容，与题干无关，故排除。"
+			}]
+		}, {
+			"SbjId": "573294",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "17",
+			"QuanZhanRightRate": "35.29",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "25. Which of the following would be the best title for the text"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. Failure of Quarterly Capitalism"
+			}, {
+				"Label": "B",
+				"Text": "B. Patience as a Corporate Virtue"
+			}, {
+				"Label": "C",
+				"Text": "C. Decisiveness Required of Top Executive"
+			}, {
+				"Label": "D",
+				"Text": "D. Frustration of Risk-taking Bankers"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干关键词best title可知这是一道典型的主旨大意题。纵观全文，文章围绕西方国家的金融行业的“短期主义”投资和“长期主义”投资展开。第一段由金融管理者制定的一项限制高管津贴措施引出全文中心话题，促进金融投资的“长期主义”规划;第二段介绍了目前英国银行高管中“短期主义”投资占主流;第三段指出“短期主义”投资的弊端，第四段主要介绍美国现阶段仍然通过技术手段使得“短期主义”投资愈发盛行;五六段举例点明美法两国为促进“短期主义”投资所采取的措施;文章尾端再次呼应首段，点明英国新政提醒银行家们注重“长期主义”投资。B选项中的Patience对应文章中反复出现的主题词short-termisim和long-termisim, Corporate本身在文章中就多次出现，因此为最佳标题。其余选项A. Failure of Quarterly Capitalism (季度资本主义的失败), C. Decisiveness Required of Top Executives (高管需要的决断力) D.Frustration of Risk-taking Bankers(冒险银行家的挫败感)均不能概括全文，故排除."
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "3",
+		"QuanZhanZuoDa": "13",
+		"QuanZhanRightRate": "7.69",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "3",
+		"SbjId": "573295",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Text 2"
+		}, {
+			"QType": "1",
+			"QContent": "Grade inflation—the gradual increase in average GPAs (grade-point averages) over the past few decades—is often considered a product of a consumer era in higher education, in which students are treated like customers to be pleased. But another, related force—a policy often buried deep in course catalogs called “grade forgiveness”— is helping raise GPAs."
+		}, {
+			"QType": "1",
+			"QContent": "Grade forgiveness allows students to retake a course in which they received a low grade, and the most recent grade or the highest grade is the only one that counts in calculating a student' s overall GPA."
+		}, {
+			"QType": "1",
+			"QContent": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates. When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in their transition to college-level courses. But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven."
+		}, {
+			"QType": "1",
+			"QContent": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty. “Ultimately,” said Jack Miner, Ohio State University’s registrar, “we see students achieve more success because they retake a course and do better in subsequent contents or master the content that allows them to graduate on time.”"
+		}, {
+			"QType": "1",
+			"QContent": "That said, there is a way in which grade forgiveness satisfies colleges’ own needs as well. For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention—so better grades can, by boosting figures like those, mean more money. And anything that raises GPAs will likely make students-who, at the end of the day are paying the bill—feel they’ve gotten a better value for their tuition dollars, which is another big concern for colleges."
+		}, {
+			"QType": "1",
+			"QContent": "Indeed, grade forgiveness is just another way that universities are responding to consumers expectations for higher education. Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible—or at least appear to be. On this, students' and colleges’ incentives seem to be aligned."
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "573295",
+		"SbjSubContentList": [{
+			"SbjId": "573296",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "26.What is commonly regarded as the cause of grade inflation?"
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. The change of course catalogs"
+			}, {
+				"Label": "B",
+				"Text": "B. Students' indifference to GPAS"
+			}, {
+				"Label": "C",
+				"Text": "C. Colleges neglect of GPAS"
+			}, {
+				"Label": "D",
+				"Text": "D. The influence of consumer culture"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干信息词定位到首段第一句，句子主干“Grade inflation is often considered a product of a consumer era in higher education”即高校成绩膨胀问题通常被认为是消费者至上时代的产物。选项The influence of consumer culture. “消费者至上文化的影响”正是该句原因的同义表达。故D选项正确。"
+			}]
+		}, {
+			"SbjId": "573297",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "27. What was the original purpose of grade forgiveness?"
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. To help freshmen adapt to college leaning"
+			}, {
+				"Label": "B",
+				"Text": "B. To maintain colleges graduation rates"
+			}, {
+				"Label": "C",
+				"Text": "C. To prepare graduates for a challenging future"
+			}, {
+				"Label": "D",
+				"Text": "D. To increase universities’ income from tuition"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干要求定位到第三段第二句。该句中的this practice对应题干中的grade forgiveness，first started对应题干中的original，而不定式短语to give them(freshmen)a second chance...if they struggled in their transition to college-level courses(如果大一新生在都向大学课程的过渡中有问题的话在给他们一次机会......)为目的，对应题干中的purpose，故正确答案应为A.选项To help freshmen adapt to college learning(帮助大一新生适应大学学习)。"
+			}]
+		}, {
+			"SbjId": "573298",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "28. According to Paragraph 5, grade forgiveness enables colleges to"
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. obtain more financial support"
+			}, {
+				"Label": "B",
+				"Text": "B. boost their student enrollments"
+			}, {
+				"Label": "C",
+				"Text": "C. improve their teaching quality"
+			}, {
+				"Label": "D",
+				"Text": "D. meet local governments’ needs"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.细节题做题的技巧是“准确定位和匹配”。根据题干关键词“paragraph 5”,以及“grade forgiveness”和“colleges”定位到第五段第一句话。通过第一句话可以看出，“grade forgiveness”满足了大学自己的需要，而具体的需要在第二句中体现，因此本题真正的答案出自于第二句即“For public institution…”。第二句话的意思是“对于大学来讲，国家的基金有时候是跟一些因素有关的，比如毕业率和学生在学率，因此好的分数意味着钱。题干中问题使“grade forgiveness”使大学能够…,而根据本段的第二句话，可知“grade forgiveness”使大学能够获得更多的国家的基金，这与A选项“获得更多的经济支持”匹配，因此正确答案选A。"
+			}]
+		}, {
+			"SbjId": "573299",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "29. What does the phrase “to be aligned” (Para. 6) most probably mean?"
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. To counterbalance each other."
+			}, {
+				"Label": "B",
+				"Text": "B. To complement each other"
+			}, {
+				"Label": "C",
+				"Text": "C. To be identical with each other"
+			}, {
+				"Label": "D",
+				"Text": "D. To be contradictory to each other"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题目定位到第6段最后一句：On this, students’ and colleges’ incentives seem to be aligned.解决本题的关键是this指代的内容，根据上文Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible—or at least appear to be.即“由于学生和家长都希望通过大学学历找工作，因此符合学校最佳利益的便是尽可能地证明学生的能力——或者说至少看起来如此”。由此可知，学生和学校有着共同的利益目标，所以正确答案为C，学生和学校的倡议是一致的。"
+			}]
+		}, {
+			"SbjId": "573300",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "30. The author examines the practice of grade forgiveness by"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. assessing its feasibility"
+			}, {
+				"Label": "B",
+				"Text": "B. analyzing the causes behind it"
+			}, {
+				"Label": "C",
+				"Text": "C. comparing different views on it"
+			}, {
+				"Label": "D",
+				"Text": "D. listing its long-run effects"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析. 根据题干，表面上问作者通过什么论述方式来探讨grade forgiveness的实践操作，其实是考全文的主旨写作手法，属于主旨大意题。方法即是串读每段段落大意句，把握作者的论述角度。尤其，在第一段第一句Grade inflation-…. - is often considered a product of a consumer era….以及第二句But another, related force -……谈及的都是背后的原因。第五段，第一句That said, there is a way in which grade forgiveness satisfies colleges' own needs as well.也是突出了grade forgiveness能够满足大学自身的需求，这也是分析了grade forgiveness的原因。所以，该题答案是B项，analyzing the causes behind it."
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "3",
+		"QuanZhanZuoDa": "13",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "4",
+		"SbjId": "573301",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Text 3"
+		}, {
+			"QType": "1",
+			"QContent": "This year marks exactly two centuries since the publication of Frankenstein; or, The Modem Prometheus, by Mary Shelley. Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be raised by technologies yet to come."
+		}, {
+			"QType": "1",
+			"QContent": "Today the rapid growth of artificial intelligence (AI) raises fundamental questions: “What is intelligence, identity, or consciousness? What makes humans humans?”"
+		}, {
+			"QType": "1",
+			"QContent": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists. Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as “Westworld” and “Humans”."
+		}, {
+			"QType": "1",
+			"QContent": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist. “We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.”"
+		}, {
+			"QType": "1",
+			"QContent": "But that doesn’t mean crucial ethical issues involving AI aren’t at hand. The coming use of autonomous vehicles, for example, poses thorny ethical questions. Human drivers sometimes must make split-second decisions. Their reactions may be a complex combination of instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment. AI “vision” today is not nearly as sophisticated as that of humans. And to anticipate every imaginable driving situation is a difficult programming problem."
+		}, {
+			"QType": "1",
+			"QContent": "Whenever decisions are based on masses of data, “you quickly get into a lot of ethical questions,” notes Tan Kiat How, chief executive of a Singapore-based agency that is helping the government develop a voluntary code for the ethical use of AI. Along with Singapore, other governments and mega-corporations are beginning to establish their own guidelines. Britain is setting up a data ethics center. India released its AI ethics strategy this spring."
+		}, {
+			"QType": "1",
+			"QContent": "On June 7 Google pledged not to “design or deploy AI” that would cause “overall harm,” or to develop Al-directed weapons or use AI for surveillance that would violate international norms. It also pledged not to deploy AI whose use would violate international laws or human rights."
+		}, {
+			"QType": "1",
+			"QContent": "While the statement is vague, it represents one starting point. So does the idea that decisions made by AI systems should be explainable, transparent, and fair."
+		}, {
+			"QType": "1",
+			"QContent": "To put it another way. How can we make sure that the thinking of intelligent machines reflects humanity’s highest values? Only then will they be useful servants and not Frankensteins out-of-control monster."
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "573301",
+		"SbjSubContentList": [{
+			"SbjId": "573302",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "31. Mary Shelley’s novel Frankenstein is mentioned because it"
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. fascinates AI scientists all over the world"
+			}, {
+				"Label": "B",
+				"Text": "B. has remained popular for as long as 200 years"
+			}, {
+				"Label": "C",
+				"Text": "C. involves some concerns raised by AI today"
+			}, {
+				"Label": "D",
+				"Text": "D. has sparked serious ethical controversies"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.由题干表述可判断本题为典型的观点例证题，所证观点就在例证前后，该例子出现在篇首，引出主题在后。由此可知本题定位句为第一段最后一句话。与选项比对可知，C项为“... that would ... to come”部分的同义转述，故为正确答案。其中，involves对应foreshadow，some concerns对应many ethical questions，剩余部分对应选项中的raised by AI today。其余选项在原文均无依据，故排除。"
+			}]
+		}, {
+			"SbjId": "573303",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "32. In David Eagleman’s opinion, our current knowledge of consciousness"
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. helps explain artificial intelligence"
+			}, {
+				"Label": "B",
+				"Text": "B. can be misleading to robot making"
+			}, {
+				"Label": "C",
+				"Text": "C. inspires popular sci-fi TV series"
+			}, {
+				"Label": "D",
+				"Text": "D. is too limited for us to reproduce it"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.观点细节题。根据题干中的David Eagleman定位到文中第四段第一句，该段第二句there are no good theories与题干中的knowledge属于等价代换，该段第二句中的consciousness与题干中的consciousness对应，第一句表明光人们如何思考就复杂到难以理解的程度更不用说要复制它了，第二句表明我们没有解释什么是consciousness的理论，与选项D吻合。题干our current knowledge of consciousness及选项is too limited for us与定位句中的there are no good theories explaining what consciousness actually属于等价代换，选项reproduce it与定位句中reproduced属等价代换。选项A、选项B及选项C基于文中出现的artificial intelligence、robot及sci-fi TV series错误引申。"
+			}]
+		}, {
+			"SbjId": "573304",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "33. The solution to the ethical issues brought by autonomous vehicles"
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. can hardly ever be found"
+			}, {
+				"Label": "B",
+				"Text": "B. is still beyond our capacity"
+			}, {
+				"Label": "C",
+				"Text": "C. causes little public concern"
+			}, {
+				"Label": "D",
+				"Text": "D. has aroused much curiosity"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.细节题。根据题干中的autonomous vehicles定位到第五段第二句。该句出现for example，可知autonomous vehicle是具体的例子。篇中的例子是为了证明论点，应往前看，即证明第一句的观点：涉及人工智能的伦理问题在我们身边(注意这里doesn’t和aren’t为双重否定)，说明问题依然存在。选项B.与题干结合含义为：找出由自动驾驶车带来的人工智能伦理问题的解决方法超出了我们的能力。与文章含义一致。A.选项过于绝对，且从第六段可以看出，不同国家、公司在找解决问题的方法。C.选项和D.选项的public concern和curiosity这些信息词在原文中未涉及，属无中生有。"
+			}]
+		}, {
+			"SbjId": "573305",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "34.The author’s attitude toward Googles pledges is one of"
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. affirmation"
+			}, {
+				"Label": "B",
+				"Text": "B. skepticism"
+			}, {
+				"Label": "C",
+				"Text": "C. contempt"
+			}, {
+				"Label": "D",
+				"Text": "D. respect"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.态度题。根据题干中的the author’s attitude，Google’s pledges。回文定位到第七段，第八段，但其七段都是在讲Google’s pledge，继续看第八段，开头while，转折，while the statement is vague,与vague相反的即是观点，这个地方没有说是谁的观点，无人认领的观点即是作者的观点。vague是情感向下的词语，相反方向应是正向情感。B.skepticismC.contempt都是负向情感，全部排除。D.respect，虽是正向情感，其程度太深。所以选affirmation。"
+			}]
+		}, {
+			"SbjId": "573306",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "35. Which of the following would be the best title for the text?"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. AI’s Future: In the Hands of Tech Giants"
+			}, {
+				"Label": "B",
+				"Text": "B. Frankenstein, the Novel Predicting the Age of AI"
+			}, {
+				"Label": "C",
+				"Text": "C. The Conscience of AI: Complex But Inevitable"
+			}, {
+				"Label": "D",
+				"Text": "D. AI Shall Be Killers Once Out of Control"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.主旨题。本文首段通过引用Mary Shelley的书引出本文要探讨的话题新技术所引发的道德问题。第二段更是明确指出AI引起了一些问题。第三段和第四段对第二段提出的两个问题进行了详细的阐述，表明我们并不能确定智能化的程度以及因为所处环境的复杂无法定义人类自我意识。而在第五段转折之后明确指出AI所涉及的道德问题已经触手可及了。全篇复现了AI和conscience这两个关键词，因此正确答案为C，The Conscience of AI: Complex But Inevitable。"
+			}, {
+				"QType": "1",
+				"QContent": "选项A中的Tech Giants是文章没有提及的概念。尽管文章以Frankenstein这本书为引子，但是这本书并没有预测AI，而是AI技术引发的道德问题，故排除选项B。作者在最有一段表明了对未来积极的态度，AI的发展并非代替人类的最高智慧，最终还是会为人类所用，故排除选项D，该选项中的AI shall be killers呈现负向态度。"
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "3",
+		"QuanZhanZuoDa": "13",
+		"QuanZhanRightRate": "7.69",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "5",
+		"SbjId": "573317",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Text 4"
+		}, {
+			"QType": "1",
+			"QContent": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states."
+		}, {
+			"QType": "1",
+			"QContent": "The Supreme Court’s opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually. The decisions made it more difficult for states to collect sales tax on certain online purchases."
+		}, {
+			"QType": "1",
+			"QContent": "The cases the court overturned said that if a business was shipping a customer’s purchase to a state where the business didn’t have a physical presence such as a warehouse or office. The business didn’t have to collect sales tax for the state. Customers were generally responsible for paying the sales tax to the state themselves if they weren’t charged it, but most didn’t realize they owed it and few paid."
+		}, {
+			"QType": "1",
+			"QContent": "Justice Anthony Kennedy wrote that the previous decisions were flawed. “Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,” he wrote in an opinion joined by four other justices. Kennedy wrote that the rule “limited states’ ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.”"
+		}, {
+			"QType": "1",
+			"QContent": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already. Now rivals will be charging sales tax where they hadn’t before. Big chains have been collecting sales tax nationwide because they typically have physical stores in whatever state a purchase is being shipped to Amazon. Com, with its network of warehouses, also collects sales tax in every state that charges it, though third-party sellers who use the site don’t have to."
+		}, {
+			"QType": "1",
+			"QContent": "Until now, many sellers that have a physical presence in only a single state or a few states have been able to avoid charging sales taxes when they ship to addresses outside those states Sellers that use eBay and Etsy, which provide platforms for smaller sellers, also haven' t been collecting sales tax nationwide. Under the ruling Thursday, states can pass laws requiring out-of-state sellers to collect the state’s sales tax from customers and send it to the state."
+		}, {
+			"QType": "1",
+			"QContent": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses. The losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones. Those retailers may face headaches complying with various state sales tax laws. The Small Business Entrepreneurship Council advocacy group said in a statement, “Small businesses and internet entrepreneurs are not well served at all by this decision.”"
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "573317",
+		"SbjSubContentList": [{
+			"SbjId": "573318",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "36. The Supreme Court decision Thursday will"
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. better business’ relations with states"
+			}, {
+				"Label": "B",
+				"Text": "B. put most online business in a dilemma"
+			}, {
+				"Label": "C",
+				"Text": "C. make more online shoppers pay sales tax"
+			}, {
+				"Label": "D",
+				"Text": "D. force some states to cut sales tax"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干可知这是一道典型的细节题。根据题干关键词”The Supreme Court Decision Thursday”定位到首段首句，States will be able to force more shoppers to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.由该句可知，最高法院的裁决可以让州政府去强制消费者在网上购物时要上缴销售税(营业税)，直接得出选项C. make more online shoppers pay sales tax，让更多在线购物者支付销售税。"
+			}]
+		}, {
+			"SbjId": "573319",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "37. It can be learned from paragraphs 2 and 3 that the overruled decisions"
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. have led to the dominance of e-commerce"
+			}, {
+				"Label": "B",
+				"Text": "B. have cost consumers a lot over the years"
+			}, {
+				"Label": "C",
+				"Text": "C. were widely criticized by online purchases"
+			}, {
+				"Label": "D",
+				"Text": "D. were considered unfavorable by states"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干可知这是一道典型的推理题。根据题干定位范围确定为第二，三段，再根据题干细节：overruled decisions确定定位句为第二段的第一句与第二句，第二句that states said cost them billions of dollars in lost revenue annually州政府抱怨之前的政策导致每年税收损失惨重。第三句The decisions made it more difficult for states to collect sales tax on certain online purchases，原政策让州政府很难收取网上购物的营业税。综合两句情感色彩都为负向，对州政府不利，从而得出答案D. were considered unfavorable by states州政府认为原政策对州不利。"
+			}]
+		}, {
+			"SbjId": "573320",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "38. According to Justice Anthony Kennedy, the physical presence rule has"
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. hindered economic development"
+			}, {
+				"Label": "B",
+				"Text": "B. brought prosperity to the country"
+			}, {
+				"Label": "C",
+				"Text": "C. harmed fair market competition"
+			}, {
+				"Label": "D",
+				"Text": "D. boosted growth in states’ revenue"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干可知这是一道典型的观点细节题。根据题干定位Anthony Kennedy定位在第四段，再根据题干细节physical presence rule确定定位句为第四段的第二句与第三句。第二句Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States，实体店规定导致州政府税收亏损严重，第三句the rule limited States' ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.该规定限制了州政府持长期繁荣，并妨碍了所有市场参与者公平竞争，从而得出答案C. harmed fair market competition破坏了公平市场竞争 。"
+			}]
+		}, {
+			"SbjId": "573321",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "39. Who are most likely to welcome the Supreme Court ruling"
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. Internet entrepreneurs"
+			}, {
+				"Label": "B",
+				"Text": "B. Big-chain owners"
+			}, {
+				"Label": "C",
+				"Text": "C. Third-party sellers"
+			}, {
+				"Label": "D",
+				"Text": "D. Small retailers"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干可知这是一道推理题。根据题干定位范围确定为第五段，再根据题干细节：more likely to welcome the Supreme Court ruling确定定位句为第五段的第一句，第一句the ruling is a victory for big chains这项裁决对于大型连锁公司来说是个胜利。从而得出答案B. Big-chain owners大型连锁公司。"
+			}]
+		}, {
+			"SbjId": "573322",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "13",
+			"QuanZhanRightRate": "07.69",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "40. In dealing with the Supreme Court decision Thursday, the author"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "A. gives a factual account of it and discusses its consequences"
+			}, {
+				"Label": "B",
+				"Text": "B. describes the long and complicated process of its making"
+			}, {
+				"Label": "C",
+				"Text": "C. presents its main points with conflicting views on them"
+			}, {
+				"Label": "D",
+				"Text": "D. cites some cases related to it and analyzes their implications"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.根据题干可知这是一道行文架构题，考查学生对文章结构的把握。整篇文章首段直接点名最高法院通过新的裁决，征收在线营业税。第二段介绍原来的判决及其后果，不利州政府。第三段描述原来判决涉及到的案例。第四段列举大法官观点，以前判决有瑕疵。第五段论述新判决的影响：对大型连锁店有利。第六段谈及新裁决对州外卖家的影响。第七段明确新裁决受到零售界的肯定。根据各段主旨可以看出作者的行文思路为：首段先介绍新判决，然后二三四段列出一些与此有关的案例，五六七段论其对行业内各界的影响。由此得出正确选项D. cites some cases related to it and analyses their implications引用相关案例，并论其影响。"
+			}]
+		}]
+	}, {
+		"SbjTypeName": "新题型",
+		"SbjType": "17",
+		"SbjNanDu": "3",
+		"QuanZhanZuoDa": "16",
+		"QuanZhanRightRate": "25.00",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "6",
+		"SbjId": "573328",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Part B"
+		}, {
+			"QType": "1",
+			"QContent": "Directions"
+		}, {
+			"QType": "1",
+			"QContent": "The following paragraphs are given in a wrong order. For Questions 41-45, you are required to reorganize these paragraphs into a coherent article by choosing from the list A-G and filling them into the numbered boxes.Paragraphs C and F have been correctly placed. Mark your answers on ANSWER SHEET. (10 points)"
+		}, {
+			"QType": "1",
+			"QContent": "A. These tools can help you win every argument—not in the unhelpful sense of beating your opponents but in the better sense of learning about the issues that divide people. Learning why they disagree with us and learning to talk and work together with them. If we readjust our view of arguments —from a verbal fight or tennis game to a reasoned exchange through which we all gain mutual respect, and understanding—then we change the very nature of what it means to “win” an argument."
+		}, {
+			"QType": "1",
+			"QContent": "B. Of course, many discussions are not so successful. Still, we need to be careful not to accuse opponents of bad arguments too quickly. We need to learn how to evaluate them properly. A large part of evaluation is calling out bad arguments, but we also need to admit good arguments by opponents and to apply the same critical standards to ourselves. Humility requires you to recognize weakness in your own arguments and sometimes also to accept reasons on the opposite side."
+		}, {
+			"QType": "1",
+			"QContent": "C. None of these will be easy but you can start even if others refuse to. Next time you state your position, formulate an argument for what you claim and honestly ask yourself whether your argument is any good. Next time you talk with someone who takes a stand, ask them to give you a reason for their view. Spell out their argument fully and charitably. Assess its strength impartially. Raise objections and listen carefully to their replies."
+		}, {
+			"QType": "1",
+			"QContent": "D. Carnegie would be right if arguments were fights, which is how we often think of them. Like physical fights, verbal fights can leave both sides bloodied. Even when you win, you end up better off. Your prospects would be almost as dismal if arguments were even just competitions—like,say, tennis games. Pairs of opponents hit the ball back and forth until one winner emerges from all who entered. Everybody else loses. This kind of thinking is why so many people try to avoid arguments, especially about politics and religion."
+		}, {
+			"QType": "1",
+			"QContent": "E. In his 1936 workHow to Win Friends and Influence People, Dale Carnegie wrote: “There is only one way to get the best of an argument—and that is to avoid it.” This aversion to arguments is common, but it depends on a mistaken view of arguments that causes profound problems for our personal and social lives— and in many ways misses the point of arguing in the first place."
+		}, {
+			"QType": "1",
+			"QContent": "F. These views of arguments also undermine reason. If you see a conversation as a fight or competition, you can win by cheating as long as you don’t get caught. You will be happy to convince people with bad arguments. You can call their views stupid, or joke about how ignorant they are. None of these tricks will help you understand them, their positions or the issues that divide you, but they can help you win in one way."
+		}, {
+			"QType": "1",
+			"QContent": "G. There is a better way to win arguments. Imagine that you favor increasing the minimum wage in our state, and I do not. If you yell, Yes, and I yell. No,  neither of us learns anything. We neither understand nor respect each other, and we have no basis for compromise or cooperation. In contrast, suppose you give a reasonable argument: that full-time workers should not have to live in poverty. Then I counter with another reasonable argument: that a higher minimum wage will force businesses to employ fewer people for less time. Now we can understand each other’s positions and recognize our shared values, since we both care about needy workers."
+		}, {
+			"QType": "1",
+			"QContent": "41→42→F→43→"
+		}, {
+			"QType": "1",
+			"QContent": "44→C→ 45 "
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "573328",
+		"SbjSubContentList": [{
+			"SbjId": "1858277",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "16",
+			"QuanZhanRightRate": "25.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "41."
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "E",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.快速浏览选项，F和C段为已知段。现在要确定的是剩下的段落哪一段可以作为段首。G段落开头为there is a better way…出现一个比较级，说明是和前面的一个方法相比较，因此不能做段首;A段落these tools开头，出现代词，不能组为段首;B段落many discussions are not so successful，出现词汇so，为代词，指代上面说的successful discussion，因此不能做句首;这样只剩D和E段落，D段落开头Carnegie would be right if…，这里出现了对人物观点进行正确与否的判断，判断正确与否的前提是首先要提到此人的存在以及其观点具体是什么，所以D段落不能为段首，因此此题答案为E。实际上，纵观全文，本段是以Carnegie的观点为为切入，然后通过分析Carnegie观点，对有效辩论进行探讨。"
+			}]
+		}, {
+			"SbjId": "1858278",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "16",
+			"QuanZhanRightRate": "25.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "42."
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.首段提及到Carnegie以及他书中的观点，根据人物线索，本题优先选择出现人物复现的段落，浏览剩余的段落发现只有选项D出现了Carnegie这个人。对这两个选项稍加分析得知，第一段论述了Carnegie书中的观点，D选项论述作者对此观点的评论，符合立论型文章的篇章结构。再者，根据已知段落F句首出现的代词指代线索也能得出答案。F首句提到These views of arguments与D段落尾句中的this kind of thinking为同义复现，因此D为正确答案。"
+			}]
+		}, {
+			"SbjId": "1858279",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "16",
+			"QuanZhanRightRate": "25.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "43."
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "G",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.该选项位于F项之后，F段最后一句“but they can help you win-in one way”中有“help you win-in one way”，而G段首句“There is a better way to win arguments.”的“a better way to win”是对“help you win-in one way”的进一步说明。因此G段则接着F段。"
+			}]
+		}, {
+			"SbjId": "1858280",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "16",
+			"QuanZhanRightRate": "25.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "44."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.本题位置为C的上一段。所以我们只需找到一段的尾句可以与C段首句进行关联即可。C段的第一句话：None of this will be easy...others refuse to...，句意为这样不容易，即使别人拒绝，但你可以开始...下文继续提到从反方面来对待你的观点。不难发现B项最后一句话提到了recognize weakness...accept ...on the opposite side...，此处opposite和refuse均为同义复现的替换词。此外，B项段尾是从心理上对待相反的论点，而C段中state...ask...spell...assess等均为做出的行动。先有想法再付诸行动的顺序也符合了B在前C在后，所以正确答案为B。"
+			}]
+		}, {
+			"SbjId": "1858281",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "3",
+			"QuanZhanZuoDa": "16",
+			"QuanZhanRightRate": "25.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "45."
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "解析.已知段落C段末尾两句话讲到Next time you state your position…. Next time you talk with someone who…. Assess its strength…。由此可知段落讲的都是一些帮助取得辩论胜利的做法技巧，这与A段落开头的These tools can help you win every argument构成了呼应，尤其是C段后Next time you talk with someone who与A段开头but in the better sense of learning about the issues…同时都在讲对于别人观点的看法。因此确定答案选A选项。"
+			}]
+		}]
+	}, {
+		"SbjTypeName": "翻译",
+		"SbjType": "5",
+		"SbjNanDu": "3",
+		"QuanZhanZuoDa": "3",
+		"QuanZhanRightRate": "100",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "7",
+		"SbjId": "573338",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Part C"
+		}, {
+			"QType": "1",
+			"QContent": "Directions"
+		}, {
+			"QType": "1",
+			"QContent": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on theANSWER SHEET. (10 points)"
+		}, {
+			"QType": "1",
+			"QContent": "It was only after I started to write a weekly column about the medical journals, and began to read scientific papers from beginning to end, that I realized just how bad much of the medical literature frequently was. I came to recognize various signs of a bad paper: the kind of paper that purports to show that people who eat more than one kilo of broccoli a week were 1.17 times more likely than those who eat less to suffer late in life from pernicious anaemia.(46) There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms. "
+		}, {
+			"QType": "1",
+			"QContent": "Why is so much bad science published? A recent paper, titled “The Natural Selection of Bad Science”, published on the Royal Society’s open science website, attempts to answer this intriguing and important question. It says that the problem is not merely that people do bad science, but that our current system of career advancement positively encourages it. What is important is not truth, but publication, which has become almost an end in itself. There has been a kind of inflationary process at work: (47) nowadays anyone applying for a research post has to have published twice the number of papers that would have been required for the same post only 10 years ago. Never mind the quality, then, count the number. "
+		}, {
+			"QType": "1",
+			"QContent": "(48) Attempts have been made to curb this tendency, for example ,by trying to incorporate some measure of quality as well as quantity into the assessment of an applicant’s papers. This is the famed citation index, that is to say the number of times a paper has been quoted elsewhere in the scientific literature, the assumption being that an important paper will be cited more often than one of small account. (49)This would be reasonable if it were not for the fact that scientists can easily arrange to cite themselves in their future publications, or get associates to do so for them in return for similar favours. "
+		}, {
+			"QType": "1",
+			"QContent": "Boiling down an individual' s output to simple metrics, such as number of publications or journal impacts, entails considerable savings in time, energy and ambiguity. Unfortunately, the long-term costs of using simple quantitative metrics to assess researcher merit are likely to be quite great.(50) If we are serious about ensuring that our science is both meaningful and reproducible, we must ensure that our institutions encourage that kind of science. "
+		}],
+		"Score": "10.00",
+		"AnswerList": [{
+			"QType": "1",
+			"QContent": "46.参考译文：在医学杂志上有很多这样的废话，当广播公司和非专业媒体报道此事时，会引起健康恐慌和短暂的饮食狂热。"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "47.参考译文：如今，任何申请研究职位的人，发表的论文数量必须是10年前同一职位所需论文数量的两倍。先不管质量，只管数量。 "
+		}, {
+			"QType": "1",
+			"QContent": "48.参考译文：为了制止这一趋势，我们已作出了一些努力，例如试图在评价申请者的论文时纳入一些质量和质量的双重衡量标准。"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "49.参考译文：如果不是因为科学家们能够很容易地安排在他们未来的出版物中引用他们自己的观点，或者不是因为他们能够让同事们引用他们的观点来换取类似的好处，这种做法是合理的。"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "50.参考译文：如果我们真的想确保我们的科学是有意义的和可复制的，我们必须确保我们的机构鼓励这种科学。"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}],
+		"ExplainList": [{
+			"QType": "1",
+			"QContent": "(46) There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms."
+		}, {
+			"QType": "1",
+			"QContent": "题目考点：定语从句;状语从句省略结构;并列结构;被动结构"
+		}, {
+			"QType": "1",
+			"QContent": "句子结构：主干为：There is a good deal of this kind of nonsense. which引导定语从句修饰nonsense;when引导时间状语从句，且形式是状语从句的省略，省略了主语和系动词(this kind of nonsense is);介词短语in the medical journals作状语;both health scares和short-lived dietary enthusiasms是并列结构，做动词generates的宾语。"
+		}, {
+			"QType": "1",
+			"QContent": "重点词汇：nonsense胡说;废话take up占据;拿起broadcaster广播公司;播音员lay外行的;世俗的generate引起;产生short-lived短暂的"
+		}, {
+			"QType": "1",
+			"QContent": "(47) nowadays anyone applying for a research post has to have published twice the number of papers that would have been required for the same post only 10 years ago."
+		}, {
+			"QType": "1",
+			"QContent": "题目考点：分词定语;定语从句;比较结构"
+		}, {
+			"QType": "1",
+			"QContent": "句子结构：主句主干：nowadays anyone…has to have published twice the number of papers…。applying for为现在分词做后置定语，修饰anyone;that引导的定语从句修饰先行词papers;twice the number of papers为比较结构。"
+		}, {
+			"QType": "1",
+			"QContent": "重点词汇：applying for申请research post研究岗位"
+		}, {
+			"QType": "1",
+			"QContent": "(48) Attempts have been made to curb this tendency, for example, by trying to incorporate some measure of quality as well as quantity into the assessment of an applicant’s papers."
+		}, {
+			"QType": "1",
+			"QContent": "题目考点： 被动语态;状语结构;"
+		}, {
+			"QType": "1",
+			"QContent": "句子结构：本句主干为：Attempts have been made to curb this tendency;by引导的是一个方式状语，该结构内核心搭配是incorporate A into B结构。"
+		}, {
+			"QType": "1",
+			"QContent": "重点词汇：curb控制incorporate包含quantity数量assessment评估，估价，估值"
+		}, {
+			"QType": "1",
+			"QContent": "(49)This would be reasonable if it were not for the fact that scientist can easily arrange to cite themselves in their future publications, or get associates to do so for them in return for similar favors."
+		}, {
+			"QType": "1",
+			"QContent": "题目考点"
+		}, {
+			"QType": "1",
+			"QContent": "：主从句"
+		}, {
+			"QType": "1",
+			"QContent": "及并列句"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "句子结构"
+		}, {
+			"QType": "1",
+			"QContent": "："
+		}, {
+			"QType": "1",
+			"QContent": "This would be reasonable为"
+		}, {
+			"QType": "1",
+			"QContent": "主句，"
+		}, {
+			"QType": "1",
+			"QContent": "if引导的是"
+		}, {
+			"QType": "1",
+			"QContent": "条件从句"
+		}, {
+			"QType": "1",
+			"QContent": "，包括"
+		}, {
+			"QType": "1",
+			"QContent": "or引导的并列句。"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "重点词汇"
+		}, {
+			"QType": "1",
+			"QContent": "："
+		}, {
+			"QType": "1",
+			"QContent": "reasonable a.合理的"
+		}, {
+			"QType": "1",
+			"QContent": "; cite v.引用; associates n.同事 "
+		}, {
+			"QType": "1",
+			"QContent": "(50) If we are serious about ensuring that our science is both meaningful and reproducible, we must ensure that our institutions encourage that kind of science."
+		}, {
+			"QType": "1",
+			"QContent": "题目考点：状语从句;宾语从句"
+		}, {
+			"QType": "1",
+			"QContent": "句子结构：主句主干：we must ensure that...。If we are serious about ensuring that...，这部分是if"
+		}, {
+			"QType": "1",
+			"QContent": "引导的条件状语从句，从句中的ensuring后为that引导的宾语从句;主句中ensure后同样为that"
+		}, {
+			"QType": "1",
+			"QContent": "引导的宾语从句。"
+		}, {
+			"QType": "1",
+			"QContent": "重点词汇：be serious about认真对待reproducible可再生的，可重复的institution制度"
+		}],
+		"Explain": "",
+		"ImageList": []
+	}, {
+		"SbjTypeName": "小作文",
+		"SbjType": "5",
+		"SbjNanDu": "3",
+		"QuanZhanZuoDa": "2",
+		"QuanZhanRightRate": "100",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "8",
+		"SbjId": "573339",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "SectionⅢ Writing"
+		}, {
+			"QType": "1",
+			"QContent": "Part A"
+		}, {
+			"QType": "1",
+			"QContent": "51. Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Suppose you are working for the'Aiding Rural Primary School'project of your university. Write an email to answer the inquiry from an international student volunteer, specifying the details of the project."
+		}, {
+			"QType": "1",
+			"QContent": "You should write about 100 words on the ANSWER SHEET."
+		}, {
+			"QType": "1",
+			"QContent": "Do not use your own name in the email, use'Li Ming'instead. (10points)"
+		}],
+		"Score": "10.00",
+		"AnswerList": [{
+			"QType": "1",
+			"QContent": "Section IV Writing"
+		}, {
+			"QType": "1",
+			"QContent": "51.参考范文"
+		}, {
+			"QType": "1",
+			"QContent": "Dear Jack,"
+		}, {
+			"QType": "1",
+			"QContent": "      I am quite delighted to receive your inquiry about the “Aiding Rural Primary Schools” project of our university, and I am writing to specify its relevant details."
+		}, {
+			"QType": "1",
+			"QContent": "      First of all, this project is organized for the purpose of helping those children in rural primary schools, whose families are so impoverished that they cannot afford tuition. Secondly, the main participants are students and teachers in our university, who are willing to try their utmost to help kids in rural primary schools. Finally, we believe that it is more people’s warmhearted help that will enable more students to have opportunity for better education."
+		}, {
+			"QType": "1",
+			"QContent": "      I, on behalf of this project, am looking forward to your suggestions and participation."
+		}, {
+			"QType": "1",
+			"QContent": "                                                                                                    Yours sincerely,"
+		}, {
+			"QType": "1",
+			"QContent": "                                                                                                          Li Ming"
+		}],
+		"ExplainList": [],
+		"Explain": "",
+		"ImageList": []
+	}, {
+		"SbjTypeName": "大作文",
+		"SbjType": "5",
+		"SbjNanDu": "3",
+		"QuanZhanZuoDa": "2",
+		"QuanZhanRightRate": "100",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "9",
+		"SbjId": "573345",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Part B"
+		}, {
+			"QType": "1",
+			"QContent": "52. Directions"
+		}, {
+			"QType": "1",
+			"QContent": "Write an essay of 160-200 words based on the picture below. In your essay, you should"
+		}, {
+			"QType": "1",
+			"QContent": "1)describe the picture briefly"
+		}, {
+			"QType": "1",
+			"QContent": "2) interpret the meaning and"
+		}, {
+			"QType": "1",
+			"QContent": "3) give your comments"
+		}, {
+			"QType": "1",
+			"QContent": "Write your answer on the ANSWER SHEET. (20 points)"
+		}, {
+			"QType": "1",
+			"QContent": "爬山途中："
+		}, {
+			"QType": "1",
+			"QContent": "A:累了，我不爬了"
+		}, {
+			"QType": "1",
+			"QContent": "B:别呀！休息一下再接着爬"
+		}, {
+			"QType": "2",
+			"QContent": "/asynupload/QuessionImgs/20190418103612_6384.png"
+		}, {
+			"QType": "1",
+			"QContent": "  "
+		}],
+		"Score": "20.00",
+		"AnswerList": [{
+			"QType": "1",
+			"QContent": "52.参考范文"
+		}, {
+			"QType": "1",
+			"QContent": "    In recent years, there have been great concerns over the life attitude of the youngsters. As is depicted in the picture above, half way up the mountain, one man stops and will not continue, whereas the other man persuades him to proceed."
+		}, {
+			"QType": "1",
+			"QContent": "    The picture is thought-provoking: different attitudes-- persistence or not-- lead to completely diverse results. If people stick to their goal, they could find the happiness even when facing the most difficult situation. And life will be a comedy. Conversely, if people easily give up their dream, troubles are everywhere and always exist. "
+		}, {
+			"QType": "1",
+			"QContent": "    Accordingly, to succeed, we need to spare no efforts and hold fast to our dreams just as our nation sticks to our Chinese Dream. The path to dreams may not be smooth, and even some sacrifices are needed, but holding on to the end, you will find that there is no greater happiness than making your dream come true."
+		}],
+		"ExplainList": [],
+		"Explain": "",
+		"ImageList": []
+	}]
+}

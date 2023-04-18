@@ -1,0 +1,685 @@
+
+ Section I
+ 一、文章题材结构分析
+ 本文选自 Popular Science 网站一篇题为 How to find your way out of the woods without tools—or your phone（如何在没有工具，或没有手机的情况下走出森林）的文章。脉络：引出场景“在森林中迷失”并概述对策之一“沿着陆地走”（第一段）——详细介绍具体的迷路情形及对策（第二至五段）。
+
+二、试题解析
+ -1. [A] Some 一些；有些，一部分 [B] Most 大多数，大部分；最多，最大量
+ [C] Few 很少；几乎没有 [D] All 全部，所有；每一个
+ 【答案】C
+ 【考点】上下文语义。
+ 【解析】首句指出如今我们的智能手机拥有各种导航功能；本句切入具体场景：我们中______会不
+ 带手机走进森林。可见首句意在为该句结论做铺垫：手机导航功能强大，自然是户外必备“神器”，也
+ 即，没有人会不带手机就贸然入林，选项中表否定含义的代词只有[C] Few。
+ -2. [A] put 使运行；穿戴；举办 [B] take 承担；呈现
+ [C] run 运转 [D] come 开始；进展；开始运转
+ 【答案】C
+ 【考点】句内语义+动词短语搭配。
+ 【解析】空格所在句意为：但是手机________电池，而电池耗尽的速度会比我们意识到的更快。“空
+ 格动词+on”需体现“手机”与“电池”的关系，由句首 But（体现上下文语义转折：手机功能固然强
+ 大，但一切最终取决于电池）以及常识“手机是依靠电池提供能量才得以运转”可以判断[C] run 正确，
+ 表示“（机器/设备依靠某种能源）运转”。
+ -3. [A] Since 自……以来；因为，既然 [B] If 如果；是否；即使
+ [C] Though 尽管；不过 [D] Until 直到……为止
+ 【答案】B
+ 【考点】句内语义逻辑。
+ 【解析】本题考查句内逻辑，从句、主句大意分别为“在没有导航工具的情况下迷路”、“我们有一
+ 些技巧帮助你确定路线……”，很明显，“迷路”构成“帮你找路”的“假设性前提”，[B] If 符合文意。
+ -4. [A] formally 正式地；礼貌地 [B] relatively 比较而言，相对地
+ [C] gradually 逐渐地，逐步地 [D] literally 的确，确实；根据字面意思
+ 【答案】D 
+ 【考点】句内语义+副词辨析。
+ 【解析】“_______找不到北”与其前的“在没有手机和指南针的情况下迷路”形式上由 and 相连，
+ 语义统一但更进一步：迷路  且方向感尽失，故空格处副词只能表示肯定或强调，[D] literally 用于“强
+ 调所说内容为真，尽管听起来有些夸张”，符合文意。
+ -5. [A] back 回到原处；恢复原状 [B] next （时间）紧接着的；（位置）离得最近的
+ [C] around 环绕；围绕 [D] away 离开；朝另一个方向    
+ 【答案】A
+ 【考点】句内语义逻辑。
+ 【解析】空格所在句意为，如果你（在林中）迷路，我们有一些技巧可以助你确定路线_______文明
+ 社会。上下文语境表明 civilization 与 woods 构成“文明社会 VS 原始丛林”的对立，而 help navigate
+ 意为“助你找回/明确方向”，故________to civilization 应体现“返回文明社会”之意，[A] back 正确。
+ -6. [A] onto 到……上，朝……上 [B] off 离开；不在（某地）上
+ [C] across 穿过，越过；朝，向 [D] alone 单独，独自；孤身一人    
+ 【答案】B
+ 【考点】介词搭配。
+ 【解析】上段末句指出，迷路后的对策之一是沿着陆地走。本句指出，当发现自己_____小路/路线，
+ 但又……时，你必须回答两个问题：在这片区域内哪一……是下坡路？最近的水源在哪里？可见，上
+ 段末与本句构成“概说（迷路后的对策） 细说”的语义场，故本句 When you find yourself________a
+trail 实际在重申上述假设前提（When 表示“条件”），即“如果迷路”，off 作介词课表“偏离”，由程
+ 度副词 well（大大地，远远地）修饰，意为“完全偏离路线/迷路”，故[B] off 符合文意。
+ -7. [A] unattractive 无吸引力的；不好的 [B] uncrowded 不拥挤的
+ [C] unchanged 未改变过的 [D] unfamiliar 不熟悉的，不了解的    
+ 【答案】D
+ 【考点】形容词辨析。
+ 【解析】but 表明“并非身处完全________的区域”与“发现自己远离小路（即迷路）”构成对比转
+ 折，而 not 再度转折，则 in a completely________area 应该与 well off a trail 同指“迷路”，意即“身处
+ 完全陌生之地”，故[D] unfamiliar 符合文意。
+ -8. [A] site 场所，地方 [B] point 观点；位置
+ [C] way 方向；路线 [D] place 地方，地点     
+ 【答案】C
+ 【考点】名词辨析。
+ 【解析】空格所在句介绍迷路时必须思考的两个问题：哪一______是下山/下坡/向下的?最近的水源
+ 在哪里?由“绝大多数人住在山谷中（山谷地势较低）”和“如果你朝下坡方向走（head downhill）……
+ 就应该能看到人的迹象”可知，下坡方向有人类居住的可能性极大，迷路者的目的既然是文明社会，
+ downhill 应是其努力辨明并选择走的方向，which way...为固定用法，表示“某方向、往某方向”，[C] way
+ 正确。
+ -9. [A] So 因此，所以 [B] Yet 但是，然而
+ [C] Instead 相反；而；却 [D] Besides 除此之外  
+ 【答案】A
+ 【考点】上下文语义逻辑。
+ 【解析】本题考查第三四句之间的逻辑关联，第三句意为：（森林里）绝大多数人住在山谷中，依靠
+ 淡水供应生活，第四句意为：如果你朝下坡且顺着发现的水走，……应该会看到人的迹象。可见第四
+ 句是基于第三句常识得出的逻辑结论，[A] So 符合文意。
+ -10.[A] immediately 即刻，马上；立即 [B] intentionally 故意地，蓄意地
+ [C] unexpectedly 出人意料地 [D] eventually 终于，最终 
+ 【答案】D
+ 【考点】句内语义逻辑。
+ 【解析】句子结构 if...,you should...（如果……，你应该会……；此处 should 用于“表示预期”，指
+ “应该会、可能”）明确“条件结果”的句内逻辑，即主句中“看到人的迹象”是从句中条件“朝
+ 下坡方向走”达成的结果，选项中符合文意的只有[D] eventually，该词强调“（经过一番困难后）最终”，
+ 符合“一路向下、同时不断追寻水源”的语境。
+ -11.[A] surprised 惊讶的，诧异的 [B] annoyed 烦恼的，生气的
+ [C] frightened 受惊的，害怕的 [D] confused 困惑的，糊涂的；不清楚的 
+ 【答案】A
+ 【考点】句内语义+形容词辨析。
+ 【解析】破折号后内容是对其前建议“密切关注熟悉景物”的解释说明（a distinctive rock or tree 具
+ 体 familiar sights），表明这么做的意义：认出某熟悉景物会让人迅速找回方向感。How quickly 引导的
+ 感叹号体现对耗时之短的惊叹，空格词应与该惊叹语气一致，为积极正向语义，[A]surprised 符合文意。
+ 【知识补充】“系动词+表示精神/情感作用的形容词（或过去分词）”在语法上相当于一个及物动词，
+ 后可接 that 引导的宾语从句（本句中 that 省略，感叹句 how quickly...充当宾语从句），表示精神/情感
+ 施加对象/释放背景，如 I am sure(=believe)that he is at home.（我确信他在家）。
+ -12.[A] problem 问题；困难 [B] option 选择；可选择的东西
+ [C] view （理解）方法、方式；观点 [D] result 结果，后果  
+ 【答案】B   
+ 【考点】上下文语义+名词辨析。
+ 【解析】第二段介绍迷路后的一种对策“朝下坡方向、顺着水源走，以寻找人迹”；第三段介绍在曾
+ 探索过区域迷路后的对策“寻找熟悉景物”。第四段 1 句冒号后内容“登高并寻找人类居住的迹象”在
+ 语义上与前述内容构成并列关系，故本段应开始介绍第三种对策，option 内涵为“可供选择的事物、
+ 选项”，用在此处可以代指“（可供选择的）对策”，故 B 正确。
+ -13.[A] Above all 最重要的是；首要的是 [B] In contrast 对比之下
+ [C] On average 平均来看，通常 [D] For example 例如
+ 【答案】D
+ 【考点】上下文语义逻辑。
+ 【解析】首句引出对策内容：登高并寻找人类的迹象。二三句指出，即便身处密林之中，也应该能……
+ 由于人们开辟道路、铁轨和其他小路而造成的林木线缺口，朝这些……走以便找到出路。由文意可知，
+ 二句“林木线缺口（gaps in the tree line）”是人力为之的结果，应属于首句“人类居住的迹象（signs of
+human habitation）”，故首句与二三句构成“抽象  具化”的例证关系，[D] For example 正确。
+ -14.[A] bridge 弥合，消除；在……上架桥 [B] avoid 避免；躲避
+ [C] spot 发现；注意到；看出 [D] separate 把……隔开，分离；分辨
+ 【答案】C
+ 【考点】动词辨析。
+ 【解析】由上题分析可知，二三句例证说明首句，空格后 gaps in the tree line（林木线缺口）是首句
+signs of human habitation（人类居住迹象）的具化，上文指出迷路后可以登高来寻找人类居住的迹象，
+ 空格词应该与首句 look for 语义接近，说明“寻找、发现（林木线缺口）”的文意，[C] spot 符合文意。
+ -15.[A] form 自，从，由 [B] through 穿过，通过；切断，切开
+ [C] beyond 超出；在……的另一边 [D] under 在……下面
+ 【答案】B
+ 【考点】介词搭配。
+ 【解析】空格位于修饰 roads, train tracks and other paths 的定语从句(that) people carve ________ the
+woods 中，已知关联为“道路、铁轨等是由人们铺就而成”，故本题实质转化为“考查 roads...与 woods
+ 之间的（方位）关联”。由因果标记词 due to 可知，roads...即为林木线缺口的原因，可见它们位于森林
+ 之中，是人们开辟的结果，carve a road through a place 为常见用法，表示“建起贯穿某地的道路”，介
+ 词 through 表示“从一端到另一端”，B 正确。
+ -16.[A] posts 工作，职位；柱，杆 [B] links 联系，关联；线路
+ [C] shades 背阴处，阴凉处；阴影 [D] breaks 裂口，缺口；休息
+ 【答案】D
+ 【考点】上下文语义。
+ 【解析】有 these 的回指功能可知，解题线索上文二句核心信息中。二句核心内容为：登高便能发
+ 现各种林木线缺口（gaps）。可见本句“朝着它们走应该能找到出路”中“它们”指代“缺口”，空格
+ 词应与二句 gaps 近义，[D] breaks 符合文意。
+ -17.[A] artificial 人造的，人工的；认为的 [B] mysterious 神秘的，难以解释的
+ [C] hidden 隐藏的，隐秘的；潜在的 [D] limited 有限的
+ 【答案】A
+ 【考点】形容词辨析。
+ 【解析】已知首句总体介绍迷路后的又一项对策，四句 At night 提示三句 Head toward...和四句 scan
+the...分别是白天和夜晚时的具体做法。因此四句 scan the horizon for _____ light sources 应该对应首句
+look for signs of human habitation,空格词应与 human 对应。再由 such as 可知，fires and streetlights 是
+ ______light sources 的具体例证，而“火和路灯”的共同特征是“人造光源”，[A] artificial 正确。
+ -18.[A] Finally 最后，终于 [B] Consequently 因此，所以
+ [C] Incidentally 顺便提一下；偶然地 [D] Generally 总体上来说；普遍地
+ 【答案】A
+ 【考点】上下文语义逻辑。
+ 【解析】空格所在句 assuming you’re lost in an area 与第二段首句 When you find yourself...but not in a
+completely...area、第三段首句 If you’ve explored the area before 结构一致、内容呼应，分别引出三种假
+ 设下（在“人类经常出没”、“不完全陌生”以及“曾探索过”的地方迷路时）的应对之举，因此可推
+ 知空格处应引出最后一种假设下的对策，[A] Finally 符合文意。
+ -19.[A] memories 记忆力；记忆，回忆 [B] marks 记号；标记；迹象
+ [C] notes 笔记；便条 [D] belongings 所有物；财物
+ 【答案】B
+ 【考点】上下文语义+名词辨析。
+ 【解析】空格所在句指出，假设你在人类经常出没的地方迷路，寻找我们在地面景观上留下的____。
+ 下文二句指出，小路上的树皮刻痕、轮胎的痕迹和其他特征可以……文明社会。可见二句主语 Trail
+blazes, tire tracks, and other features 即为首句宾语______we leave on the landscape 的具体例证，而它们
+ 显然是人们在地面景观上留下的痕迹，[B] marks 符合文意。
+ -20.[A] restrict 限制，控制；约束 [B] adopt 采用；收养；移居，承袭
+ [C] lead 领路；引领 [D] expose 使暴露（于险境）；使接触
+ 【答案】C
+ 【考点】上下文语义+动词短语搭配。
+ 【解析】由上题分析可知，“小路上的树皮刻痕、轮胎痕迹和其他特征”是迷路时可以借助的线索，
+ 而这些线索应该有助于引导人们重返文明社会。此外，本句是介绍迷路时的一种对策，应该与首段末
+ 句“一些回到文明世界的技巧”语义方向一致，______you to civilization 呼应首段 navigate...to civilization,
+空格词应与 navigate 近义，[C] lead 符合文意，lead sb to/into sth 为固定搭配，表示“引领某人到/进入
+ 某地”。
+
+ 三、全文翻译
+ 今天，我们生活在一个 GPS 系统、数字地图和其他导航应用程序均可在智能手机上使用的世界。我们中很少有人会在没有手机的情况下就径直走进森林。但手机是靠电池运行的，而电池耗尽的速度比我们所意识到的更快。如果你在没有手机和指南针的情况下迷路，并且确实找不到北了，我们有一些技巧可以助你找到返回文明社会的路，其中一个是沿着陆地走。
+ 当发现自己远远偏离路线，但又并非身处完全陌生的区域时，你必须回答两个问题：在这片区域，哪边是下坡方向？最近的水源又在哪里？绝大多数人居住在山谷中，依靠淡水供应生活。所以，如果你朝下坡的方向，顺着发现的一切水分子走，最终应该会看到人烟。
+ 如果你以前曾探索过这一区域，请密切留意熟悉的景物——你可能会惊讶于认出一块特别的岩石或一棵特别的树竟能如此迅速的让人重获方向。
+ 还有个选择：登高并寻找人类居住的迹象。例如，即便身处茂密的森林之中，你也应该能够发现人们在树林中开辟道路、铁轨和其他小路而形成的林木线缺口。朝这些缺口走以便找到出路。夜间，仔细眺望地平线，寻找诸如火和路灯之类的人造光源，然后超光污染造成的光亮走。
+ 最后，假设你在人类经常出没的地方迷路，请寻找我们在地面景观上留下的痕迹。小路上的树皮刻痕、轮胎痕迹和其他特征可以引领你走向文明社会。
+
+
+ Section II
+ Part A
+ Text 1
+ 一、文章题材结构分析
+ 来源：Christian Science Monitor《基督教科学箴言报》2015.06.24 文章 Patience as a Corporate Virtue（耐心，企业的美德）。主题：当前经济活动中短期主义盛行、危害经济发展；企业应进行长远决策，为后代建立更强健的经济。脉络：引入“英国银行业监管新规”并说明起长远目的“使企业做出更多长远决策，为后代建立更强健的经济”（第一段——剖析当前社会现象：上市公司中短期主义盛行（第二至四段）——提出削弱短期主义、鼓励长期主义的方法，肯定英国新规（第五至七段）。
+
+ 二、试题解析
+ -21. According to Paragraph 1, one motive in imposing 21.根据第一段，施行新规的目的之一是_______。
+ the new rule is to
+ [A] enhance bankers’ sense of responsibility [A] 增强银行家的责任感
+ [B] help corporations achieve larger profits [B] 帮助企业获得更多利润
+ [C] build a new system of financial regulation [C] 建立新的金融监管体制
+ [D] guarantee the bonuses of top executives [D] 保证高管的奖金
+ 【答案】A
+ 【考点】写作目的
+ 【解析】根据题干可知这是一道典型的细节题。根据题干关键词“paragraph 1”和“one motive in imposing
+the new rule ” 回 文 定 位 在 第 一 段 第 三 句 “ The main purpose of the ‘clawback’ rule is to hold bankers
+accountable for harmful risk-taking and to restore public trust in financial institutions.”（这个规则主要目的
+ 是让银行家为不良风险负责以及修复公众对金融机构的信任），对比所给的四个选项，只有 A 项
+ “enhance bankers’ sense of responsibility”（增加银行的责任感）与原文表述一致，故为正确答案。B
+ 项“help corporations achieve larger profits”（帮助公司获得利润）以及 C 项“build a new system of financial
+regulation”（建立新的金融监管体系）在原文中并未提及。D 项“guarantee the bonuses of top executives”
+ （保证高管的奖金）与原文“...any guaranteed bonus of top executives could be delayed 10 years...”（高管
+ 的任何有保证的奖金会被延迟 10 年）表述相反，故排除。
+ -22. Alfred Marshall is quoted to indicate 22.文中引用阿尔弗雷德·马歇尔之言是为说明___。
+ [A] the conditions for generating quick profits. [A] 实现快速获利的条件
+ [B] governments’ impatience in decision-making. [B] 政府在决策上没有耐心
+ [C] the solid structure of publicly traded companies.[C] 公开上市公司的坚实架构
+ [D] “short-termism” in economic activities. [D] 经济活动中的“短期主义”
+ 【答案】D
+ 【考点】话语的目的
+ 【解析】第二段首先指出，Andrew Haldane 提出上市公司中“短期主义”（“Short-termism”）加剧。随
+ 后指出他援引 Andrew Haldane 之言，将“这种经济上的烦躁（this financial impatience）”形容为“从
+ 布丁里捡出葡萄干马上吃掉的孩子行为”。可见 this financial impatience 与 Short-termism 同指，援引
+ Marshall 之言意在形象说明经济行为中“短期主义”，D 正确。
+ -23. It is argued that the influence of transient 23.文章认为，短暂型投资对上市公司的影响可能是
+ investment on public companies can be 
+ [A] indirect. [A] 间接的
+ [B] adverse. [B] 不利的
+ [C] minimal. [C] 极小的
+ [D] temporary. [D] 暂时的
+ 【答案】B
+ 【考点】上下文联系
+ 【解析】根据题干关键词“Transient investment”定位第三段第二句，“Transient investors,...can hinder a
+firm’s efforts to invest in long-term research or to build up customer loyalty”（短暂投资会对公司的长期规
+ 划设阻，并影响客户的忠诚度。）A 项 indirect（间接的），原文未提及，排除；B 项 adverse（不利的）
+ 对应原文“hinder”，故为正确选项；C 项 minimal（最小的）和 D 项 temporary（暂时的）原文未提及，
+ 故排除。
+ -24. The US and France examples and used to illustrate 24.美国和法国的例子被用来说明_______。
+ [A] the obstacles to preventing “short-termism”. [A] 制止“短期主义”的障碍
+ [B] the significance of long-term thinking. [B] 长线思维的重要性
+ [C] the approaches to promoting “long-termism”. [C] 增进“长期主义”的方法
+ [D] the prevalence of short-term thinking. [D] 断线思维的盛行
+ 【答案】C
+ 【考点】写作目的题
+ 【解析】根据题干定位到第五、六段，第五段为美国的例子，第六段为法国的例子，（第五段中美国延
+ 迟发放才上任一年左右的高管绩效津贴，继而促进缓解“短期主义”盛行的现状；第六段在法国持股
+ 两年以上者拥有更大的选票选。）第六段首句承前启后讲到“Much more could be done to encourage
+ ‘long-termism’”促进“长期主义”还有很多做法。A 项 The obstacles to preventing “short-termism”（预
+ 防“短期主义”的阻碍），无中生有，故排除；B 项 The significance of long-term thinking（“长期主义”
+ 思维的意义），无中生有，故排除；C 项 The approaches to promoting “Long-termism”（促进“长期主义”
+ 的方法），与原文一致，故为正确选项；D 项 The prevalence of short-term thinking（“长期主义”思维的
+ 盛行）为第四段内容，与题干无关，故排除。
+ -25. Which of the following would be the best title 25.下列哪项是本文的最佳标题？
+ for the text? 
+ [A] Failure of Quarterly Capitalism [A] 季度资本主义的失败
+ [B] Patience as a Corporate Virtue [B] 耐心，企业的美德
+ [C] Decisiveness Required of Top Executives [C] 高管必备的果决
+ [D] Frustration of Risk-taking Bankers [D] 冒险型银行家的挫败
+ 【答案】B
+ 【考点】主旨大意
+ 【解析】根据题干关键词 best title 可知这是一道典型的主旨大意题。纵观全文，文章围绕西方国家的
+ 金融行业的“短期主义”投资和“长期主义”投资展开。第一段由金融管理者制定的一项限制高管津
+ 贴措施引出全文中心话题，促进金融投资的“长期主义”规划；第二段介绍了目前英国银行高管中“短
+ 期主义”投资占主流；第三段指出“短期主义”投资的弊端，第四段主要介绍美国现阶段仍然通过技
+ 术首段使得“短期主义”投资愈发盛行；五六段举例点名美法两国为促进“短期主义”投资所采取的
+ 措施；文章尾端再次呼应首段，点明英国新政题型银行家们“长期主义”投资。B 选项中的 Patience
+ 对应文章中反复出现的主题词 short-termisim 和 long-termisim，Corporate 本身在文章中就多次出现，
+ 因此为最佳标题。其余选项 A.Failure of Quarterly Capitalism（季度资本主义的失败），C.Decisiveness
+ Required of Top Executives（高管必备的果决）D.Frustration of Risk-taking Bankers（冒险型银行家的挫
+ 败）均不能概括全文，故排除。
+ 三、全文翻译
+ 英国金融监管机构针对大型银行主管强制推行了一项极不寻常的规定。从明年起，若银行在因不当行为接受调查，则其高管的任何固定奖金都可能会推迟 10 年发放。这项“追回”规定的主要目的是让银行家对有害冒险负责，同时重建公众对金融机构的信任。然而，官员们还期待着一项远比这更巨大的成效：不仅是银行，而是所有的企业，都能做出更多长远决策，从而为后代建立更强健的经济。英格兰银行首席经济学家安德鲁·霍尔丹称，“短期主义”，或者说是对迅速获利的渴望，在公开上市交易的公司中已经加剧。他援引古典经济学巨匠阿尔弗雷德·马歇尔之言，把这种“经济上的急躁”形容成就像是“从布丁里把葡萄干捡出马上吃掉的孩子”一样行事，而非先把葡萄干放到一边，留到最后再吃。
+ 他特别提到，最近几十年，无论是在美国还是在英国，持有一只股票的平均时间都从七年下降到了七个月。短暂投资者——那些要求从公司获得高额季度收益的投资者——会阻碍公司投资长期研究或者增进客户忠诚的努力。这已被称为“季度资本主义”。
+ 此外，新的数学技术已使得股票交易更迅速、信息使用更快捷，且因此使得金融市场中注意力的时间跨度更短暂。“短线思维似乎已占据主导地位，其代价是长期投资受损，”本周，美国证券交易委员会委员丹尼尔·盖伦格在一次演讲中说道。
+ 在美国，《2002 年萨班斯—奥克斯利法案》已迫使多数上市公司将高管绩效奖金推迟了约一年，稍稍削弱了“短期主义”。《华尔街日报》在 CEO 薪酬最新调查中发现，如今，高管薪酬中“相当大一部分”与业绩紧密相关。就鼓励“长期主义”，可做的还有很多，比如调整税法以及更迅速地披露股权收购。在法国，持有公司投资两年以上的股东有时可以在公司内赢得更多表决权。
+ 在企业内部，合理的薪酬设计可以对高管形成激励，使其会考虑自己任期之后的情形，并努力代表所有股东的利益。英国的新规是对银行家的一项警示：他们的表现与社会利害相关，不仅从短期来看是如此，从长期看也是如此。
+
+ Text 2
+  一、文章题材结构分析
+ 本文选自 The Atlantic《大西洋月刊》2018.06.29 一篇题为 The Rise of College “Grade Forgiveness”（大学“成绩宽恕”的兴起）的文章。文章围绕美国大学“成绩宽恕”政策加速普及这一趋势，按照“先介绍现象（第一至三段）——后剖析原因（第四至六段）”的脉络展开论述，在逐层解释原因的同时流露出对高等教育过度“商品化”的批评与担忧之情。
+  二、试题解析
+ -26. What is commonly regarded as the cause of 26.什么常被视为分数膨胀的原因？
+ grade inflation? 
+ [A] The change of course catalogs. [A] 课程目录的变更。
+ [B] Students’ indifference to GPAs. [B] 学生对 GPA 的漠视。
+ [C] Colleges’ neglect of GPAs. [C] 大学对 GPA 的忽视。
+ [D] The influence of consumer culture. [D] 消费者文化的影响。
+ 【答案】D
+ 【考点】因果关系
+ 【解析】根据题干信息词定位到首段第一句，句子主干“Grade inflation—the gradual increase in average
+ GPAs (grade-point averages) over the past few decades—is often considered a product of a consumer era in
+higher education”即高校成绩膨胀问题通常被认为是消费者至上时代的产物。选项 The influence of
+consumer culture。“消费者至上文化的影响”正是该句原因的同义表达。故 D 选项正确。
+ -27. What was the original purpose of grade 27.“成绩宽恕”最初的目的是什么？
+ forgiveness? 
+ [A] To help freshmen adapt to college learning. [A] 帮助新生适应大学学习。
+ [B] To maintain colleges’ graduation rates. [B] 维持大学毕业率。
+ [C] To prepare graduates for a challenging future. [C] 让学生为充满挑战的未来做好准备。
+ [D] To increase universities’ income from tuition. [D] 增加大学的学费收入。
+ 【答案】A
+ 【考点】细节题
+ 【解析】根据题干要求定位到第三段第二句。该句中的 this practice 对应题干中的 grade forgiveness, first
+started 对应题干中的 original，而不定式短 to give them(freshmen) a second chance...if they struggled in
+their transition to college-level courses（如果大一新生在都向大学课程的过渡中有问题的话在给他们一
+ 次机会......）为目的，对应题干中的 purpose，故正确答案应为 A 选项 To help freshmen adapt to college
+learning（帮助大一新生适应大学学习）。
+ -28. According to Paragraph 5, grade forgiveness 28.根据第五段的内容，“成绩宽恕”使大学得以____。
+ enables colleges to
+ [A] obtain more financial support. [A] 得到更多财政支持
+ [B] boost their student enrollments. [B] 增加入学人数
+ [C] improve their teaching quality. [C] 提高教学质量
+ [D] meet local governments’ needs. [D] 满足当地政府的需求
+ 【答案】A
+ 【考点】细节题
+ 【解析】细节题做题的技巧是“准确定位和匹配”。根据题干关键词“paragraph 5”,以及“grade forgiveness”
+ 和“colleges”定位到第五段第一句话。通过第一句话可以看出，“grade forgiveness”满足了大学自己
+ 的需要，而具体的需要在第二句中体现，因此本题真正的答案出自于第二句即“For public institution...”。
+ 第二句话的意思是对于大学来讲，国家的基金有时候是跟一些因素有关的，比如毕业率和学生在学率，
+ 因此好的分数意味着钱。题干中问题使“grade forgiveness”使大学能够...，而根据本段的第二句话，
+ 可知“grade forgiveness”使大学能够获得更多的国家的基金，这与 A 选项“获得更多的经济支持”匹
+ 配，因此正确答案选 A。
+ -29. What does the phrase “to be aligned” 29.短语 to be aligned（第 6 段第 5 行）最有可能是
+ (Line 5, Para. 6) most probably mean? 什么意思？  
+ [A] To counterbalance each other. [A] 互相抗衡。 
+ [B] To complement each other. [B] 彼此互补。 
+ [C] To be identical with each other. [C] 彼此相同。 
+ [D] To be contradictory to each other. [D] 彼此相反。 
+ 【答案】C
+ 【考点】推断
+ 【解析】根据题目定位到第六段最后一句：On this, students’ and colleges’ incentives seem to be aligned.
+ 解决本题的关键是 this 指代的内容，根据上文 Since students and parents expect a college degree to lead to
+a job, it is in the best interest of a school to turn out graduates who are as qualified as possible—or at least
+appear to be. 即“由于学生和家长都希望通过大学学历找工作，因此符合学校最佳利益的便是尽可能
+ 地证明学生的能力——或者说至少看起来如此”。由此可知，学生和学校有着共同的利益目标，所以正
+ 确答案为 C，学生和学校的倡议是一致的。
+ -30. The author examines the practice of 30.作者通过_______的方式剖析了“成绩宽恕”
+ grade forgiveness by 这一做法。  
+ [A] assessing its feasibility. [A] 评定其可行性 
+ [B] analyzing the causes behind it. [B] 分析起背后的原因 
+ [C] comparing different views on it. [C] 比较关于它的不同观点 
+ [D] listing its long-run effects. [D] 列举其长远影响 
+ 【答案】B
+ 【考点】文章主旨
+ 【解析】根据题干，表面上问作者通过什么论述方式来探讨 grade forgiveness 的实践操作，其实是考
+ 全文的主旨写作手法，属于主旨大意题。方法即是串读每段段落大意句，把握作者的论述角度。尤其，
+ 在 第 一 段 第 一 句 Grade inflation-....-is often considered a product of a consumer era... 以 及 第 二 句 But
+another, related force-......谈及的都是背后的原因。第五段，第一句 That said, there is a way in which grade
+forgiveness satisfies colleges’ own needs as well.也是突出了 grade forgiveness 能够满足大学自身的需求，
+ 这也是分析了 grade forgiveness 的原因。所以，该题答案是 B 项，analyzing the causes behind it.
+
+ 三、全文翻译
+ 分数膨胀——平均 GPA（GPA 指“平均学分绩点”）在过去数十年间的逐渐攀升——往往被视为高等教育进入消费者时代的产物，在这个时代，学生被当作需要被取悦的消费者看待。但还有个与之相关的推动力——一项通常深藏在课程目录里的、被称为“成绩宽恕”的政策——也在推高着 GPA。“成绩宽恕”允许学生重修得分低的课程，而在计算总 GPA 时，只计入最近或分数最高的一次成绩。
+ 近些年来，随着大学不断竭尽所能让学生留在学校（并支付学费）、提高毕业率，这种鲜为人知的做法开始加快推行。数十年前该做法刚实行时，通常仅适用于大一新生，为的是在其向大学水平课程艰难度过渡的过程中给予他们一次在第一学期重修课程的机会。但现在，除许多知名校外，多数大学允许所有本科生，甚至研究生得到低分“宽恕”。
+ 高校管理者常常强调成绩宽恕的目的并不在分数本身，更多是为了鼓励学生重修那些事关学业和毕业的课程而免于受严重处分。“最终，”俄亥俄州立大学教务主任杰克·迈纳说，“我们看到学生获得更大的成功，因为他们重修了一门课程而在后续课程中表现得更好，或掌握了让他们得以按时毕业的内容。”
+ 即便如此，成绩宽恕也以某种方式满足了大学自身的需要。对公立机构而言，州政府拨款有时部分取决于其在毕业率、学生保留率等指标上的成功——因此成绩越好，就越能提升上述数据，从而带来更多拨款。而且，任何能提高 GPA 的东西可能都会让学生——最终买单的人——觉得他们的学费花的物超所值，这是大学极为关心的另一点。
+ 实际上，成绩宽恕不过是大学回应消费者对高等教育的期望的另一种方式。既然学生和家长都希望大学学位能带来一份工作，那么产出尽可能合格的毕业生——或者至少看起来合格的毕业生，就是符合学校利益的做法。在这一点上，学生和大学的动机似乎是一致的。
+
+ Text 3
+  一、文章题材结构分析
+ 本文选自 The Christian Science Monito《r 基督教科学箴言报》2018 年 7 月 8 日一篇题为 AI can have values if not a conscience（如果没有良知，AI 可以有价值观）的文章。本文先介绍人工智能的技术发展现状：仍有很大局限性，难以复制人类意识；随后重点论述人工智能的伦理问题：AI 引发的伦理问题日益凸显，必须确保 AI 的决策反映人类的最高价值观，才能使其真正有益于人类社会。
+
+ 二、试题解析
+ -31. Mary Shelley’s novel Frankenstein is mentioned 31.文章提及玛丽·雪莱的小说《弗兰肯斯坦》，
+ because it 是因为它________。
+ [A] fascinates AI scientists all over the world. [A] 让全世界的 AI 科学家着迷
+ [B] has remained popular for as long as 200 years.[B] 200 年来一直受人欢迎
+ [C] involves some concerns raised by AI today. [C] 涉及 AI 目前所引发的一些担忧
+ [D] has sparked serious ethical controversies [D] 引发了严重的伦理争议
+ 【答案】C
+ 【考点】观点例证
+ 【解析】由题干表述可判断本题为典型的观点例证题，所证观点就在例证前后，该例子出现在篇首，
+ 引出主题在后。由此可知本题定位句为第一段最后一句话。与选项比对可知，C 项为 “...that would...to
+come” 部分的同义转述，故为正确答案。其中，involves 对应 foreshadow，some concerns 对应 many ethical
+questions,剩余部分对应选项中的 raised by AI today。其余选项在原文均无依据，故排除。
+ -32. In David Eagle man’s opinion, our current 32.大卫·伊格曼认为，我们目前对意识的认识____。
+ knowledge of consciousness
+ [A] helps explain artificial intelligence. [A] 有助于解释人工智能
+ [B] can be misleading to robot making. [B] 可能误导机器人制造
+ [C] inspires popular sci-fi TV series. [C] 给热门科幻电视剧以启示
+ [D] is too limited for us to reproduce it [D] 太过有限而无法复制意识
+ 【答案】D
+ 【考点】观点细节
+ 【解析】观点细节题。根据题干中的 David Eagle man 定位到文中第四段第一句，该段第二句 there are no
+good theories 与 题 干 中 的 knowledge 属 于 等 价 代 换 ， 该 段 第 二 句 中 的 consciousness 与 题 干 中 的
+consciousness 对应，第一句表明光人们如何思考就复杂到难以理解的程度更不用说要复制它了，第二
+ 句表明我们没有解释什么是 consciousness 的理论，与选项 D 吻合。题干 our current knowledge of
+consciousness 及 选 项 is too limited for us 与 定 位 句 中 的 there are no good theories explaining what
+consciousness actually 属于等价代换，选项 reproduce it 与定位句中 reproduced 属等价代换。选项 A、
+ 选项 B 及选项 C 基于文中出现的 artificial intelligence、robot 及 sci-fi TV series 错误引申。
+ -33.The solution to the ethical issues brought 33.对于自动驾驶汽车带来的伦理问题，其解决办法
+ by autonomous vehicles _______。
+ [A] can hardly ever be found. [A] 几乎找不到
+ [B] is still beyond our capacity. [B] 仍在我们能力之外
+ [C] causes little public concern. [C] 几乎未引起公众关注
+ [D] has aroused much curiosity. [D] 引起了很大好奇心
+ 【答案】B
+ 【考点】细节
+ 【解析】细节题。根据题干中的 autonomous vehicles 定位到第五段第二句。该句出现 for example，可
+ 知 autonomous vehicle 是具体的例子。篇中的例子是为了证明论点，应往前看，即证明第一句的观点：
+ 涉及人工智能的伦理问题在我们身边（注意这里 doesn’t 和 aren’t 为双重否定），说明问题依然存在。
+ 选项 B 与题干结合含义为：找出由自动驾驶车带来的人工智能伦理问题的解决方法超出了我们的能力。
+ 与文章含义一致。A 选项过于绝对，且从第六段可以看出，不同国家、公司在找解决问题的方法。C
+ 选项和 D 选项的 public concern 和 curiosity 这些信息词在原文中未涉及，属无中生有。
+ -34. The author’s attitude toward Google’s 34.对于谷歌的承诺，作者持_______态度。
+ pledges is one of 
+ [A] affirmation [A] 肯定
+ [B] skepticism. [B] 怀疑
+ [C] contempt [C] 轻蔑
+ [D] respect. [D] 尊重
+ 【答案】A
+ 【考点】态度题
+ 【解析】态度题。根据题干中的 the author’s attitude, Google’s pledges。回文定位到第七段，第八段，
+ 但其七段都是在讲 Google’s pledges，继续看第八段，开头 while，转折，while the statement is vague，
+ 与 vague 相反的即是观点，这个地方没有说是谁的观点，无人认领的观点即是作者的观点。Vague 是
+ 情感向下的词语，相反方向应是正向情感。B.skepticism 和 C. contempt 都是负向情感，全部排除。
+ D.respect 虽是正向情感，起程度太深。所以选 affirmation。
+ -35. Which of the following would be the 35.下列哪项是本文的最佳标题？
+ best title for the text? 
+ [A] AI’s Future: In the Hands of Tech Giants [A] AI 的未来：由科技巨擘掌握
+ [B] Frankenstein, the Novel Predicting the Age of AI [B] 《弗兰肯斯坦》：预测 AI 时代的小说
+ [C] The Conscience of AI: Complex But Inevitable [C] AI 的良知：复杂但不可避免
+ [D] AI Shall Be Killers Once Out of Control [D] AI 一旦失控将会变成杀手
+ 【答案】C
+ 【考点】文章主旨
+ 【解析】主旨题。本文首段通过引用 Mary Shelley 的书引出本文要探讨的话题新技术所引发的道德问
+ 题。第二段是明确指出 AI 引起的一些问题。第三段和第四段对第二段提出的两个问题进行了详细的
+ 阐述，表明我们并不能确定智能化的程度以及因为所处环境的复杂无法定义人类自我意识。而在第五
+ 段转折之后明确指出 AI 所涉及的道德问题已经触手可及了。全篇复现了 AI 和 conscience 这两个关键
+ 词，因此正确答案为 C.The Conscience of AI: Complex But Inevitable。
+ 选项 A 中的 Tech Giants 是文章没有提及的概念。尽管文章以 Frankenstein 这本书为引子，但是这
+ 本书并没有预测 AI，而是 AI 技术引发的道德问题，故排除选项 B。作者在最后一段表明了对未来积
+ 极的态度，AI 的发展并非代替人类的最高智慧，最终还是会为人类所用，故排除选项 D，该选项中的
+ AI shall be killers 呈现负向发展。
+
+  三、全文翻译
+ 今年恰逢玛丽·雪莱的《弗兰肯斯坦——现代普罗斯米修斯》出版二百周年。甚至早在电灯泡发明之前，这位作家就创作出了一部非凡推理小说，预示了未来技术将引发的诸多伦理问题。如今，人工智能（AI）的快速发展引发了一些根本性的问题：“何谓智力、身份或意识？是什么让人成其为人？”
+ 目前所谓的通用人工智能——模仿人类思维方式的机器——对科学家们来说一直扑朔迷离。然而，人类依然痴迷于像人类一样观察移动和反应的机器人概念，就像《西部世界》《人类》等新近热门科幻电视剧所刻画的那类机器人。人类思维方式仍然极为复杂，难以理解，更不要说复制了，斯坦福大学神经科学大家大卫·伊格曼说：“我们正面临的处境是，目前尚没有哪项理论能够足以解释意识究竟是什么，又怎能建造一台复制人类意识的机器呢。”
+ 但这并不意味着与 AI 有关的重要伦理问题尚未出现。例如，即将投入使用的自动驾驶汽车就带来了棘手的伦理问题。人类驾驶员有时必须在瞬间做出决策。他们的反应可能是一种复杂的组合，包括在那一瞬间的瞬时本能反应、过往驾驶经验的输入及其眼睛耳朵的有所见所闻。AI 目前的“眼力”远不像人类眼力那样精密复杂。而且预测所有可想象得到的驾驶情景是一个高难度的编程难题。每每基于大数据决策时，“你很快会陷入许多伦理问题，”新加坡某机构首席执行官陈杰豪说，该机构正在帮助政府制定一份确保 AI 用途合乎道德的自愿行为守则。与新加坡一样，其他政府和超大型企业也开始制定自己的指导方针。英国正在建立一个数据伦理中心。印度于今年春天发布了 AI 伦理战略。
+ 6 月 7 日，谷歌正式承诺不会“设计或部署会造成全面伤害的 AI”，不会开发由 AI 指挥的武器，也不会利用 AI 进行违反国际法规范的监视。它还承诺，不会部署用途有违国际法和人权的 AI。虽然这种声明含混笼统，但它代表了一个起点。“AI 系统做出的决策应该是可解释的、透明的且公平的”这一信念也是如此。
+ 换句话说：我们如何确保智能机器的思维能够反映人类的最高价值观？只有到那时，它们才会成为有用的仆人，而不是弗兰肯斯坦的失控怪物。
+
+ Text 4
+  一、文章题材结构分析
+ 本文选自 U.S.News&World Report《美国新闻与世界报道》2018.06.21 一篇题为 High Court: OnlineShoppers Can Be Forced to Pay Sales Tax（最高法院：可强制线上购物者支付销售税）的文章。全文针对美国最高法院最新裁定“实体存在规则无效，各州可强制州外零售商为本州代收销售税并上缴”展开论述。行文脉络：概述事件“最高法院最新裁定”（第一段）——详述事件“追溯新裁定所推翻的两项原裁定及推翻理由”（第二至四段）——说明影响“对各类不同商家的影响及他们的反应”（第五至七段）。
+
+ 二、试题解析
+ -36. The Supreme Court decision Thursday will 36.最高法院周四的裁定将_______。
+ [A] better business’ revolutions with states. [A] 改善企业与各州之间的关系
+ [B] put most online business in a dilemma. [B] 让大多数在线商家陷入困境
+ [C] make more online shoppers pay sales tax. [C] 让更多的线上消费者支付销售税
+ [D] force some states to cut sales tax. [D] 迫使一些州削减销售税
+ 【答案】C
+ 【考点】细节
+ 【解析】根据题干可知这是一道典型的细节题。根据题干关键词“The Supreme Court decision Thursday”
+ 定位到首段首句，States will be able to force more people to pay sales tax when they make online purchases
+under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial
+win for states.由该句可知，最高法院的裁决可以让州政府去强制消费者在网上购物时要上缴销售税（营
+ 业税），直接得出选项 C.make more online shoppers pay sales tax，让更多在线购物者支付销售税。
+-37. It can be learned from paragraphs 2 and 3 37.从第 2.3 段可知，遭到推翻的裁定_______。
+ that the overruled decisions 
+ [A] have led to the dominance of e-commerce. [A] 导致了电子商务的主导地位
+ [B] have cost consumers a lot over the years. [B] 让消费者这些年蒙受巨大损失
+ [C] were widely criticized by online purchases. [C] 遭到线上买家的广泛批评
+ [D] were consider unfavorable by states. [D] 被各州认为不利的
+ 【答案】D
+ 【考点】推断
+ 【解析】根据题干可知这是一道典型的推理题。根据题干定位范围确定为第二、三段，再根据题干细
+ 节：overruled decisions 确定定位句为第二段的第一句与第二句，第二句 that states said cost them billions
+of dollars in lost revenue annually.州政府抱怨之前的政策导致每年税收损失惨重。第三句 The decisions
+made it more difficult for states to collect sales tax on certain online purchases，原政策让州政府很难收取网
+上购物的营业税。综合两句情感色彩都为负向，对州政府不利，从而得出答案 D
+were consider
+ unfavorable by states 州政府认为原政策对州不利。 
+-38. According to Justice Anthony Kennedy , 38.根据大法官安东尼·肯尼迪，实体存在规则_____。
+ the physical presence rule has
+ [A] hindered economic development. [A] 阻碍了经济发展
+ [B] brought prosperity to the country. [B] 为国家带来了繁荣
+ [C] harmed fair market competition. [C] 损害了公平的市场竞争
+ [D] boosted growth in states’ revenue. [D] 促进了州财政收入的增长
+ 【答案】C
+ 【考点】观点细节
+ 【解析】根据题干可知这是一道典型的观点细节题。根据题干定位 Anthony Kennedy 定位在第四段，
+ 再根据题干细节 physical presence rule 确定定位句为第四段的第二句与第三句。第二句“Each year the
+physical presence rule becomes further removed from economic reality and results in significant revenue
+losses to the States,” 实体店规定导致州政府税收亏损严重，第三句 the rule “limited state’ ability to seek
+long-term prosperity and has prevented market participants from competing on an even playing field.该规定
+限制了州政府持长期繁荣，并妨碍了所有市场参与者公平竞争，从而得出答案 C
+harmed fair market
+ competition 破坏了公平市场竞争。 
+-39. Who are most likely to welcome the 39.谁最有可能欢迎最高法院的此次裁定？
+ Supreme Court ruling? 
+ [A] Internet entrepreneurs. [A] 互联网企业家。
+ [B] Big-chair owners. [B] 大型连锁店主。
+ [C] Third-party sellers. [C] 第三方商家。
+ [D] Small retailers. [D] 小型零售商。
+ 【答案】B
+ 【考点】推断
+ 【解析】根据题干可知这是一道推理题。根据题干定位范围确定为第五段，再根据题干细节：most likely
+to welcome the Supreme Court ruling 确定定位句为第五段的第一句，第一句 the ruling is a victory for big
+chains 这项裁决对于大型连锁公司来说是个胜利。从而得出答案 B Big-chair owners 大型连锁公司。
+-40. In dealing with the Supreme Court 40.在论述最高法院周四的裁定时，作者______。
+ decision Thursday, the author 
+ [A] gives a factual account of it and [A] 对其进行客观描述并讨论了其影响
+ discusses its consequences. 
+ [B] describes the long and complicated [B] 对其漫长复杂的形成过程进行了描述
+ process of its making. 
+ [C] presents its main points with conflicting [C] 介绍其要点并提供了对立看法
+ views on them. 
+ [D] cities some cases related to it and analyzes [D] 列举相关案例并分析了其影响
+ their implications.
+ 【答案】A
+ 【考点】全篇论证
+ 【解析】本文首段概述事件：最高法院裁定各州可对在线购物征收销售税。第二至四段对新裁定的来
+ 龙去脉进行客观描述，包括其推翻的原裁定内容及推翻的原因。第五至七段介绍了新裁定对各类商家
+ 的影响及他们的反应。由此可见，A 正确。
+
+ 三、全文翻译
+ 根据最高法院周四的裁定，各州将有权强制更多的人为在线购物支付销售税，这会让消费者的钱包瘪下去，但对各州而言是财政上的一大胜利。
+ 最高法院周四的这项意见推翻了数十年前的两起裁定，各州表示它们每年给自己的财政收入造成了数十亿美元的损失。这两起裁定加大了各州对某些网购商品的销售税征收难度。
+ 最高法院所推翻的判例认为，如果企业将顾客购得的商品运往某个州，而该企业在本州并无实体存在（比如仓库或办公室），那么该企业就不需要为本州代收销售税。一般来说，并未缴纳的销售税的顾客需要自行向其所在州支付销售税，但是大多数人并不知道自己欠了税，而上缴税款的消费者也很少。
+ 大法官安东尼·肯尼迪写道，此前的裁定有疏漏之处。他连同其他四位大法官在意见书中写道，“实体存在规则每年都愈发脱离经济现实，使各州蒙受巨额收入损失。”肯尼迪还写道，这项规则“限制了各州寻求长久繁荣的能力，使市场参与者无法在公平的环境下展开竞争。”
+ 这一裁定对在多州设有实体存在的大型连锁店而言是一次胜利，因为他们通常已经对网购商品收取销售税了。如今，竞争者将要（对消费者）征收此前并未收取的销售税。大型连锁店已经在全国范围内收取销售税，这是因为它们一般在商品运抵的任何一个州都设有实体店。亚马逊有库房网络，同样在每个收取销售税的州执行代收，不过利用亚马逊网站的第三方卖家倒不必做到这点。
+ 在此之前，许多仅在一个或数个州有实体存在的商家在向州外的地址运送（商品）时都可以避免收取销售税。那些使用 eBay 和 Etsy（均为较小商家提供销售平台）的商家也没有在全国范围内收取销售税。而根据周四的裁定，各州可通过法律，要求州外销售商对本州顾客收取销售税，并上缴本州。零售贸易团体赞扬了这项裁定，称其为地方商家和线上商家创造了公平的竞争环境。零售分析师尼尔·桑德斯表示，输家是纯线上零售商，尤其是小型纯线上零售商。这些零售商可能要面临遵守不尽相同的各州销售税法的麻烦事。小企业与创业委员会这一倡议团体在其声明中表示：“小型企业和互联网企业家完全没有得到本次裁定的丝毫考虑。”
+
+ Part B
+ 一、文章题材结构分析
+ 本文节选自杂志 Time《时代》2018.07.02 一篇题为 How to Win Every Argument（如何赢得每一场
+ 争论）的文章。主旨：剖析“争论（argument）”的本质，并提出正确的争论方式。脉络：典型的“驳
+ 论——立论”结构：先批驳以卡耐基为代表的错误争论观“争论就像争斗或比赛，结果往往是两败俱
+ 伤，因此应竭力避免”，后提出正确的争论观“争论需要理性的交流与客观的评判，需要双方的相互理
+ 解与尊重，争论的过程是思想碰撞、启发思维、相互学习的过程”。
+
+ 二、试题解析
+-41.【答案】E
+【考点】
+ 【解析】快速浏览选项，F 和 C 段为已知段。现在要确定的是剩下的段落哪一段可以作为首段。G
+ 段落开头为 there is a better way...出现一个比较级，说明是和前面的一个方法相比较，因此不能做段首；
+ A 段落 these tools 开头，出现代词，不 能组为段首；B 段落 many discussions are not so successful，
+ 出现词汇 so，为代词，指代上面说的 successful discussion，因此不能做句首；这样只剩 D 和 E 段落，
+ D 段落开头 Carnegie would be right if...，这里出现了对人物观点进行正确与否的判断，判断正确与否
+ 的前提是首先提到此人的存在以及其观点具体是什么，所以 D 段落不能为段首，因此此题答案为 E。
+ 实际上，纵观全文，本段是以 Carnegie 的观点为切入，然后通过分析 Carnegie 观点，对有效辩论进行
+ 探讨。
+-42.【答案】D
+【考点】
+ 【解析】首段提及到 Carnegie 以及他书中的观点，根据人物线索，本题优先选择出现人物复现的段
+ 落，浏览剩余的段落发现只有选项 D 出现了 Carnegie 这个人。对这两个选项稍加分析得知，第一段论
+ 述了 Carnegie 书中的观点，D 选项论述作者对此观点的评论，符合立论型文章的篇章结构。再者，根
+ 据已知段落 F 句首出现的代词指代线索也能得出答案。F 首句提到 These views of arguments 与 D 段落
+ 尾句中的 this kind of thinking 为同义复现，因此 D 为正确答案。
+-43.【答案】G
+【考点】
+ 【解析】该选项位于 F 项之后，F 段最后一句“but they can help you win-in one way”中有“help you
+win-in one way”,而 G 段首句“There is a better way to win arguments.”的“a better way to win”是对“help
+you win-in one way”的进一步说明。因此 G 段则接着 F 段。
+-44.【答案】B
+【考点】
+ 【解析】本题位置为 C 的上一段。所以我们只需找到一段的尾句可以与 C 段首句进行关联即可。C
+ 段的第一句话：None of this will be easy...others refuse to...,句意为这样不容易，即使别人拒绝，但你可
+ 以 开 始 ... 下 文 继 续 提 到 从 反 方 面 来 对 待 你 的 观 点 。 不 难 发 现 B 项 最 后 一 句 话 提 到 了 recognize
+weakness...accept...on the opposite side...,此处 opposite 和 refuse 均为同义复现的替换词。此外，B 项段
+ 尾是从心理上对待相反的论点，而 C 段中 state...ask...spell...assess 等均为做出的行动。先有想法再付诸
+ 行动的顺序也符合了 B 在前 C 在后，所以正确答案为 B。
+-45.【答案】A
+【考点】
+ 【解析】已知段落 C 段末尾两句话讲到 Next time you state your position... Assess its strength...。由此
+ 可知段落讲的都是一些帮助取得辩论胜利的做法技巧，这与 A 段落开头的 These tools can help you win
+every argument 构成了呼应，尤其是 C 段后 Next time you talk with someone who 与 A 段开头 but in the
+better sense of learning about the issues...同时都在讲对于别人观点的看法。因此确定答案选 A。
+
+ 三、全文翻译
+ [A]这些方法能助你赢得任何争论——不是从打败对手这种毫无助益的意义上获胜，而是从更好的意义上获胜：了解使人们产生分歧的问题，认识到他们为何与我们观点相左，学会与其交谈并与其合作。如果我们重新调整自己的争论观——从“一场口舌之战或一场网球比赛”转变为“一场我们都能从中获得相互尊重与理解的理性交流”——那么我们就会改变“赢得”争论的本质内涵。
+ [B]当然，许多讨论并非如此成功。尽管如此，我们依然需要小心避免急于指责对手论点荒谬。我们需要学习如何恰当的评估他们。评估的很大一部分是为了指出对手坏论点，但我们也需要承认其好论点，同时也需要将同样的评判标准应用于我们自身。“谦恭”要求你认识到自身论点的薄弱，且有时也需要你接受对方立场的理由。
+ [C]这些之中没有哪一项是可以轻易做到的，但你可以开始践行，即便他人拒绝（开始）。下次阐述自己立场时，就自己的述求形成一个论点，并坦诚地问问自己你的论点到底是好是坏。下次与持有某一立场的人交谈时，要求他们给你一个持此观点的理由。全面且宽容的仔细琢磨他们的观点。不偏不倚的评判其优点。提出异议并认真听取对方回复。
+ [D]假若真如我们经常持有的看法，争论等同于争斗，那卡耐基是对的。就像肢体冲突一样，言语冲突也会致使双方流血受伤。即便你赢了，结果也并非从中受益。假若争论即便只是比赛——比如说网球赛，你的前景也会是几乎同样糟糕。一双双对手来回击球，直至一人从所有参赛中脱颖而出。其他所有人均是输家。正是源于这种想法，才会有那么多人极力避免争论，尤其是关于政治和宗教的争论。
+ [E]在其 1936 年首版的著作《如何赢取友谊及影响他人》中，戴尔·卡耐基写道：“只有一种方法……可以赢得争论——那就是避免争论。”这种对争论的厌恶普遍存在，但它是基于一种错误的争论观，这一争论观给我们的个人生活和社会生活带来极大问题——且在许多方面从一开始便误解了争论的内涵。
+ [F]这些争论观也会暗中瓦解理智。如果你将一场对话看成是一场争斗或是一场比赛，那么只要不被逮住你就可能会以欺骗手段取胜。你将乐于使用荒谬的论据来说服他人。你会称对方观点愚蠢至极，或取笑他们多么无知。这些伎俩之中，没有任何一种会助你理解他们、他们的立场、或使你们产生分歧的问题，但是它们能帮你获胜——某种意义上的获胜。
+ [G]有一种更好的方法能够赢得争论。设想下这样的情形：你赞同提高本州最低工资，而我不赞同。如果你大喊“支持”，而我大喊“反对”，则你我都学不到任何东西。我们既不相互理解，也不相互尊重，因此我们没有妥协或合作的基础。相反，假如你给出一个合理的理由：（如果提高最低工资，）全职工人将不必生活在贫困之中。然后我以另一个合理的理由进行反驳：提高最低工资将迫使企业减少雇佣人数和工作时间。现在我们便能理解对方的立场，并意识到我们共同的价值观，因为我们双方都在关心贫困工人。
+
+ Part C
+ 一、文章题材结构分析
+ 本文节选自 The Spectator《旁观者》2017.06.06 一篇题为 Why is so much bad science published（为
+ 什么这么多劣质科学文章被发表）的文章。这是一篇问题分析型文章，首段由作者亲身经历引出全文
+ 话题“太多劣质论文被发表”，第二段进而分析原因“当前科研人员晋升体制过分注重论文发表数量”，
+ 第三段随后点评指出相应措施（例如试图在论文评审中纳入引文索引这一衡量指标）并非十分合理（当
+ 事人容易钻空子），末端最后呼吁指出当前制度应做出调整，以激励有意义且具有可复制性的科学研究。
+二、试题解析
+-46. There is a great deal of this kind of nonsense in the medical journals which, when taken up by
+ broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms.
+ 【考点】定语从句；状语从句省略结构；并列结构；被动结构
+ 【解析】主干为：There is a good deal of this kind of nonsense. which 引导定语从句修饰 nonsense；
+when 引导时间状语从句，且形式是状语从句的省略，省略了主语和系动词（this kind of nonsense is）；
+ 介词短语 in the medical journals 作状语；both health scares 和 short-lived dietary enthusiasms 是并列结构，
+ 做动词 generates 的宾语。
+ 【词汇】nonsense 胡说；废话 take up 占据；拿起 broadcaster 广播公司；播音员 lay 外行的；世
+ 俗的 generate 引起；产生 short-lived 短暂的
+ 【参考译文】医学期刊中存在大量此类无稽之谈，一经广播公司和非专业媒体报道，就会引发健康恐
+ 慌并激起短暂的健康饮食热潮。
+-47.Nowadays anyone applying for a research post has to have published twice the number of papers that
+would have been required for the same post only 10 years ago.
+ 【考点】分词定语；定语从句；比较结构
+ 【解析】主句主干：nowadays anyone...has to have published twice the number of papers...。 applying
+for 为现在分词后置定语，修饰 anyone; that 引导的定语从句修饰先行词 papers; twice the number of
+papers 为比较结构。
+ 【词汇】applying for 申请 research post 研究岗位
+ 【参考译文】如今，任何研究职位申请者所必须发表的论文数量是近 10 年前同一职位所需论文数量的
+ 两倍。
+-48.Attempts have been made to curb this tendency, for example, by trying to incorporate some measure of
+quality as well as quantity into the assessment of an applicant’s papers.
+ 【考点】被动语态；状语结构；
+ 【解析】本句主干为：Attempts have been made to curb this tendency, by 引导的是一个方式状语，
+ 该结构内核心搭配是 incorporate A into B 结构。
+ 【词汇】curb 控制 incorporate 包含 quantity 数量 assessment 评估，估价，估值
+ 【参考译文】（科学界）已做出尝试来遏制这一趋势，例如，试图将某种数量和质量衡量标准纳入申请
+ 者论文评估活动中。
+-49.This would be reasonable if it were not for the fact that scientists can easily arrange to cite themselves
+in their future publication or get associates to do so for them in return for similar favors.
+ 【考点】代词指代；if 虚拟条件状语从句；同位语从句
+ 【解析】主句为 This would be reasonable if it were not for...为 if 引导的虚拟条件状语从句；the fact
+that...为 that 引导的同位语从句
+ 【词汇】cite vt. 引用；Associate n. 同伴；合伙人 in return for 作为对......的报答
+ 【参考译文】如果不是因为科学家极有可能会在其未来出版作品中引用自己论文或是让同事为了回报
+ 类似帮助而引用自己论文，这倒也合理。
+-50.If we are serious about ensuring that our science is both meaningful and reproducible, we must ensure
+that our institutions encourage that kind of science.
+ 【考点】状语从句；宾语从句
+ 【解析】主句主干：we must ensure that。If we are serious about ensuring that...，这部分是 if 引导的
+ 条件状语从句，从句中的 ensuring 后为 that 引导的宾语从句；主句中 ensure 后同样为 that 引导的宾语
+ 从句。
+ 【词汇】be serious about 认真对待 reproducible 可再生的，可重复的 institution 制度
+ 【参考译文】如果我们真想确保科学既有意义又具有可复制性，我们就必须确保我们的制度激励这种
+ 科学才行。
+
+ 三、全文翻译
+ 直到我开始写一个有关医学期刊的每周专栏，并开始通读科学论文之后，我才意识到很多医学文献经常有多糟糕。我渐渐辨别出劣质论文的各种迹象：那种自我标榜为证实“每周吃一公斤以上西兰花的人晚年患恶性贫血症概率是那些吃得较少的人的 1.17 倍”的论文。（46.医学期刊中存在大量此类无稽之谈，一经广播公司和非专业媒体报道，就会引发健康恐慌并激起短暂的健康饮食热潮。
+ 为什么这么多劣质科学被发表？最近，一篇发表于英国皇家学会开放科学网站、题为《劣质科学的自然选择》的论文试图回答这个令人不解却又重要的问题。文章表示，问题不仅在于人们做劣质研究，还在于现行职业晋升制度助纣为虐。重要的不是事实，而是发表，发表本身几乎已经成为终极目标。这其中有一种通货澎胀式的过程在起作用：（47.如今，任何研究职位申请者所必须发表的论文数量是近 10 年前同一职位所需论文数量的两倍。既然如此，那就别管质量，就数论文发表数好了。（48.（科学界）已做出尝试来遏制这一趋势，例如，试图将某种数量和质量衡量标准纳入申请者论文评估活动中。这就是著名的引文索引，即指一篇论文在其他科学文献中被引用的次数，其假设是重要论文比不太重要论文更常被引用。（49.如果不是因为科学家极有可能会在其未来出版作品中引用自己论文或是让同事为了回报类似帮助而引用自己论文，这倒也合理。
+将个人产出压缩为简单的度量指标，如论文发表数量或期刊影响力，会节省大量时间和精力并避免诸多分歧。不幸的是，使用简单的量化指标来评定研究者价值，长远来看可能会付出巨大代价。（50.如果我们真想确保科学既有意义又具有可复制性，我们就必须确保我们的制度激励这种科学才行。
+
+ Section III
+  Part A
+ 一、审题谋篇
+ 【情景】抓取指令关键词：Suppose you are working for the uAiding Rural Primary Schools project of your university.
+ 梳理信息：1.	写信人身份：学校志愿项目 的工作人员
+         2.	写作话题：“帮扶农村小学” 志愿项目
+
+ 【要求】抓取指令关键词：Write an email to answer the inquiry from an international student volunteer, specifying the details of the project.
+ 梳理信息：3.	写作类型：书信
+4.交际目的：答复咨询
+5.写作对象：留学生志愿者
+6.写作内容：具体说明该项目
+
+ 归纳要点：
+ 1	•格式：书信（回复信）。
+2	•语域：收信人是参加志愿 项目的一名外国留学生，回 复其咨询的用语应较为正 式，语气礼貌亲切。
+3.内容要点：①介绍志愿项 目的内容；②说明活动安排 （如活动举办的时间地点、相 关安排、活动费用等）。
+
+  二、参考范文
+ Dear William,
+I am exceedingly delighted to receive your letter in which you inquired something about the “Aiding Rural Primary Schools”. I, as a member of the project, am writing you this letter for the purpose of informing you some of the necessary information.
+First and foremost, the theme of the project is to help those rural primary schools in remote areas by arranging some activities, such as sending various kinds of books about different aspects to those lovely students, which can not only broaden their horizon and enrich their life, but also cultivate their ability of thinking and learning independently and critically. In addition, the volunteers should have the character of diligence, coupled with an optimistic and pleasant personality, which will assure them of positive attitude when facing some setbacks during the process of these activities.
+If you have any question about this project, please contact me without any hesitation ataidingruralprimaryschools@edu.cn.
+                                Yours sincerely,
+                                Li Ming
+ 三、模板例句
+Dear____,
+With the sincere appreciation for your dedication to 活动 ,I'd like to answer your inquiry regarding the forthcoming activity.
+For about 时 间 段 ，we organize 活 动 at/in 地点 . 活动 参与者 are expected to focus on 具体活动 ‘which benefits 活动意义 .Besides, there will be a brief training session before the program, during which you should 培训期间要求 .And surely, 活动主办方 will pay all the expenses on meals, accommodation and transportation.
+It is hoped that my reply will be of help and please email me if you have any further questions.
+                Yours sincerely, Li Ming
+
+ Part B
+ 一、审题谋篇
+
+ ①提取信息：图片背景及标题“途中”提示 场景：登山途中
+ 信息解析：象征迎接人生挑战、努力实现 人生目标的过程
+
+  ②提取信息：右侧的人坐着，愁眉苦脸地 说:“累了，我不爬了。”
+ 信息解析：说明他在面对困难和考验时 容易放弃，态度消极
+
+  ③提取信息：左侧的人站着，鼓励道：“别 呀！休息一下再接着爬。”并 递上水
+ 信息解析：说明他在遇到困难和挑战时 会选择咬牙坚持
+
+  ④提取信息：文字信息：“累了，我不爬了” 和“别呀！休息一下再接 着爬。
+ 信息解析：揭示两人的心态，其言行代表 人们在漫长而艰难的追求人生 目标的过程中持有的不同态度
+
+ 推导寓意：登山途中感到劳累象征实现远大目 标、取得成功的路途无比艰辛，会对 身体和精神造成双重考验。面对相 同的困难，心态积极和消极的人会 有截然不同的反应。由此可知，本 篇写作为“励志类人生哲理型”话题 作文，图片揭示的道理为“取得成功 的途中即使感到身心俱疲，也应该 坚持到底，不轻言放弃”。
+
+ 二、参考范文
+ As is vividly portrayed in the cartoon, two people are climbing the mountain together. One of them sits on a higher step with his backpack beside his feet and complains, “I’m tired, I don’t want to climb anymore.”
+ However, the partner carrying a bag catches up with him and hands him a bottle of water, he says, “Come on,take a break then continue to climb.” Under the picture lies a caption: On the Way.
+ The impressive drawing has profoundly revealed that the process of our life is just like the mountain-climbing and only by adjusting our own pace and persisting in our goals can we reach a higher life realm — — realizing the dreams for which we are always longing. For one thing, all kinds of interference make us give up sticking to dreams. For another, we haven’t integrated dreams into our life because of being anxious for success. The most common instance is that when we want to improve our health or obtain a better figure, majority of us may determine to do exercise, but often end in laziness and various excuses.
+ As the saying goes, the end of man is the beginning of God, only those who do their best can get the favor of heaven and enjoy the joy of victory. It is advisable for us, positive climbers, to view persistence and struggle as a lifestyle. Only by taking these approvals into action can we enjoy the richness and beauty of life.
+ 三、模板例句
+ The drawing above depicts a(an) touching/ encouraging/thought-provoking scene, in which ____. ②Below the drawing, there is a caption which read ____.③ Straightforward/Exaggerated as it is, the drawing conveys profound meanings.
+ ①The picture aims to remind us that ____ is an extremely valuable contributor to the achievement of success and happiness. ② In our lifetime, there will ine St ably be occasions when ____. ③ Under these circumstances, it is ____ that gives us the power to____. ④ A prime example is ____ who/which ____.⑤More importantly, such a positive quality/trait/spirit/ attitude can produce a lasting energizing effect, granting us a fruitful life without regrets. ⑥Just as an old saying goes, ____.
+ ①In general, ____ lays a solid foundation for us to achieve ambitious goals and reap the happiness of success. ②In order to achieve something in our life, it is sensible/advisable to cultivate this trait consciously and put it into practice.
+
+①	上图描绘了一幅令人感动（或：令 人鼓舞、令人深思）的画面：____。②图片下方标注文字: ____。③图片看似简单直接/有些夸张，却承载深刻的内涵。
+①	图片旨在提醒我们，____对于获取成功与幸福是极有价值的因素。② 我们的人生中难免会遇到这样的情形：____。③在这些情况下，是____给予我们力量____。④____便是一个典型例证，他（或：她、他们）____。⑤更重要的是，这种积极的品质（或：特质、 精神、态度）能产生持久的激励效应，使我们的人生颇有成就、不留遗憾。⑥正如古语所言，____。
+①	总之，____为我们实现远大目标并收获成功的喜悦奠定了坚实的基 础。②为了一生中能有所成就，明智的 做法是有意培养这种特质并予以践行。
+
+ 

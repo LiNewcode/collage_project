@@ -1,0 +1,80 @@
+[year:2016][index:1]
+[ans]:【答案】B
+[point]:【考点】逻辑关系（复现结构）。
+[analysis]:【解析】考生需要为本空前后的原文信息做定位分析。首先，本空之后的原文信息 those of the young woman 与之前  的 his parents and his friends 和之后的 a matchmaker 均做谓语动词 involve 的宾语，且这三个宾语平行并列。其中的两  个宾语 his parents and his friends 与 a matchmaker 之间的并列关系原文已经通过已知线索 not only…but also 说明，根  据复现原则，本空应选择能同样表达并列关系的词组，很明显正确答案为选项[B] as well as 以及。
+[year:2016][index:2]
+[ans]:【答案】D
+[point]:【考点】动词（词组）辨析（对应成分分析法）。
+[analysis]:【解析】根据选项得知空格处需要填谓语动词，空格后面的宾语是“…配偶”，所以根据动宾搭配的原则，D 选项 decide on 可以与后面的宾语，构成通顺语义：选择配偶。所以 D 项正确。
+[year:2016][index:3]
+[ans]:【答案】C
+[point]:【考点】动词辨析。
+[analysis]:【解析】本空应填动词的宾语是 the marriage negotiations（结婚协商），再根据之前的原文信息：A young man 可以  自行选择 a likely spouse，然后请 his parents 来……结婚协商。最恰当的是选项[C]arrange 安排，即“安排结婚协商”，  只有此意才符合上下文从而顺理成章。
+[year:2016][index:4]
+[ans]:【答案】A
+[point]:【考点】副词（词组）辨析（同现原则）。
+[analysis]:【解析】本空应填副词（词组）做状语，对其后的句子 a girl may veto the spouse her parents have chosen 进行修饰，  再 根 据 之 前 的 原 文 信 息 the young man’s parents may make the choice of a spouse, giving the child little to say in the selection, 既然这里已经明确表达了“父母可以来选择孩子的配偶而不给孩子什么发言权”，而本空所修饰句表达的  是“女孩子可以不同意父母所选的配偶”。可知最恰当的选项是[A] In theory 理论上，这个词组的修饰其实很大程  度上弱化了“女孩子可以不同意父母所选的配偶”的程度；从同现原则的角度也可以判断，In theory 与所修饰句中  的线索词 may 的倾向是一致的，最符合上下文之间的逻辑关系，故该项为最佳答案。
+[year:2016][index:5]
+[ans]:【答案】C
+[point]:【考点】逻辑关系。
+[analysis]:【解析】首先需要判断本空所衔接的 a spouse has been selected 和 each family investigates the other to make sure its child is marrying 6 a good family 的内在逻辑，前后两句明显是时间关系，并且是“选择配偶”之后才会“双方家庭去  做调查”。四个选项中能标示时间关系且符合此前后顺序的只有选项[C] After 在……以后，因此为最佳答案。
+[year:2016][index:6]
+[ans]:【答案】A
+[point]:【考点】介词辨析。
+[analysis]:【解析】本空所需介词与之前的动词 marry 和之后的 a good family 构成动宾搭配。本题的主要判断线索是宾语 a good
+[year:2016][index:7]
+[ans]:【答案】C
+[point]:【考点】逻辑关系。
+[analysis]:【解析】考生可以通过判断本空所衔接的前后文之间的内在逻辑关系来确定答案。本空之前的原文信息为 Formerly it lasted three days（以前，婚礼会持续三天）；本空之后的原文信息为 by the 1980s it more commonly lasted a day and a half  （到了 20 世纪 80 年代，通常会持续一天半）。无论是根据前后文的意思，还是对比前后文中的关键词 Formerly 和 more commonly，都可判断出前后文明显是对立转折的关系，因此本题答案为选项[C] but 但是。
+[year:2016][index:8]
+[ans]:【答案】C
+[point]:【考点】动词辨析。
+[analysis]:【解析】本空所需动词的主语为 Buddhist priests，宾语为 prayers of blessing（祈福），由此宾语线索可以判断选项[A] test （测试）和[B]copy （复制）是不可能的。选项[D] create （创作；创造）也不合适，因为这种祈福英国是现成  的、既有的，无需去临时创作。故合理的答案只有选项[C]recite 朗诵；详述。
+[year:2016][index:9]
+[ans]:【答案】D
+[point]:【考点】动名词辨析。
+[analysis]:【解析】解题主要依据的判断线索是动名词的宾语 cotton threads（棉线）及之后的 around the bride’s and groom’s wrists（环绕在新郎和新娘的手腕上）。能够与 cotton threads 搭配并构成符合 around the bride’s and groom’s wrists 意思的选项只有[D] tying（用线、绳索等）系。
+[year:2016][index:10]
+[ans]:【答案】B
+[point]:【考点】动名词辨析。
+[analysis]:【解析】本空应填动名词需能与 a candle 及之后的 around a circle of happily married and respected couples  （围绕着一圈受尊敬的幸福夫妻）搭配。[C] hiding （隐藏）和[D] serving （服务）分别填入后在语法上和意思上都  不搭，予以排除。选项[A] lighting（点燃；照亮）虽能与宾语 a candle 搭配，但与之后的 around a circle of happily married and respected couples 无法构成合理意义。因此只有选项[B] passing （传递）最为合理，即“围绕着一圈受尊敬的幸  福夫妻传递蜡烛”。
+[year:2016][index:11]
+[ans]:【答案】D
+[point]:【考点】名词辨析（无关词排除法）。
+[analysis]:【解析】本空所需名词是 bless（祝福）的宾语，根据上下文这里被祝福的对象自然应该就是新婚的夫妇。四个选项  中，只有[D]union （结婚，婚姻；同盟；联合）含有“婚姻”的意思，故为正确答案。同时，原文的中心主题就是  在谈论婚姻的问题，直接使用无关词排除法也可以立即排除[A] meeting （会议；会面）[B] association （协会；联  系） 和[C] collection （收集；募捐）这三个与本文主题无关的选项。
+[year:2016][index:12]
+[ans]:【答案】D
+[point]:【考点】动词辨析。
+[analysis]:【解析】本空所需动词的主语为 newlyweds（新婚夫妇），动词之后的线索为 with them，此处的代词 them 指代的是  之前的 the wife’s parents（妻子的父母），同时本动词之前的句子已经明确说明了 Newlyweds traditionally move in with the wife’s parents（新婚夫妇传统上搬到女方的父母处），因此正确答案应为选项[D]live（生活），即新婚夫妇与女  方的父母一起生活。
+[year:2016][index:13]
+[ans]:【答案】B
+[point]:【考点】逻辑关系。
+[analysis]:【解析】考生应首先定位本空所衔接的前后文信息的内在逻辑关系。本空之前的原文信息为：Newlyweds traditionally move in with the wife’s parents and may 12.ith them up to a year（新婚夫妇传统上搬到女方的父母处，并且可以一  起……最长一年）；本空之后的原文信息为：they can build a new house nearby（他们在附近建造好自己的新房）。  前后文明显存在时间关系，而且顺序上是新婚夫妇先要和女方父母一起……最长一年，之后再在附近建造好自己的  新房，四个选项中能够衔接这种逻辑关系的只有选项[B] until （直到），故为最佳答案。
+[year:2016][index:14]
+[ans]:【答案】A
+[point]:【考点】动词辨析（同现结构）。
+[analysis]:【解析】本空所需动词实际上与 Divorce 构成了动宾搭配，同时本句中的信息 Divorce is legal 以及本空所在不定式之  前的 easy 都已经在倾向上说明了本句要表达的核心意思是“离婚不是难事儿”。根据同现原则，首先可排除选项[C] challenge （挑战；质疑）和[ D]avoid （避免），因为这两项表达的意思与上述倾向是相反的。选项 [B] follow（跟  随；听从）此处无法与 Divorce 构成有意义的搭配。故最佳答案为[A] obtain （获得，得到），即“离婚是合法的，  而且很容易获得”。
+[year:2016][index:15]
+[ans]:【答案】C
+[point]:【考点】动词辨析。
+[analysis]:【解析】本空所需动词是以被动语态的形式出现的，主语是 Divorced persons，动词之后的原文信息为 with some disapproval，此处的 disapproval 指的是态度上的“不赞同”，并且前文也给出了线索 but not common（[离婚]并不常  见）。综合这些线索判断本题的答案应为选项[C] viewed （看待，视为），即  disapprove（l 不赞同）是对 Divorced persons  的一种态度和看法。
+[year:2016][index:16]
+[ans]:【答案】A
+[point]:【考点】引导词辨析。
+[analysis]:【解析】本空需选择一个引导词，引导 retains 之后的宾语从句，同时还可以与 property（财产）搭配。首先，选项[B] however （无论多么……；但是），[C] whenever （无论何时）以及[D]whatever （无论何处）都无法与 property 搭  配，因为 property 不是“方式”、“时间”或“地点”概念，从而无法与这三项搭配。唯一能够搭配的就是选项[A]wherever  （ 任何……），既可以引导宾语从句，又可以与 property 搭配，故为正确答案。
+[year:2016][index:17]
+[ans]:【答案】B
+[point]:【考点】动词辨析。
+[analysis]:【解析】本空所需动词的主语是 he or she，宾语中心词其实是之前的 property。再根据之后的线索 into the marriage，  可知最合题意的动作是[B] brought（带来；创造），即男方或女方带到婚姻中的财产，故为正确答案。
+[year:2016][index:18]
+[ans]:【答案】A
+[point]:【考点】动词辨析（无关词排除法）。
+[analysis]:【解析】本空所需动词是以被动语态的形式出现的，主语是 jointly-acquired property（共同获取的财产），同时本动  词被副词 equally（平均地）所修饰。而且，上下文是在谈论离婚时的财产分配问题，据此选项[B] invested （投资）  和[C] donated （捐赠，捐献）都是不符合题意的动作，属于无关选项，应予排除。而[D] withdrawn （撤退；取出）  填入空格后的意思是把自己之前的财产撤走，而本动词的主语是 jointly-acquired property,因此最佳答案为[A] divided  分配，分享；把……隔开，填入空格后所在句的意思是：（在婚姻存续期间）共同获取的财产评价分配。
+[year:2016][index:19]
+[ans]:【答案】C
+[point]:【考点】动词辨析。
+[analysis]:【解析】本空所需动词的主语是 a gender prejudice（性别歧视），同时本动词还与 up 构成了词组。根据上下文很容  易判断本句的意思是“离过婚的人可以再婚，但存在性别歧视”。能够表达此意的选项是[C] shows，因为词组 show up 的意思就是“显现出来，显露”。
+[year:2016][index:20]
+[ans]:【答案】A
+[point]:【考点】逻辑关系。
+[analysis]:【解析】首先应定位本空所衔接的前后文的内在逻辑。本空之前的原文信息为 The divorced male doesn’t have a waiting period before he can remarry（离婚男性无需等待一段时间即可再婚）；本空之后的原文信息为 the woman must wait ten months（离婚女性必须等待十个月之久）。前后文明显是一种对比、对立的关系，四个选项中符合此逻辑关系的为  选项[A]while 而；但是，故为最佳答案。

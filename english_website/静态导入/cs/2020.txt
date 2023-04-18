@@ -1,0 +1,80 @@
+[year:2020][index:1]
+[ans]:【答案】C On
+[point]:【考点】介词词义辨析
+[analysis]:【解析】此处考察介词词义辨析。On a cold winter's day 意思是在一个寒  冷冬日。介词 on 后加具体的某一天;in 后加一段时间，例如 in winter，in  2002;toward 表方向，不与时间搭配;till 意思是直到，例如 till tomorrow，till next week，与句意不符。故正确答案为 on。
+[year:2020][index:2]
+[ans]:【答案】A match
+[point]:【考点】动词词义辨析
+[analysis]:【解析】此处考察动词词义辨析。文章的首段首句提到：即使家庭成员  不太可能经常坐下来一起吃饭，但数百万英国人将在这个周末参加这个国  家最伟大的传统活动之一：星期日烤肉。On a cold winter's day, few culinary pleasures can __2__it. 在一个寒冷的冬日，很少有什么乐趣与之匹配。  match 匹配。express 表达。satisfy 满足，满意;确信;符合。influence 影响。
+[year:2020][index:3]
+[ans]:【答案】B enjoyment
+[point]:【考点】上下文逻辑关系
+[analysis]:【解析】此处考察上下文逻辑关系。上文说到星期日烤肉是一项开心的  活动。后文 Yet 进行语义转折：然而正如现在报道的那样，食品卫生部门  认为这种 3 会导致另一种有罪的快乐 4 损害我们的健康。enjoyment 乐趣与  上文 pleasures 和下文 another pleasures 互为关联信息。patience 耐心，耐性。  surprise 惊喜。concern 关心。
+[year:2020][index:4]
+[ans]:【答案】D guaranteed
+[point]:【考点】非谓语动词做后置定语
+[analysis]:【解析】此处考察非谓语动词做后置定语的用法。空格所在句指出：这  种快乐会导致另一种有罪的快乐 4 损害我们的健康。 guaranteed 有保证的，  一定的，填入空格处意为：这种快乐会导致另一种有罪的快乐，肯定会损  害我们的健康。 intensified 增强，加剧; privileged 享有特权，专用，特  许;compelled 强迫。
+[year:2020][index:5]
+[ans]:【答案】A issued
+[point]:【考点】词义辨析
+[analysis]:【解析】此处考察词义辨析。The Food Standards Authority(FSA) has  __5__ a public warning... 食品标准管理局一项公开的警告... issued 发表，发  布，发出;received 接收，接到;ignored 忽视，忽略;canceled 取消。issued a public warning 发出一项公开的警告符合文意。
+[year:2020][index:6]
+[ans]:【答案】B at
+[point]:【考点】介词辨析
+[analysis]:【解析】此处考察介词辨析。in some foods cooked __6__high temperatures.  under 在...下面;for 为了;因为;对于; by 在…旁边; 通过; 由于; 经过。
+[year:2020][index:7]
+[ans]:【答案】D avoid
+[point]:【考点】上下文逻辑关系
+[analysis]:【解析】此处考察上下文逻辑关系。7 空句首 this mean 代词 this 指代上  文高温炙烤的食物里会有化学复合物有害人体身体健康。所以下文提出建  议人们应该 7 炸土豆，不吃薄皮披萨并且...7 空同时也与 reject 构成语义并  列的关系，故 avoid 正确。forget 忘记;regret 后悔;finish 完成。
+[year:2020][index:8]
+[ans]:【答案】A partially
+[point]:【考点】词义辨析+上下文语境
+[analysis]:【解析】此处考察词义辨析+上下文语境。...and only__8__ toast their bread .  8 空前文说到建议人们不吃炸土豆，薄皮披萨或者只是 8 烤面包。partially  部分地，偶尔地;regularly 有规律地;easily 容易地;initially 最初地。故 A 选  项正确。
+[year:2020][index:9]
+[ans]:【答案】D While
+[point]:【考点】上下文逻辑关系+逻辑连接词辨析
+[analysis]:【解析】此处考察上下文逻辑关系+逻辑连接词辨析。 __9__studies have  shown that acrylamide can cause neurological damage in mice, the reis no  __10__ evidence that it causes cancer in humans. 9 研究表明丙烯酰胺可引起  小鼠神经损伤，但是没有 10 证据表明它会导致人类患癌症。前后句为转折  /对比/让步的逻辑关系，故选择 while 表示虽然，尽管。Unless 除非，表条  件的逻辑关系;Since 因为，表因果逻辑;If 如果，表条件的逻辑关系。
+[year:2020][index:10]
+[ans]:【答案】C conclusive
+[point]:【考点】词义辨析+上下文语境
+[analysis]:【解析】此处考察词义辨析+上下文语境。 9 研究表明丙烯酰胺可引起  小鼠神经损伤，但是没有 10 证据表明它会导致人类患癌症。conclusive 决  定性的; 令人信服的; 确凿的  secondary 第二的，中等的;间接的;external 外面的，外部的; 表面上的; 外  用的; 外国的;negative 消极的，否认的。
+[year:2020][index:11]
+[ans]:【答案】C likely
+[point]:【考点】固定搭配
+[analysis]:【解析】此处考察固定搭配。be likely to 可能。insufficient 不足的，不  够的;bound 捆绑的，束缚的，有义务的;slow 缓慢的。
+[year:2020][index:12]
+[ans]:【答案】A On the basis of
+[point]:【考点】短语辨析+上下文逻辑
+[analysis]:【解析】此处考察短语辨析+上下文逻辑。__12__the precautionary  principle, it could be argued that it is __13__ to follow theFSA advice. 12.防  性原则，可以说遵循 FSA 的建议是 13 。 On the basis of 以...为基础，根据，  按照;At the cost of 以...为代价;In addition to 除...之外; In contrast to 与之相对，  相反。
+[year:2020][index:13]
+[ans]:【答案】B advisable
+[point]:【考点】形容词词义辨析
+[analysis]:【解析】此处考察形容词词义辨析。根据预防性原则，可以说遵循 FSA  的建议是 13 。interesting 有趣的;advisable 明智的，可取的; urgent 急迫的;  fortunate 侥幸的，幸运的。
+[year:2020][index:14]
+[ans]:【答案】DAfter all
+[point]:【考点】逻辑关系
+[analysis]:【解析】考察逻辑关系。原文中上一句说“基于“预防原则”，可以认为最  好遵循 FSA 的建议”。本句说“在有证据证明吸烟与癌症之间的联系之前，  吸烟导致癌症的传言就已经流传多年了。结合选项分析，As usual 像往常一  样，In particular 尤其，特别，By definition 根据定义，After all 毕竟，只有  After all 符合文意。
+[year:2020][index:15]
+[ans]:【答案】C connection
+[point]:【考点】动宾搭配
+[analysis]:【解析】本题考察动宾搭配，结合语境和句子成分理解，这里的名词放  在 prove“证明”后面，整体处在不定式中做主语补足语说明主语 evidence，  这里“证据”应该是证明出来(吸烟和肺癌)有联系的，故选择 connection。  Resemblance 相似，combination 结合，pattern 模式，均不符合。
+[year:2020][index:16]
+[ans]:【答案】B served
+[point]:【考点】主谓搭配
+[analysis]:【解析】本题考察主谓搭配，此处为被动语态，和主语 apiece of boiled  beef 构成实际上的“动宾关系”，句意“毫无疑问，一片煮熟的牛肉总能在周  日和一些蒸蔬菜一起__16__”。这里 served up 表示“上菜，端上”正和文意。  而其他选项 made 制作，saved 节省，used 使用，均不符合。
+[year:2020][index:17]
+[ans]:【答案】A Tobe fair
+[point]:【考点】 主谓搭配
+[analysis]:【解析】本题考察主谓搭配，上一句说“但是生命值得过下去吗?”本句话  说，“英 FSA 表示，它并没有告诉人们....不吃烘焙食品”，可见后文并没有  对上文进行举例(for instance)或总结(To be brief)或表示经常发生的事情  (in general)，故，应该选择顺承关系的 To be fair。
+[year:2020][index:18]
+[ans]:【答案】B entirely
+[point]:【考点】 副词的修饰关系
+[analysis]:【解析】此处考察副词的修饰关系。本句话句意为“英 FSA 表示，它并  没有告诉人们不吃烘焙食品__18__”。结合各选项分析：reluctantly 不情愿  地，entirely 完全地，gradually 逐渐地，carefully 小心谨慎地，能跟前面的  否定词 not 呼应使用表示一种部分否定的，只能是 entirely 才合适，  not...entirely 表示“并未完全...”。
+[year:2020][index:19]
+[ans]:【答案】C campaign
+[point]:【考点】 主谓搭配
+[analysis]:【解析】本题考察主谓搭配。根据原文语境“然而，他们(FSA)的...有风  险给人一种‘劝诱式’保姆的感觉”，答案 campaign 表示“(开展的)运动，活动”  放在这里最合适。promise 承诺，experience 经历或经验，competition 竞争，  均不能体现本文中 FSA 所做行为的代称。
+[year:2020][index:20]
+[ans]:【答案】D end up
+[point]:【考点】 动宾搭配
+[analysis]:【解析】考察动宾搭配，这里的句义是“持续不断的健康威胁__20__却  没有人在听。”这里想强调太多的的对健康的恐慌的最终结果，只有“结束，  以...告终”这个含义最符合，所以选择 end up，而 followup 跟踪，坚持完成，  pick up 捡起，拾起，偶然学到，open up 打开，开发，均不符合文义。

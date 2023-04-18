@@ -1,0 +1,554 @@
+
+ Section I
+ 一、文章题材结构分析
+ 本文选自 2014 年 7 月 15 日 International Business Times 上一篇题为“DNA of Friendship: Study Finds We are Genetically Linked to Our Friends”（DNA 友谊：研究发现我们在基因上和我们的朋友有着千丝万缕的联系）的文章。首段通过一项研究结果引出朋友之间有一定的基因关联；第二段对研究的受试者进行说明；第三段中遗传学家认为朋友之间共享的 1%的基因很重要；第四五段指出研究的两项发现；最后研究者发现相似基因发展更快，但人们喜欢与同族人交友还未能做出解释。
+二、试题解析
+-1.[A] when 何时 [B] why 为什么 [C] how 如何 [D] what 什么
+ 【答案】D
+ 【考点】从句辨析
+ 【解析】该题考查的是语法知识。根据句子结构和选项的特点，可以判断出空格处应填从属连词引导表语从句；
+ 再根据句子的内容，可以看出该从句是一项研究的相关内容，不是指研究的时间（when），原因（why）和方
+ 式（how），表示具体内容的表语从句用 what 引导，因此，该题的答案为 what。
+-2.[A] defended 保卫，防守 [B] concluded 推断，下结论 [C] withdrawn 撤退，收回 [D] advised 建议，劝告
+ 【答案】B
+ 【考点】上下文语义衔接+动词辨析
+ 【解析】从此题所在句子的前后内容可以判断出，that is_______ 中的 that 是指第一句话的内容（朋友与我们基
+ 因上的相关性），很显然是研究得出的结论。因此，答案为 concluded。
+-3.[A] for 为了 [B] with 和 [C] on 在…之上，关于，对于 [D] by 方式
+ 【答案】C
+ 【考点】上下文语义衔接+介词辨析
+ 【解析】根据空格所在句子的内容（研究对 1932 位独特的受试者进行分析）判断出进行分析的对象是 1932 unique
+subjects。Conduct analysis on…是固定表达。
+-4.[A] compared 比较，对照 [B] sought 寻找 [C] separated 分离，分开 [D] connected 连接
+ 【答案】A
+ 【考点】上下文语义衔接+动词辨析
+ 【解析】该空格所在的句子是 which 引导的定语从句修饰 study，意思是：对几对基因不相关的朋友和陌生人进
+ 行_______。因为“研究”的内容是关于朋友间基因上的相关性问题，所以完整的意思应该是：对几对基因不
+ 相关的朋友和陌生人进行比较。所以最佳答案为 compared。其余选项不符合句意。
+-5.[A] tests 测试 [B] objects 物体 [C] samples 样例 [D] examples 事例
+ 【答案】C
+ 【考点】上下文语义衔接+名词辨析
+ 【解析】根据空格的前后内容判断，到第五个空为止，文章都在讲实验过程，和实验对象，第五个空格所在句
+ 子的内容是：相同的人们都用于实验中的这两类______。所以根据上下文语境和内容，应该选与实验对象相对
+ 应的 samples（样例）。因此，答案是 samples。选项 A. 测试，B. 物体，D. 事例均不符合前后语境和语义。
+-6.[A] insignificant 微不足道的 [B] unexpected 意外的 [C] unreliable 不可靠的 [D] incredible 惊人的
+ 【答案】A
+ 【考点】上下文语义衔接+形容词辨析
+ 【解析】本题考核的是形容词结构作表语。形容词作表语时，通过主语和表语搭配的一致性来判断所选填的形
+ 容词。空所在的语境为：尽管这 1%看起来似乎____，但是遗传学家可不这么认为。空前后形成对比转折的逻
+ 辑关系，而从后文列举的例子中可知遗传学家 James Fowler 对这 1%基因的态度是肯定的，而从常识判断，1%
+ 所占的比例也是非常小的，综合分析，故答案为 A。
+-7.[A] visit 拜访，访问 [B] miss 错过；想念 [C] seek 寻找，探索 [D] know 了解，认识
+ 【答案】D
+ 【考点】上下文语义衔接+动词辨析
+ 【解析】本题空格处考查了动词，解题的关键是确定主语 most people（很多人）与宾语 their fourth cousins（他
+ 们隔三代的表亲）两者之间的关系。空所在的语境为：大多数人甚至不____他们隔三代的表亲，但却设法选择
+ 那些____我们亲戚的人作为朋友。根据上下文语义以及文章主旨的导向，不难判断 D 选项最符合文意，“很多
+ 人甚至不认识自己隔三代的表亲”，故答案选择 D。
+-8.[A] resemble 类似，像 [B] influence 影响 [C] favor 支持，赞成 [D] surpass 超越
+ 【答案】A
+ 【考点】上下文语义衔接+动词辨析
+ 【解析】空格处要求填入一个及物动词，能够直接接宾语 kin（亲戚），然而四个选项都是及物动词，所以关
+ 键在于判断哪个更符合上下文语境。空所在的语境为：大多数人甚至不认识他们隔三代的表亲，但却设法选择
+ 那些____他们亲戚的人作为朋友。将四个选项分别代入，B 选项 “影响他们的亲戚”，C “支持他们的亲戚”，
+ D 选项“超过他们的亲戚”均无上下文依据，根据全文中心导向：基因上的相似性，不难判断，A 选项“像他
+ 们亲戚”符合上下文语义，故答案为 A。
+-9.[A] again 又，再一次 [B] also 也 [C] instead 代替，反而 [D] thus 因此，从而
+ 【答案】B
+ 【考点】上下文语义衔接+副词辨析
+ 【解析】空格处要求填入的副词修饰动词“found”，空所在的句子开头用“The study…”,显然讨论的是同一
+ 个研究，前文指出研究发现朋友与我们有 1%的基因关系，而空所在句“the genes for smell were something shared
+in friends（朋友间在嗅觉基因方面有相关性）”在进一步详细讨论该话题，前后之间是顺接关系，A 选项强调
+ 同样的东西再一次提及，C 选项表示对比转折，D 选项表示因果关系，只有 B 选项 also 表示顺接递进关系，故
+ 答案为 B。
+-10.[A] Meanwhile 同时 [B] Furthermore 此外，而且 [C] Likewise 同样地 [D] Perhaps 也许，可能
+ 【答案】D
+ 【考点】上下文语义衔接+副词辨析
+ 【解析】从选项和文中句子结构可以判断，空格处要求填入一个能够体现前后两个句子逻辑关系的副词，空前
+ 的句子谈到“为什么在嗅觉基因方面存在相似性还很难解释”，空后却紧接着对此得出一个相关结论，很明显
+ 是矛盾的，所以此结论只能是一种不确定的推测，故答案为 D。
+-11.[A] about 关于；大约 [B] to 到，向 [C] from 从，来自 [D] like 像，如同
+ 【答案】B
+ 【考点】上下文语义衔接+介词辨析
+ 【解析】该题为介词选择题。后半句出现比较级，可见是和前文形成比较关系，因此和上半句介词保持一致，
+ 用介词 to。该句翻译：它（这种相似性）吸引我们到相同的环境，并且使我们更为相似。因此答案为 to。
+-12.[A] drive 驱使 [B] observe 观察，遵守 [C] confuse 困惑 [D] limit 限制
+ 【答案】A
+ 【考点】上下文语义衔接+动词辨析
+ 【解析】该句意思为：很多机制共同作用，从而_____我们选择基因相似的朋友，_____和_____交朋友的“功
+ 能关系”。根据上下文可知，此处所填入动词需符合结构_____sb. in doing sth.，B 选项 observe（观察，遵守）
+ 和 C 选项 confuse（困惑）均无此用法。符合该结构只有 A 选项 drive（驱使）和 D 选项 limit（限制）。根据上
+ 下文可得知：这些机制驱使我们选择基因相似的朋友，符合文章主题。如果选“限制”则为反向干扰。因此答
+ 案为 drive。
+-13.[A] according to 根据 [B] rather than 而不是 [C] regardless of 不管 [D] along with 伴随着
+ 【答案】B
+ 【考点】上下文语义衔接+介词短语辨析
+ 【解析】所填词为逻辑关系短语，空前说选择基因相似的朋友，空后说具有“实用关系”的朋友，可知前后为
+ 对立关系，并且根据文章主题，可知肯定前者而否定后者，可锁定 B 选项 rather than。A 选项 according to（根
+ 据）没有体现出对立及取舍关系，因此排除；C 选项 regardless of（不管）表让步关系，干扰性较强，但文章更
+ 强调取前舍后，因此排除；D 选项 along with（伴随）表顺接，故排除。故答案为 rather than。
+-14.[A] chances 机会 [B] responses 反应 [C] missions 使命 [D] benefits 利益
+ 【答案】D
+ 【考点】上下文语义衔接+名词辨析
+ 【解析】根据前文 functional kinship（实用关系）可得出 D 选项 benefits（利益），前后形成呼应。A 选项 chances
+ （机会）、B 选项 responses（反应）、C 选项 missions（使命）均不符合题意。故答案为 benefits。
+-15.[A] later 更晚 [B] slower 更慢 [C] faster 更快 [D] earlier 更早
+ 【答案】C
+ 【考点】上下文语义衔接+副词比较级辨析
+ 【解析】该句为：evolving ______ than other genes（比其他基因进化得______）. 根据同词复现，我们找到该段
+ 第二句话中：human evolution picked pace in the last 30,000 year（s 人类进化在过去 30000 年间提速）。C 选项 faster
+ 与下文 picked pace（加速）形成呼应，故答案为 faster。
+-16.[A] forecast 预测 [B] remember 记住 [C] understand 理解 [D] express 表达
+ 【答案】C
+ 【考点】上下文语义衔接+动词辨析
+ 【解析】此题考查动宾搭配。根据语意。空格后面是一个 why 引导的宾语从句，意为“人类进化在过去三万年
+ 间得以加速的原因”，表示这一研究的结果和意义。能与这一宾语从句构成搭配的只有 C 选项 understand。A
+ 选项 forecast“预测”与“过去三万年”相矛盾，B 选项 remember“记住”和 D 选项“express”均不符合文意。
+-17.[A] unpredictable 不可预测的 [B] contributory 促进的[C] controllable 可控的 [D] disruptive 破坏性的
+ 【答案】B
+ 【考点】上下文语义衔接+形容词辨析
+ 【解析】此空需要填入一个形容词，表达社会环境对人类进步所起到的作用。Help，pick pace 这两个表达都是
+ 积极的含义，因此此处需要填入一个带有褒义的感情色彩的词，因此排除 A 选项“不可预测的”和 D 选项“破
+ 坏性的”; B 而 C 选项“可控的”,与语意无关；因此正确答案为 B 选项 contributory“促进的”。
+-18.[A] endeavor 努力 [B] decision 决定 [C] arrangement 安排 [D] tendency 倾向
+ 【答案】D
+ 【考点】上下文语义衔接+名词辨析
+ 【解析】此处进一步陈述这一研究的结论。A 选项 endeavor“努力”，B 选项“决定”，C 选项“安排”，D
+ 选项“倾向”。本文的主旨重在解释人们交朋友时不自觉的一种倾向，而非通过人为的有意识的举动来选择朋
+ 友。因此正确答案为 D。
+-19.[A] political 政治的 [B] religious 宗教的 [C] ethnic 种族的 [D] economic 经济的
+ 【答案】C
+ 【考点】上下文语义衔接+形容词辨析
+ 【解析】结合文意，人们普遍希望和有相似_____背景的人交朋友。C 选项 ethnic 意为“种族的，民族的”，是
+ 对上文中多次重复出现的 genes,以及下文的 the same population 的同义复现。因此正确答案为 C。A 选项 political
+ “政治的”，B 选项“宗教的”，D 选项“经济的”均不符合原文文意。
+-20.[A] see 确保 [B] show 展示 [C] prove 证明 [D] tell 辨别
+ 【答案】A
+ 【考点】上下文语义衔接+动词搭配
+ 【解析】此处考察动词，动词势必要看前后搭配。See that 构成固定词组，意为“务必使……”，符合文意，
+ 即：即使所有的受访者都拥有欧洲血统，(研究者们)仍然悉心确保所有的受访者、朋友和陌生人都来自于同一
+ 群种。选项 B“展示”,选项 C“证明”，选项 D“辨别”均无此含义，且不符合文意。
+ 三、全文翻译
+ 尽管朋友之间在血缘上没有关系，但是从生理学上看，朋友却类似我们的第四表亲，大约有 1%的基因相同。这就是研究所得出的结论，该研究由加利福尼亚大学和耶鲁大学发表在《美国国家科学院院刊》上。研究对 1932 位独特的实验对象进行了全基因组分析，对没有血缘关系的朋友和没有血缘关系的陌生人进行了比较。两组实验样本涉及的人员都是相同的。
+ 尽管这 1%看起来似乎微不足道，但是遗传学家可不这么认为。正如加州大学圣地亚哥分校的医学遗传学教授詹姆斯·福勒所说：“大多数人甚至不认识他们的同辈远亲，但却设法选择那些类似亲戚的人做朋友。”该研究还发现朋友之间在嗅觉基因方面有相关性，而不是免疫基因。为什么在嗅觉基因方面存在相似性，目前还很难解释。也许正如研究人员认为，这种相似性将我们吸引到相同的环境中，但事情也并非这么简单。可能有很多机制共同作用，从而促使我们选择和自己基因相似的朋友，而不是选择以利益为导向的“功能型亲属关系”。
+ 该研究还有一项值得注意的发现：相似的基因似乎比其他的基因进化得更快。此研究可以有助于解释人类进化在过去三万年间得以加速的原因：社会环境是一个主要的促成因素。
+ 研究人员称，该研究结果不只是解释了为什么人们倾向于和民族背景相似的人交朋友。即使所有的实验对象都取样于欧洲的一个族群，研究人员仍然悉心确保所有的受访者、朋友和陌生人都来自于同一族群。研究团队还控制数据以检查所有试验对象的血统。
+
+ Section II
+ Part A
+ Text 1
+ 一、文章题材结构分析
+ 本文选自 2014 年 6 月 4 日《卫报》上一篇题为“Is the Writing on the Wall for All European Royals?”（所有欧洲皇室注定要失败吗？）的文章。主要讨论了西班牙胡安·卡洛斯国王退位这一事件对欧洲诸多皇室的影响，尤其是对英国皇室的影响。文章第一二段通过西班牙国王退位引出君主政体的争论；第三段解释了君主作为国家元首倍受欢迎的原因；第四五段指出王室贵族现在的处境；最后两段总结说明了君主制最大的敌人是国王。
+二、试题解析
+-21.【答案】D
+ 【考点】事实细节
+ 【解析】根据题干要求，定位到文章前两段。而文章第一段的第二句话提到“But embarrassing scandals and the
+popularity of the republican left in the recent Euro-elections have forced him to eat his words and stand down.”（但是
+ 令人尴尬的丑闻和共和党在最近的欧洲选举中所受的欢迎度迫使他收回前言并宣布退位）。D 选项中，“end
+reign”是“stand down”的同义置换，且“embarrassment”与导致 Carlos 卸任的原因“embarrassing scandals”是相呼应
+ 的。故 D 是正确答案。
+ A“过去常常享有很高的公众支持”、B 项“在欧洲皇室中不受欢迎”、C 项“缓和他与对手的关系”在原文中均未提
+ 及，属于无中生有。
+-22.【答案】A
+ 【考点】事实细节
+ 【解析】根据题干关键词“monarchs”和“heads of state”，定位到第三段的最后一句话“...most royal families have
+survived because they allow voters to avoid the difficult search for a non-controversial but respected public figure.”（大
+ 多数欧洲王室得以幸存是由于他们使选民们免除了寻找一个没有争议且受人尊敬的公众人物的困难）其中
+ “non-controversial but respected public figure”正是 A 选项中“undoubted and respectable status”的同义置换。故 A 是
+ 正确答案。
+ B 项“实现传统和现实的平衡”原文中未提及，属于无中生有。C 项“给选民更多的公众人物去检查”，可是原文
+ 是“避免去寻找一个不受争议且受尊敬的公众人物的困难”，并未提到“检查”，故 C 项属于偷换概念。D 项“由于
+ 他们永久的政治体现”中的“everlasting(永久的)”偷换了原文中的“transcendence（卓越的）”，故错误。
+-23.【答案】B
+ 【考点】事实细节
+ 【解析】根据题干要求和关键词 odd（奇怪的）直接定位在第四段的最后一句话“...it is bizarre that wealthy
+aristocratic families should still be the symbolic heart of modern democratic states.”（富有的贵族仍作为现代民主国
+ 家的核心象征，这一点显得很怪异。）其中，“the symbolic heart of modern democratic states”是 B 项中“the role of
+the nobility in modern democracies”的同义置换，故 B 项正确。
+ A 项“贵族过度依赖继承的财产”，C 项“贵族家庭简单的生活方式”，D 项“名人坚持他们的特权”在原文中并未
+ 提及，故错误。
+-24.【答案】D
+ 【考点】事实细节
+ 【解析】该题考查：英国皇家贵族们非常害怕是因为查尔斯……。根据题干专有名词 Charles 可定位到文章第
+ 七段“the danger will come with Charles...worst enemies”。本段指出“危险源自于查尔斯，他生活奢靡，等级观念
+ 显著；并且他没有意识到君王的幸存很大程度上取决于君王提供了公共服务，同时，查尔斯并不知道，国王才
+ 是君主制度最大的敌人，而非共和党人。” 选项 D 意为“适应未来身份失败”，文章指出查尔斯的生活方式，世
+ 界观以及他对于君王制度的错误理解均为身份特殊的他的不正确言行，与选项 D 表述吻合，故为正确答案。
+ 选项 A 意为“对待政治问题态度强硬”，文章并无提及；选项 B 意为“对待建议的生活方式改变失败”，文章中虽
+ 提到生活方式，但并未提到改变生活方式；选项 C 意为“视共和党人为潜在盟友”，文章中提到共和党人并非最
+ 大的敌人，但并未指明共和党人是 Charles 的盟友，属于偷换概念，故错误。
+-25.【答案】C
+ 【考点】主旨大意
+ 【解析】该题考察四个选项中哪个可作为文章最佳标题。本文从西班牙国王 Carlos 被迫退位事件切入，主要讨
+ 论当下欧洲君王制度所存在的问题，并非讨论查尔斯的事件，即可排除选项 B“查尔斯—继位焦虑”和 D“查尔斯
+ —应对威胁缓慢”。而选项 A“卡洛斯—荣辱并存” 和 C“卡洛斯—欧洲君王们的前车之鉴”中，选项 A 属于细节
+ 信息，不能概括文章大意，选项 C 可概括全文，故为正确答案。另外，文章主题词 Monarch 只有在选项 C 中
+ 出现，也可作为迅速解题的依据。
+
+ 三、全文翻译
+ 西班牙国王胡安·卡洛斯曾坚称：“国王不会退位，只会在睡梦中离世。”但是令人尴尬的丑闻和共和党在最近的欧洲选举中所受的欢迎度迫使他收回前言并宣布退位。由此说来，西班牙危机暗示着君主政体将要走到尽头吗？对所有欧洲贵族而言，这是否意味着他们华丽的制服和尊贵生活方式即将结束？
+ 西班牙的例子引发了支持和反对君主政体的争论。正如佛朗哥政权终结时的那样，当公众意见极度两极分化时，君主能够超越纯粹的政治角色，成为民族团结的精神象征。
+ 正是这种明显超越政治之上的地位解释了君主作为国家元首继续倍受欢迎的现象。因此，除中东外，欧洲是世界上君主最多的地方，拥有多达十个王国（不包括梵蒂冈城和安道尔共和国）。但是不同于海湾地区和亚洲的专制统治者，大多数欧洲王室得以幸存是由于他们使选民们免除了寻找一个没有争议且受人尊敬的公众人物的困难。即使如此，国王和女王们无疑都在走下坡路。即便他们声称自己象征着民族团结，但他们的历史——以及他们现今的行为举止——却象征着过时且站不住脚的特权和不平等现象。就在托马斯·皮克提和其他经济学家提醒大家要警惕这种不断加剧的不平等和继承财富力量不断壮大的年代，富有的贵族仍作为现代民主国家的核心象征，这一点显得很怪异。
+ 最为成功的君主们努力摒弃或遮掩旧式的贵族生活方式。王子和公主们都有全职工作，骑自行车而不是马（或乘直升机）上班。即使如此，这些都是与全球 1%的精英为伍的富裕家庭，而媒体的干涉也使他们越来越难以维持一种良好的形象。
+ 然而，欧洲大陆君主们的聪明才智无疑可以让他们再幸存一段时间，而英国王室成员们却最为害怕西班牙的前车之鉴。
+ 只有女王以她那相当大众化（但穿着考究）的祖母形象，还保留着君主制的声誉。而查尔斯将面临险境，他生活品味奢华，世界等级观念强烈。他没有认识到君主制能够得以幸存，在很大程度上是因为他们提供着一项服务——担当无争议和超越政治的国家元首。查尔斯理应知道，正如英国历史昭示的那样，是国王而不是共和党人，才是君主制最大的敌人。
+
+ Text 2
+ 一、文章题材结构分析
+ 本文选自 2014 年 4 月 28 日《华盛顿邮报》一篇题为 “Supreme Court Should Begin Laying out Privacy Protections for Smartphones”的文章。文章主要是关于警察在拘捕犯罪嫌疑人时能否查阅其手机内容的问题。首段提出问题；第二三段中加利福尼亚州提出自己的建议及其原因；第四段指出最高法院不必听从加州的建议；第五段探讨美国民众的数据隐私问题；第六段主要探讨当局是否应该赋予警察更大的权利检查公众手机内容； 最后一段指出解决该问题的核心应是对第四修正案做出新的解释。
+二、试题解析
+-26.【答案】C
+ 【考点】事实细节
+ 【解析】根据题干关键词 The Supreme Court 回文定位到第一段的第二句话，“The Supreme Court will now
+consider whether police can search for the contents of a mobile phone without a warrant if the phone is on or around a
+person during an arrest”,一一比对选项，原文中的“police can search for the contents of a mobile phone without a
+warrant”与选项 C “check suspects’ phone contents without being authorized”是同义替换，故正确，同时可排除
+ A，D 两项；B 项干扰性最强，只有一字之差，文中提到的是“search the contents of a mobile phone”而选项 B
+ 中是“mobile phone”，故排除 B 项。
+-27.【答案】A
+ 【考点】观点态度
+ 【解析】根据题干关键词“California’s argument”，可以定位到文章第四段第一句“They should start by discarding
+ California’s lame argument…”。由第四段第一句话中的“discard（抛弃）”和“lame（没有说服力的）”可以看出作
+ 者对于 California’s argument 是不支持的态度，因此选项 A disapproval（不赞成）正确。选项 B
+indifference（漠不关心）不正确，因为如果作者对一个话题不关心的话，他就不会提出来了；选项 C tolerance
+ （容忍）表示在不赞成的基础上允许其存在，而原文直言“they should start by discarding...”，由此可知，作者认
+ 为 California’s argument 应该被抛弃而不是让其继续存在，所以不正确；选项 D cautiousness（小心，谨慎）在
+ 文章中并未体现出来，故不正确。
+-28.【答案】A
+ 【考点】事实细节
+ 【解析】根据题干关键词 the author believes 和“exploring one’s phone contents is comparable to”可回文定位到文章
+ 第四段第 三句“But exploring one’s smartphone is more like entering his or her home”，选项 A getting into one’s
+residence（进入某人的住宅）语义与之一致，其中，getting into 与 entering 对应，one’s residence 与 his or her home
+ 对应，故 A 选项为正确答案。根据上述分析，可知选项 B handling one’s historical records（处理某人的历史记录）
+ 和选项 C scanning one’s correspondence（浏览某人的信件）不正确。选项 D going through one’s wallet 的干扰力
+ 度最大，来源于文章第四段的第一句 exploring the contents of a smartphone...is similar to going through a suspect’s
+purse，但是这句话是 California’s argument 的内容，而不是作者的看法，所以不正确。
+-29.【答案】C
+ 【考点】推理判断
+ 【解析】根据题干信息 In paragraph 5 and 6 回文定位到第 5 段和第 6 段。第 5 段第一句话明确指出 Americans
+should take steps to protect their digital privacy，说明探讨的是美国民众的数据隐私问题。第 6 段主要探讨警察是
+ 否应该被当局赋予更大的权利来检查公众的手机内容，这个问题与第 5 段的内容是紧密相关的，公众被检查自
+ 己的手机内容，那么他们手机内的数据隐私就会被公开。由此可推知作者的顾虑主要是围绕保护公众的隐私展
+ 开，因此答案为 C。
+ 选项 A principles are hard to be clearly expressed（原则难以得到清晰地表达）在原文中并未提到，不正确；选项
+ B the court is giving police less room for action（法院给警察更少的行动空间）不正确，原文说 the court may want
+to allow room for police to...，说明 the court 是想给警察空间，而不是减少空间，与原文信息相反；选项 D phones
+are used to store sensitive information（电话被用来储存敏感信息）与原文第 5 段第 2 句话所表述的信息一致，但
+ 这只是细节信息，不能将第 5 段和第 6 段的信息囊括起来，所以属于以偏概全，不正确。
+-30.【答案】B
+ 【考点】事实细节
+ 【解析】根据题干关键词 Orin Kerr 可以回文定位到文章最后一段。作者引用 Orin Kerr 这个人的比较是为了说
+ 明相关的论点。分析最后一段结构可知，最后一段的第三句和第四句都是在阐述该例子本身，所以相关论点应
+ 该往前面找，即是第二句话“New, disruptive technology sometimes demands novel applications of the Constitution’s
+protection”,选项 B 与之同义替换，其中，reinterpretation 和 novel applications 对应，其他部分与原文完全一致。
+ 结合上述分析，同时可以排除选项 A the Constitution should be implemented flexibly（宪法应该灵活执行），其
+ 范围过大；选项 C California’s argument violates principles of the Constitution（加利福利亚州的观点违背了宪法原
+ 则）的干扰来自于第 7 段第 1 句话，但是原文只是说明作者认为法官不应该全面吸收加利福利亚州的观点，并
+ 未提到其是否违背宪法，所以不正确；选项 D principles of the Constitution should never be altered（宪法的原则
+ 不应该被改变）与原文语义相反，不正确。
+
+ 三、全文翻译
+ 宪法究竟能在多大程度上保护你的数字数据安全？最高法院正在考虑警察能否在不授权的情况下搜查被捕
+ 者身上或身边手机的内容。
+ 加利福尼亚州已经要求法官避免做出一刀切的规定，尤其是这一规定可能会颠覆人们一直以来的一种观念，
+ 即允许执法机关在逮捕犯罪嫌疑人时搜查他们的所有物。加州政府认为，让法官评估日新月异的新技术带来的
+ 影响有点困难。
+ 如果最高法院听从了加州的建议，那他们也太过小心了。科技带来的影响有目共睹，甚至显而易见，因此
+ 法官能够并应该为警察、律师和被告提供更新的指导。
+ 他们首先应该摒弃加州政府毫无说服力的观点，加州认为检查智能手机内容——包含着大量的数字信息—
+ —类似于搜查一个嫌疑人的钱包。法院已经规定警察在未授权的情况下检查被捕者的钱包并不违反第四修正
+ 案。但是搜查智能手机内容更像是私闯民宅。一部智能手机可能包含被捕者的阅读、经济和医疗情况的历史记
+ 录以及近期所有的通讯记录。同时，“云计算”的发展已经使得这种搜查变得更为简单。
+ 美国人应采取措施保护他们的数字隐私。但是将敏感信息记录在这些设备上已经日渐成为正常生活的要求。
+ 公民依然享有私密文档不外泄，并在宪法保护下不受不合理搜查的权利。
+ 情况通常就是如此，强调这一原则并不能缓解对禁令的挑战。在很多情况下，当局要获得搜查手机的授权
+ 不会太繁琐。他们仍然能够在严峻、紧急的情况下越过第四修正案，而且能够采取合理措施以确保在等待授权
+ 的时间里手机数据不会被删除或改变。不过，法院可能想给警方一些余地，让他们援引曾经被赋予更多自由的
+ 情形作为办案模板。但是，法官不应完全听从加州的意见。新的、颠覆性的技术有时需要对宪法赋予的保护权
+ 进行创新应用。法学教授奥林·科尔将 21 世纪数字信息的激增和平民化，与 20 世纪时确立汽车作为生活必需
+ 品进行了比较：法官们必须为私家车中的个人空间详细制定一些创新性的规则；而他们现在必须弄清楚第四修
+ 正案如何应用于数字信息。
+
+ Text 3
+ 一、文章题材结构分析
+ 本文选自 2014 年 7 月 3 日《自然》杂志上一篇题为“Science Joins Push to Screen Statistics in Papers”的文章。文章首段提出《科学》杂志将在同行评审中增加统计检查环节；第二三段指出该杂志已成立一个统计审核小组（SBoRE）以及促成该小组成立的因素；第四五段两位研究者对《科学》杂志这一做法予以肯定；最后一段肯定《科学》杂志做法的同时也指出其存在的缺点。
+二、试题解析
+-31.【答案】B
+【考点】推理判断
+ 【解析】根据题干直接定位到第一段。解题关键在于第二句 The policy follows similar efforts from other journals
+ （该政策效仿了其他杂志类似的做法），the policy 指第一句 The journalScience is adding an extra round of statistical
+checks to its peer-review process,（《科学》杂志把统计检查额外添加到它的同行评审过程中），由此可直接推
+ 断出正确答案为选项 B journals are strengthening their statistical checks (各大期刊正在加强统计数字检查)。选项 A
+ 中 simplify 与原文语意不符，所以选项 C、D 属于无中生有。
+-32.【答案】B
+ 【考点】词义句意
+ 【解析】根据题干定位回第二段第三句 Manuscript will be flagged up for additional scrutiny by the journal’s internal
+editors,（杂志内部编辑把需要额外审核的原稿打上标签）。本题运用代入法，把各选项代入句中替换，可知选
+ 项 B marked(标记)为正确答案。选项 A found(发现，找到)，选项 C revised（修改），选项 D stored(存储)。
+-33.【答案】D
+ 【考点】事实细节
+ 【解析】根据题干关键词 Giovanni Parmigiana，the establishment of the SBoRE 和 may 定位到第四段的最后一句
+ “…but hopefully through a larger group of publishing places that may want to model their approach after Science”。D
+ 选项中的 example 是 model 的同义替换，others journals 是原文中 a larger group of publishing places 的同义替换。
+ 故 D 选项为正确答案。
+ 文章中出现了 hopefully，表示作者积极的态度。选项 A 中的 threat，选项 B 中的 opposition 分别表达负向消极
+ 的态度，所以错误。选项 C increase Science’s circulation(增加《科学》杂志的发行量)，文章并未提到，属于无
+ 中生有。
+-34.【答案】C
+ 【考点】事实细节
+ 【解析】由题干关键词 David Vaux 和 Science，可定位到第六段最后一句。Vaux says that Science’s idea to pass some
+papers to statisticians “has some merit, but a weakness is that it relies on the board of reviewing editors to identify ‘the
+papers that need scrutiny’in the first place”. (《科学》杂志把论文推给统计员审核有一些优点，但缺点是它依赖于
+ 审稿编委会首先需要确定审查的文件。)选项 C（尚有进一步改善的空间）是对原文 Vaux 观点的同义表述，故
+ 为正确答案。
+ 选项 A 中 workload，选项 B 中 diminish the role of reviewers 和选项 D 中的 foreseeable future 没有提到，属于无
+ 中生有。
+-35.【答案】A
+ 【考点】主旨大意
+ 【解析】文章第一段由 Science 将增加 statistical checks 引出话题，接下来各段就此问题 McNutt, Giovanni
+ Parmigiana, John Ioannidis, David Vaux 提出各自的看法。文中 statistical，papers 反复提及，可知该词是文中核
+ 心词。选项 B 和选项 D 首先排除，偏离主题，statisticians 仅在文中提及，非重点讨论内容；选项 C 与文中主
+ 题相差较大，因此排除。
+
+ 三、全文翻译
+ 《科学》杂志主编玛西亚·麦克纳特今天宣布，该杂志将在同行评审流程中增加一个统计检查环节。考虑到一种普遍的忧虑，即数据分析的低级错误导致许多已发表的研究成果无法重现，这一政策效仿了其他杂志类似的做法。
+ “读者必须要对发表在本刊上的结论有信心”，麦克纳特在一篇社论中写道。与美国统计协会相配合，该杂志已任命七名专家成立一个统计审核编辑小组（SBoRE）。需要额外审核的原稿将被打上标签，这可以由杂志内部编辑、目前的编辑审核组或外部同行人员来进行。SBoRE 小组将寻找外部统计人员来审核这些原稿。当被问及是否有任何特定的文件推动了这一改变，麦克纳特说：“对统计和数据分析在科研中应用问题的广泛担忧和《科学》杂志全面增加发表的研究成果的可重现性，这两者促进了‘统计小组’的成立。”
+ 乔瓦尼·帕玛强尼，哈佛大学公共卫生学院的一名生物统计学家，也是 SBoRE 小组的成员之一。他说，他期望评审小组“重点扮演一个咨询建议的角色。”他同意加入该小组是因为他“发现成立 SBoRE 背后的远见是新颖独特的，并且极有可能产生持久的影响。这种影响不仅通过《科学》杂志出版本身来实现，而且更有希望通过一大群也许会效仿《科学》杂志做法的出版机构来实现。”
+ 约翰·埃尼迪斯，一位钻研研究方法论的内科医师，称这一政策是“非常受欢迎的一步”而且“期待已久”。“大多数杂志在统计审查方面比较薄弱，而这有损刊物的质量。我认为，对如今大多数科学论文来说，统计审查比专家评审更重要，”他如是说。但是，他指出生物医学杂志，如《内科医学年鉴》，《美国医学协会杂志》和《柳叶刀》都非常重视统计审查。
+ 专业科学家应该知道如何分析数据，但发表的研究成果中的统计误差却相当普遍，令人担忧，细胞生物学家大卫·沃克斯如是说。2012.，他写到：研究者应该提高他们自身的水平，而期刊也应该采取更为强硬的路线，“让内行的统计评审人员和能够验证流程的编辑们参与进来”。沃克斯说，《科学》杂志把一些论文交给统计人员的想法“有一定的优点，但缺点是它依赖于编辑审核小组首先确定‘需要审核的论文’”。
+
+ Text 4
+
+ 一、文章题材结构分析
+ 本文选自 2014 年 6 月 29 日《卫报》上一篇题为 As the Hacking Trail Proves, We Lack Moral Purpose in Public Life 的文章。文章前两段提出公共机构存在严重的诚信缺失这一现象，并进一步引出电话窃听丑闻事件；第三四段具体阐述了《世界新闻报》的电话窃听丑闻；第五段指出当今世界的“集体信条”；最后一段通过《世界新闻报》的做法揭露公共机构诚信缺失这一严重的社会现象。
+
+二、试题解析
+-36.【答案】A
+【考点】事实细节
+ 【解析】通过题干可以将此题锁定在前两段。第一段指出 Elisabeth 谈到了“在很多机构中都存在着令人沮丧的
+ 诚信缺失”。接下来第二句指出造成这种诚信缺失的原因是：大家普遍认同了社会中唯一的分类机制（sorting
+mechanism）应该是利益和市场。即诚信缺失是由社会的分类机制所导致的，这正是让 Elizabeth 感到烦心的事
+ 情。故正确答案为 A the consequences of the current sorting mechanism（目前这种分类机制的后果）。其中题干
+ 中的 upset 是原文中 unsettling 的同义替换，而 consequences 是 dearth of integrity 和 integrity had collapsed 的概括
+ 说明，这两者都属于社会机制导致的后果。
+ 第二段第二句话提到，道德追求缺失正在对公司造成伤害（was wounding companies），可能会使之误入歧途（lose
+its way）；而选项 B 中的 financial loss（经济损失）并未提及。同样，该段首句提到政府、媒体以及商业中道
+ 德丧失的问题越来越明显，这只是对客观事实的一个描述，无法就此推出政府在道德问题上管理无效，因此选
+ 项 C（governmental ineffectiveness on moral issues）属于过度推理。选项 D 是根据单词设置的干扰，原文提到的
+ 是 dearth of integrity，而非选项中的 misuse（滥用）。
+-37.【答案】B
+ 【考点】推理判断
+ 【解析】第三段第一句指出，Andy Coulson 因为参与手机黑客案件被裁定有罪，然而他的前任却被认定是无罪
+ 的。通过这一事件，作者得出的结论是（as hacking trial concludes）：由此造成的诚信缺失广泛问题依然存在（the
+wider issue of dearth of integrity still stands）,即仍然存在一些人没有被裁定有罪。接着文章指出了在新闻业中，
+ 已经有记者被认定非法侵入用户手机。而还有一些在等待审判（others await trial），由此可以推出，将会有更
+ 多的记者因为涉及手机黑客案件而被裁定有罪。故正确答案为选项 B。
+ 该段第三句话指出，Glenn Mulcaire 承认，这是一个行业规模的黑客。并指出该人是手机黑客案件中的一个关
+ 键人物（to be the point person for phone hacking），并未提及他对该案件的态度。故无法推出选项 A（Glenn Mulcaire
+may deny phone hocking as a crime）。同样第一句中提到，Andy Coulson 被裁定有罪（finding guilty），而他的
+ 前任却被认定无罪，其目的是为了说明诚信缺失依然存在（the wider issue of dearth of integrity still stands），而
+ 不是为了说明 Andy 应该被判无罪，故选项 C（Andy Coulson should be held innocent of this charge）过度推理。
+ 选项 D 的干扰比较大。但是这道题针对整个段落而设置的推理题，因为必须着眼与段落中心和文章的主题。选
+ 项 D 明显与主题相违背。
+-38.【答案】C
+ 【考点】观点例证
+ 【解析】根据题干中的 “defence” 可以回文定位到文章第四段最后一句话。该句指出 Ms. Brooks 辩护成功的关
+ 键在于她对这个事件一无所知（she knew nothing）。而作者在该段第一句话中指出，诚信缺失不仅体现在普遍
+ 存在的手机黑客这一事实上，更体现在一些审判案件所使用的条款上，其中最震惊的就是对 Ms. Brooks 的审判。
+ 可见，作者对该案的审判持否定态度，认为该审判是诚信缺失的一个体现。因此，认为她的辩护是不可信的。
+ 故正确答案为 C。
+ 选项 A 是对 Ms. Brooks 的个人评价，而作者对其个人的性格特点并没有具体的说明，属于无中生有选项。选项
+ B 属于形近词的干扰，文中提到的是“trial”（审理，审讯），而选项中是 trivial（琐碎的，细小的），跟原文意
+ 思毫不相关。选项 D 属于过度推理，无法推出她的辩护是阴谋的一个部分。
+-39.【答案】A
+ 【考点】推理判断
+ 【解析】通过题干中的“collective doctrine”可以直接定位到文中第五段第三行。该句指出“collective doctrine”主
+ 张社会的分类机制应该是利益。接下来对此概念进行了进一步的阐释，指出真正起作用的是那些表示利益的词
+ “efficiency，flexibility，shareholder value，business-friendly，wealth generation…”，而表示公平、正义的词（justice，
+fairness，tolerance…）则被置于边缘。可见，这种集体信条（collective doctrine）只关注利益，而忽略了公平与
+ 正义，这显然是一种扭曲的价值观。故 A 选项正确。
+ 该段提到了 wealth generation（财富创造），而非选项 B 中的 wealth distribution（财富分配），并且 unfair 也无
+ 从体现。最后一句指出与公平、正义相关的词汇被搁置于边缘（degraded to the margin），因此被边缘化的并非
+ 选项 C 中的 lifestyle，这属于偷换概念。选项 D 的感情色彩与原文相反，文中指出 collective doctrine 看重的是
+ 利益，而非诚信。
+-40.【答案】C
+ 【考点】推理判断
+ 【解析】作者在最后一段前两句话指出，新闻报道的目的不是为了促进读者的理解，也不是为了追求公平或者
+ 违背人类共有的人性，而是通过追求发行量的影响率来破坏人们的生活。即文章从一开始指出的一个问题，为
+ 了追求利益而造成了诚信的丧失。从“ruin”一词可以看出，作者对新闻记者的这一行为持否定的态度。并且通
+ 过 Ms. Brooks 女士的行为加以佐证。作者通过正话反说的方式，突出新闻报道过程中诚信的重要性。故正确答
+ 案为选项 C moral awareness matters in editing a newspaper（在新闻报道中，道德意识很重要），其中 moral
+awareness 和 integrity 是同义互换。
+ 选项 A 中的 the quality of writing（新闻写作的质量）在文中并未提及。最后一段作者指出新闻报道中存在的问
+ 题是道德丧失，而非该行业的规章制度，故选项 D（Journalists need stricter industrial regulations）不正确。选项
+ B 以偏概全，common humanity 只是该段第一句提到的一个方面，不能概括整个段落。
+
+ 三、全文翻译
+ 两年前，鲁珀特·默多克的女儿伊丽莎白谈到“我们许多公共机构都严重缺乏诚信，让人感到不安。”诚
+ 信已经坍塌，她说，因为整个社会都认可一点，社会唯一的“排序机制”应该是利润和市场。但是，“是我们
+ 自己，是人类创造了我们想要的社会，而不是利润。”
+ 为了更清楚地阐述自己的观点，她接着说：“越来越明显的一点是，政府、媒体或企业缺乏目标和道德语
+ 言，这可能会成为威胁资本主义和自由的最大毒瘤之一。”同样道德目标的缺失正危害着类似新闻国际这样的
+ 公司，她认为，使其极有可能像其曾经一样迷失方向，陷入普遍的非法电话窃听丑闻。
+ 随着窃听丑闻逐渐落下帷幕——《世界新闻报》前编辑安迪·库尔森因为阴谋窃听电话被判有罪，而他的
+ 前任丽贝卡·布鲁克斯受到同样的指控却被判无罪——更大范围的诚信缺乏问题依然存在，据说新闻记者们窃
+ 听了多达 5500 人的电话。这是大规模的窃听事件，格伦·穆凯尔坦言，他在 2001 年被《世界新闻报》雇佣为
+ 窃听电话骨干。其他人仍在等待审判，这个漫长的故事尚未结束。
+ 道德目标缺失从不同角度理理清了如此大规模的电话窃听事实，而且也理清了审判基于的条款。令人惊讶
+ 的真相之一是丽贝卡·布鲁克斯居然对她编辑部发生的事情知之甚少，她几乎没想过询问一下，也从没对新闻
+ 的来源做任何了解。她成功脱罪的核心在于她一无所知。
+ 在当今世界，拿着高薪的总裁管理着公司，却不必为公司里发生的事情负责，这一点已经司空见惯。也许
+ 是我们大惊小怪。对一代人来说，集体的信条是把利润当作社会排序机制。相关的关键词是效率、弹性、股东
+ 利益、利于商业、财富创造、销售、影响力以及新闻发行量。降级为边缘词的是公平、包容、均衡以及问责制。
+ 《世界新闻报》的编辑目的不是促进读者的理解，也不是要说几句公道话，或是想揭露普遍的人性。它只
+ 不过是通过践踏生命以追求发行量和影响力。布鲁克斯女士可能有或没有怀疑过，但他没有过问，也没给出任
+ 何指导——可追踪、有记录的答案都没有。
+
+ Part B
+ 一、文章题材结构分析
+
+二、试题解析
+-41.【答案】[C]
+ 【考点】上下文语义逻辑+关键词复现
+ 【解析】从首段疑问句可以看出文章主题围绕如何阅读来进行展开。41 题空在段中间，需要看空处的前一句和
+ 后一句，前一句说的是要去理解单词的含义，并关注句法，而后一句说开始推测文章语境。所以可以推测出 题空处应该说的是单词语义和语境之间的联系，关键词就是 words 和 context。纵览选项，只有 C 项符合语境和
+ 关键词要求，属同词复现，上下文语义逻辑关联。故正确答案选 C。
+-42.【答案】[E]
+ 【考点】上下文衔接+段落一致性+关键词复现
+ 【解析】该题空在段末，需要看空处的前一句和下一段首句，前一句说的是我们通过作者给出的一些具体线索
+ 来理解含义，而下一段首句说通过这种方式表达，每个人的理解都会有所不同。所以可以推测出 42 空处内容
+ 要有关根据作者给的线索推测信息，而且可能会涉及不同的人有不同的理解，关键词是 infer, the writer 和 each
+reader。纵览选项，只有 E 项符合语境且出现 inferences, the author, personal，属同义词复现。故正确答案选 E。
+-43.【答案】[G]
+ 【考点】语义逻辑关联+指代关联
+ 【解析】空格后出现明显的指代线索词 such background material，所以空格内必定要出现相关的信息，浏览选
+ 项，G 选项中 textual and contextual material，background 与空后线索实现代词指代复现。而且 G 选项中的 rather,
+与空前 what is in question is not...实现语义逻辑关联。确定此选项为正确答案。
+-44.【答案】[B]
+ 【考点】上下文语义逻辑+关键词复现
+ 【解析】空前的线索词为 who we are，空后的线索为转折逻辑关系，意思是“但这并不会使得理解仅仅有关联
+ 或者毫无意义”，关键词为 interpretation，relative，pointless，空格中需要出现与此相关联的词汇，浏览后面选
+ 项，B 选项中出现原词 interpretations，而且此选项中的 gender, ethnicity, age, social class 与空前线索词 who we
+are 相对应。确定正确答案为此选项。
+-45.【答案】[A]
+ 【考点】上下文语义逻辑+指代关联+关键词复现
+ 【解析】空格在最后一段的中间，线索需要从空格前后寻找，空前为概括的句子，关键词为 particular interest，
+ 空后出现代词指代的线索，such dimensions of reading suggest，结合关键词可以得知空格所填的部分内容需要涉
+ 及到“阅读的兴趣以及阅读维度”，浏览选项，A 选项提到的诸多问题正是有关读书的兴趣以及阅读的维度。
+ 因此确定 A 为正确选项。
+ 三、全文翻译
+ 你是如何进行阅读的呢？显然你是通过辨别每个单词的意思以及理清它们之间的联系，并运用你所掌握的英语语法知识进行理解。(41) [C]如果你不熟悉单词或习语，你会通过上下文呈现的线索猜测它们的意思。如果假设它们与下文相关，你会在心里记下某些语篇实体以及它们之间可能存在的联系。你开始推断文本的上下文，比如通过确定所涉及的言语对象有哪些：谁是作者，谁是目标受众，以及时间和地点。
+ 此处的阅读方式毫无疑问指的是理解方式。但这些方式表明，理解不仅仅是被动的吸收，而且还包括主动推理和解决问题。你会推断出哪些信息是作者想通过具体的证据和线索来引导你领会的。(42) [E]你会做出进一步的推断，比如文本对你的重要程度，或文本的有效性如何——这些推断是形成个人反应的基础，而对此，作者产生的影响必然会少很多。
+ 从这个角度思考，每个读者的理解将不尽相同。问题是这里讨论的理解不是复现文本无法检验的准确性的一种绝对、固定或“真实的”的意义，也不是文本与世界之间一种永恒的联系。(43) [G] 相反，我们赋予文本以意义，这是基于我们可能称之为文本本身和出生背景之间的相互作用：即我们从文本的形式结构（尤其是其语言结构）中获得的各种组织和模式与我们理解文本时带入的各种背景、社会知识、信仰和态度之间的相互作用。
+ 这种背景信息不可避免地反映了我们自身的特征。(44) [B] 诸如阅读地点和时段、性别、种族、年龄和社会阶层等因素将会促使我们做出某种解读，但同时也会隐藏或屏蔽掉其他的解读方式。然而，这并不会使解读具有局限性或毫无意义。正是因为处于不同的历史时期、地点和社会经历的读者，会对同一页上的文字做出不同但有重合的解读——包括人类关注的基本问题的文本——有关文本的辩论才能够在信仰和价值的社会讨论中发挥重要作用。
+ 我们如何阅读一个特定文本也在一定程度上取决于我们的阅读兴趣。(45) [A] 我们是在按某门特定课程的要求来研读文本，并做出反应吗？或仅仅为了消遣而阅读？或快速浏览以获取信息？在火车上或床上的阅读方式很可能与在研究室阅读大不相同。这些阅读方式——正如随后在书中介绍的其他方式一样，表明我们是带着固有的（通常是不自知的）模式开始任何阅读行为。这并不一定意味着一种阅读行为比另一种更充实、更先进、或更有价值。理想情况下，不同的阅读行为可以起到相互启发、相互参考、相互平衡的作用。他们共同构成了你总体的读写能力或者你与周围文本环境的关系。
+ 多余选项：
+ [D] 实际上，你试图重构任何特定句子、意象或者引用可能会表达的意思或效果。这些可能是作者有意而为之。
+ [F] 在戏剧、小说和叙事诗中，角色按照作者的设定来说话，不一定是作者真实的想法。
+
+ Part C
+  一、文章题材结构分析
+
+二、试题解析
+-46.This movement, driven by powerful and diverse motivations, built a nation out of a wilderness and, by its nature,
+shaped the character and destiny of an uncharted continent.
+ 【考点】过去分词，插入语，并列结构
+ 【解析】句子主干为 This movement built a nation and shaped the character and destiny of an continent，and 并列两
+ 个动词 built 和 shaped 作句子谓语。过去分词短语 driven by powerful and diverse motivations 是插入语，作后置定
+ 语修饰 movement，相当于定语从句（this movement which was）driven by powerful and diverse motivations，结合
+ 前文可知 this movement 指代前文的“a tide of emigration”。
+ 【词汇】diverse：各式各样的，不同的；motivation：动力，诱因，是动词 motivate 的名词形式；wilderness：
+ 荒野，远离城镇的地区；by its nature：从本质上；uncharted：未知的，陌生的，不熟悉的
+ 【参考译文】在多种强大的动机驱动下，这次（移民）运动在一片荒野上建立了一个国家，并且就本质而言，塑造
+ 了一个未知大陆的性格和命运。
+-47.The United States is the product of two principal forces—the immigration of European peoples with their varied
+ideas, customs, and national characteristics and the impact of a new country which modified these traits.
+ 【考点】并列结构，定语从句，介词短语
+ 【解析】本句主干为 The United States is the product of two principal forces，是简单的主系表结构。破折号后为两
+ 个并列的名词短语，解释说明 two principal forces。第一个名词短语为 the immigration…characteristics，中心词
+ 为 immigration，介词短语 of European peoples 作后置定语修饰 immigration，介词短语 with their varied ideas,
+customs, and national characteristics 作 peoples 的后置定语。第二个名词短语为 the impact of a new country which
+modified these traits，中心词为 impact，介词短语 of a new country 对其进行修饰，which 引导的定语从句修饰
+country。
+ 【词汇】principal：首要的，最重要的，主要的；immigration：移居，移民；peoples：民族；impact：影响，作
+ 用；modify：改变；trait：特征，特点
+ 【参考译文】美国是两股力量相互作用的产物：一是欧洲民族带来的不同思想、风俗和民族特征，二是这个新国家
+ 在改变这些特征之后造成的影响。
+-48.But the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one
+another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes.
+ 【考点】并列结构
+ 【解析】本句为简单句。该句主语较长，为并列的三个名词短语，形成了“A, B, and C”的结构。第一个名词
+ 短语的核心名词为 force，介词短语 of geographic conditions peculiar to America 对其进行修饰，其中 peculiar to
+ America 作后置定语修饰 conditions；第二个名词短语的核心名词为 interplay，介词短语 of the varied national
+groups upon one another 作后置定语对其进行修饰；第三个名词短语的核心名词为 the sheer difficulty，of 引导的
+ 介词短语作后置定语，句子的谓语为 caused，宾语为 changes。
+ 【词汇】geographic：地理学的，地理的；peculiar to：是……特有的，独有的；interplay：相互作用，相互影响；
+sheer：纯粹的，完全的；maintain：维护，保持；raw：未经加工的，天然的，原始的
+ 【参考译文】但是，美国特有的地理条件、不同种族间的相互影响、以及在这片蛮荒的新大陆上维持旧秩序的万分
+ 艰难，带来了巨大的变化。
+-49.The first shiploads of immigrants bound for the territory which is now the United States crossed the Atlantic
+more than a hundred years after the 15th- and -16th-century explorations of North American.
+ 【考点】定语从句
+ 【解析】句子主干为 The first shiploads of immigrants crossed the Atlantic。bound for the territory 是形容词短语作
+ the first shiploads of immigrants 的后置定语，which 引导的定语从句作 territory 的后置定语。more than a hundred
+years …of North American 作句子状语。
+ 【词汇】shipload：船舶装载量；immigrant：移民；bound for：开往，驶往，朝向；territory：领土，领地；the
+ Atlantic：大西洋；exploration：探测，勘察
+ 【参考译文】十五、十六世纪的探索发现了北美洲，又过了一百多年，第一艘满载移民的航船跨过大西洋驶向这片
+ 土地，即现在的美国。
+-50.The virgin forest with its richness and variety of trees was a real treasure-house which extended from Maine all
+the way down to Georgia.
+ 【考点】定语从句
+ 【解析】句子主干为 The virgin forest was a real treasure-house。with its richness and variety of trees 是介词短语作
+ 后置定语，翻译时可前置于被修饰名词 the virgin forest 前，which 引导的定语从句修饰 a real treasure-house，翻
+ 译时可采用后置法，独立成句。
+ 【词汇】virgin forest 原始森林；treasure-house 宝库；extend 延伸，延展；Maine 和 Georgia 为专有名词，分别
+ 指美国的缅因州和乔治亚州，缅因州位于美国东北角，乔治亚州位于美国东南部，因此这里 from Maine all the
+way down to Georgia 可以理解为“一路向南延伸至乔治亚州”。
+ 【参考译文】拥有丰富多样树木的原始深林是真正的宝库，它从缅因州向南一直延伸至乔治亚州。
+ 三、全文翻译
+ 在十七世纪到十八世纪初的一百年间，一股移民浪潮从欧洲向美洲席卷而来，这也是历史上一次人类大迁徙。（46.在多种强大的动机驱动下，这次（移民）运动在一片荒野上建立了一个国家，并且就本质而言，塑造了一个未知大陆的性格和命运。
+ （47.美国是两股力量相互作用的产物：一是欧洲民族带来的不同思想、风俗和民族特征，二是这个新国家在改变这些特征之后造成的影响。不可避免地，殖民时期的美国是欧洲的一个缩影。不断地有成群的英国人，法国人，德国人，苏格兰人，爱尔兰人，荷兰人，瑞典人，和许多其他国家的人穿越大西洋试图将他们的习惯和传统移植到新的世界。（48.但是，美国特有的地理条件、不同种族间的相互影响、以及在这片蛮荒的新大陆上维持旧秩序的万分艰难，带来了巨大的变化。这些变化是渐进的，最初几乎难以察觉。但其结果却是一个新的社会形态，虽然它在许多方面与欧洲社会相似，但其特质却完全属于美洲。
+ （49.十五、十六世纪的探索发现了北美洲，又过了一百多年，第一艘满载移民的航船跨过大西洋驶向这片土地，即现在的美国。同时，蓬勃发展的西班牙殖民地已在墨西哥，西印度群岛和南美洲等地相继发展起来。这些人蜷缩在狭小拥挤的船只来到了北美。在六到十二周的航程中，他们在极少的食物供给的条件下生存了下来。许多船只在暴风雨中迷失，许多旅客因疾病而丧失生命，很少有幼童在旅途中幸存下来。暴风雨有时使船只远远偏离了航线，而且等到风暴平息又带来难熬的漫长的时间延迟。
+ 看到美洲陆地，对这些饱受患难的旅客来说是一种无法表达的宽慰。一位亲历者说，“距离陆地还有几十海里，但空气却甜美的像一个百花盛开的花园一样。殖民者们第一眼看到的新土地，到处是茂密的树林。（50.拥有丰富多样树木的原始深林是真正的宝库，它从缅因州向南一直延伸至乔治亚州。这里蕴藏着丰富的燃料和木材。这里有建造房屋、家具和船只的原材料，以及大量的钾碱、燃料和松香。
+
+ Section III
+ Part A
+ 一、审题谋篇
+ 今年考查的应用文类型仍然为书信，书信的主体为推荐信。推荐信对于考生来说并不陌生，在 2011 年就已经考过“为好友推荐一部电影”。今年变成了推荐一本书。写信的背景是写信人要举行一次俱乐部读书会，收信人为该俱乐部的成员团体，所以称呼可以用 Dear friends。
+ 书信的布局上仍然采取三段式。第一段开门见山，表明写作目的，并交代所推荐的书的名称即可。第二段具体介绍该书的特点，以及推荐该书的理由。第三段委婉表达期望俱乐部成员能够喜欢该书。从语域角度来说，该信的收信人是俱乐部成员，所以语言要礼貌、委婉，避免过于强势，勉强他人接受自己的推荐。
+ 二、参考范文
+ Dear Friends,
+I am writing to recommend to you a wonderful book, The Seventh Key, which is not only conductive to your study but also beneficial to your life.
+The book tells a story that two nephews of an old man try hard to find the seventh key first in order to win the legacy. It discloses the “money-first” attitude and heartlessness of people and tutors people about the life philosophy of “No pains, no gains”. What’s more, the beautiful language in this original English book may contribute to your study of English in listening,speaking, reading and writing.
+I hope you would enjoy the book and share your opinion on the next reading session.
+                            Yours sincerely,
+                            Li Ming
+三、模板例句
+ 清晰的三段式层次，合情合理，语言要委婉，态度要真诚。
+ 第一段：明确写作目的，简要说明所推荐事物
+ I am writing to recommend to you …
+ … is not only conductive to …, but also beneficial to …
+ 第三段：表达期望
+ I hope you would …
+
+ Part B
+ 一、审题谋篇
+ 本题属于图画作文中的现象阐释题型。一种普遍的现象通过漫画展示出来，而且在漫画的下方有明确的文字说明“手机时代的聚会”。显然这幅图具有讽刺意味，揭露了手机在人际交往中带来的弊端。该主题与 2009 年的网络的“近”与“远”不谋而合。虽然 2009 年的文字说明网络是利弊并存，但其重心明显在其弊端上。所以该图对于各位考生来说并不困难。
+ 图画作文仍然采取三段式。第一段，简要描述图片的内容。第二段点明主题——手机在当今的人际交往中产生了不良影响，并就该主题进行阐述。第三段，可以就图中反映的不良现象给出建议，倡议人们合理使用手机，回归正常人际交往。
+ 二、参考范文
+ Unfolded in the elaborately painted cartoon is a thought-provoking scene: four youngsters are sitting together to have their gathering feast. However, much of their attention has been attached to their mobile cell phones, totally forgetting what they are gathering for. Just as is put in the caption of this cartoon, it is typically a “Dinner party in mobile era.”
+ This picture is naturally associated with a wide-spreading phenomenon in contemporary society — — too much addiction to the mobile phones. Indeed, we have all stepped into an era of getting and staying in touch with others through telecommunication. Each of us seems close to another under this circumstance, but we have to look at the side-effect of the technology: the high-tech electronic products also cut off the face-to-face communication. To be specific, in our daily life, it’s not uncommon that on buses or in the subways, or walking on the road, we are all playing with phones or pads for recreation, such as reading novels, watching videos or movies, surfing the Internet, and so on,even though we travel with our friends, parents or loved one.
+ Evidently, we should take a rational attitude towards this issue, but how? The media should promote the awareness of healthy lifestyle among the public, especially the young. Meanwhile, social activities, either in communities or on campuses, should be launched so that people can get back to the real world.
+三、模板例句
+ 第一段：简要描图
+ Unfolded in the elaborately painted cartoon is …
+ Just as is put in the caption of this cartoon, …
+ 第二段：点明主题，举例论证
+ This picture is naturally associated with a wide-spreading phenomenon in contemporary society—— …
+ To be specific, in our daily life, it’s not uncommon that …
+ 第三段：总结评论，提出建议
+ Evidently, we should take a rational attitude towards this issue, but how?
+ The media should promote the awareness of …
+ Meanwhile, social activities, either in communities or on campuses,should be launched so that people can …
+ 

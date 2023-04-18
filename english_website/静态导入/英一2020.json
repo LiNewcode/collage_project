@@ -1,0 +1,2806 @@
+{
+	"Result": "True",
+	"errMsg": "",
+	"UserGroupId": "17025447",
+	"QuanZhanScore": "00.00",
+	"PaperId": "226727",
+	"TimeLimit": "180",
+	"IsBaoCun": "",
+	"BaoGaoFenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanBaoGaoFenXiang/PointShare.aspx",
+	"YiZuoTiMuShu": "",
+	"TotalScore": "100.00",
+	"ShengYuShiJian": "",
+	"Questions": [{
+		"SbjTypeName": "完形填空",
+		"SbjType": "20",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "34",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "1",
+		"SbjId": "1936946",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "SectionⅠ Use of English"
+		}, {
+			"QType": "1",
+			"QContent": "Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on ANSWER SHEET. (10 points)"
+		}, {
+			"QType": "1",
+			"QContent": "Even if families don’t sit down to eat together as frequently as before, millions of Britons will nonetheless have got a share this weekend of one of that nation’s great traditions: the Sunday roast. _1_ a cold winter’s day, few culinary pleasures can _2_ it. Yet as we report now, the food police are determined that this _3_ should be rendered yet another guilty pleasure _4_ to damage our health."
+		}, {
+			"QType": "1",
+			"QContent": "The Food Standards Authority (FSA) has _5_ a public warning about the risks of a compound called acrylamide that forms in some foods cooked _6_ high temperatures. This means that people should _7_ crisping their roast potatoes, spurn thin-crust pizzas and only    _8_ toast their bread. But where is the evidence to support such alarmist advice? _9_ studies have shown that acrylamide can cause neurological damage in mice, there is no _10_ evidence that it causes cancer in humans."
+		}, {
+			"QType": "1",
+			"QContent": "Scientists say the compound is “ _11_ to cause cancer” but have no hard scientific proof. _12_ the precautionary principle, it could be argued that it is _13_ to follow the FSA advice. _14_ it was rumoured that smoking caused cancer for years before the evidence was found to prove a _15_ ."
+		}, {
+			"QType": "1",
+			"QContent": "Doubtless a piece of boiled beef can always be _16_ up on Sunday alongside some steamed vegetables, without the Yorkshire pudding and no wine. But would life be worth living? _17_ , the FSA says it is not telling people to cut out roast foods _18_ , but to reduce their lifetime intake. However, their _19_ risks coming across as being pushy and overprotective. Constant health scares just _20_ with no one listening."
+		}],
+		"XiaoTiCount": "20",
+		"SbjSubContentList": [{
+			"SbjId": "1936947",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]in"
+			}, {
+				"Label": "B",
+				"Text": "[B]towards"
+			}, {
+				"Label": "C",
+				"Text": "[C]on"
+			}, {
+				"Label": "D",
+				"Text": "[D]till"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】C             【考点】介词用法     "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题是一道简单的介词搭配题。文中a cold winter’s day（一个寒冷的冬日），表达的是具体的某一天，应该用介词on。其他选项词都不用于修饰时间。故本题答案为A。"
+			}]
+		}, {
+			"SbjId": "1936948",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]match"
+			}, {
+				"Label": "B",
+				"Text": "[B]express"
+			}, {
+				"Label": "C",
+				"Text": "[C]satisfy"
+			}, {
+				"Label": "D",
+				"Text": "[D]influence"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】A         【考点】句意判断            "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题是一道句意判断和词意辨析题。few culinary pleasure can match it，这里的it指的是上句中的Sunday roast，整句表达的意思是没有什么烹饪乐趣能与之相比。其他选项均不符合文意。故本题选B。"
+			}]
+		}, {
+			"SbjId": "1936949",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]patience"
+			}, {
+				"Label": "B",
+				"Text": "[B]enjoyment"
+			}, {
+				"Label": "C",
+				"Text": "[C]surprise"
+			}, {
+				"Label": "D",
+				"Text": "[D]concern"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】B               【考点】宾语从句+名词辨析          "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据前后句意可以判断出本题指代的是这种烹饪给人的感受，通过上下句重复出现的pleasure一词，发现B选项enjoyment与之意思最为接近，都是表达的是快乐情绪。故B为正确答案。"
+			}]
+		}, {
+			"SbjId": "1936950",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]intensified"
+			}, {
+				"Label": "B",
+				"Text": "[B]privileged"
+			}, {
+				"Label": "C",
+				"Text": "[C]compelled"
+			}, {
+				"Label": "D",
+				"Text": "[D]guaranteed"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】D              【考点】不定式+形容词辨析                  "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题考查句意和不定式用法。本句意思是食品安全部门决定把这种饮食认定为一定会对我们的健康产生危害，guaranteed表示确信，一定会发生。其他选项词意均不符合句意。故本题的正确答案是B。"
+			}]
+		}, {
+			"SbjId": "1936951",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]issued"
+			}, {
+				"Label": "B",
+				"Text": "[B]received"
+			}, {
+				"Label": "C",
+				"Text": "[C]ignored"
+			}, {
+				"Label": "D",
+				"Text": "[D]canceled"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】A                【考点】上下文语义衔接+动词辨析        "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】该句的意思是FSA对这种物质的危害向公众发布了警告。故正确答案为C。"
+			}]
+		}, {
+			"SbjId": "1936952",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "6"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]under"
+			}, {
+				"Label": "B",
+				"Text": "[B]at"
+			}, {
+				"Label": "C",
+				"Text": "[C]for"
+			}, {
+				"Label": "D",
+				"Text": "[D]by"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】B                【考点】句间逻辑关系+固定结构          "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题依然考查的是介词用法和搭配。该句意思是这种物质形成于一些用高温烹饪的食物中。At high temperatures表示以很高的温度，类似的搭配还有at high speed，at high rate等。所以本题的正确答案为B。"
+			}]
+		}, {
+			"SbjId": "1936953",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "7"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]forget"
+			}, {
+				"Label": "B",
+				"Text": "[B]regret"
+			}, {
+				"Label": "C",
+				"Text": "[C]finish"
+			}, {
+				"Label": "D",
+				"Text": "[D]avoid"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】D                【考点】上下文语义衔接            "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题考查上下文分析。上句表达了这种有害物质存在于高温食物中，所以本句说这就意味着人们应该避免去吃那些烤制的食物，比如土豆，披萨等。故D为正确答案。"
+			}]
+		}, {
+			"SbjId": "1936954",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "8"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]partially"
+			}, {
+				"Label": "B",
+				"Text": "[B]regularly"
+			}, {
+				"Label": "C",
+				"Text": "[C]easily"
+			}, {
+				"Label": "D",
+				"Text": "[D]initially"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】A                 【考点】句子成分+副词辨析           "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】分析上句可知高温烤制的食物会产生对健康有害的物质，所以只能对面包进行一定程度的烤制，这样才能避免健康危害。故本题选A。"
+			}]
+		}, {
+			"SbjId": "1936955",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "9"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]unless"
+			}, {
+				"Label": "B",
+				"Text": "[B]since"
+			}, {
+				"Label": "C",
+				"Text": "[C]if"
+			}, {
+				"Label": "D",
+				"Text": "[D]while"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】D                  【考点】上下文语义衔接+连词辨析       "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据句意分析，可以看出前后句的逻辑关系为转折，意思为尽管研究显示这种物质能够对老鼠造成神经损伤，但是并没有证据证明它会在人类身上产生癌症。故本题的正确选项是D。"
+			}]
+		}, {
+			"SbjId": "1936956",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "10"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]secondary"
+			}, {
+				"Label": "B",
+				"Text": "[B]external"
+			}, {
+				"Label": "C",
+				"Text": "[C]conclusive"
+			}, {
+				"Label": "D",
+				"Text": "[D]negative"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】C                  【考点】上下文语义衔接+形容词辨析        "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题考查词意辨析。C项conclusive是conclude（动词）和conclusion（名词）的形容词形式，表示确定的，决定性的。根据上一题，本句的意思并没有确凿的证据证明这种物质会致癌。故本题的正确答案是C。"
+			}]
+		}, {
+			"SbjId": "1936957",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "11"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]insufficient"
+			}, {
+				"Label": "B",
+				"Text": "[B]bound"
+			}, {
+				"Label": "C",
+				"Text": "[C]likely"
+			}, {
+				"Label": "D",
+				"Text": "[D]slow"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】C                   【考点】词意辨析         "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】 根据连词but可以判断出本句为转折关系，句意为科学家说这种物质可能会致癌，但是没有实质的科学证据。只有C选项意思表达准确。"
+			}]
+		}, {
+			"SbjId": "1936958",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "12"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]onthebasisof"
+			}, {
+				"Label": "B",
+				"Text": "[B]atthecostof"
+			}, {
+				"Label": "C",
+				"Text": "[C]inadditionto"
+			}, {
+				"Label": "D",
+				"Text": "[D]incontrast"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】A                 【考点】上下文语义衔接+固定搭配        "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题考查短语搭配和逻辑推断。该句中的the precautionary principle指的是上一句中科学家的观点，所以判断句意为在此基础上，A项on the basis of符合文意。"
+			}]
+		}, {
+			"SbjId": "1936959",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "13"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]interesting"
+			}, {
+				"Label": "B",
+				"Text": "[B]advisable"
+			}, {
+				"Label": "C",
+				"Text": "[C]urgent"
+			}, {
+				"Label": "D",
+				"Text": "[D]fortunate"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】B                 【考点】上下文语义衔接+形容词辨析         "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本句考查对上下文的理解，句中FSA advice指的是前文提到不要吃高温烘烤的食物，在根据上句中的科学论断，所以可以推断遵守这种建议是明智的，只有B选项符合句意。"
+			}]
+		}, {
+			"SbjId": "1936960",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "14"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]asusual"
+			}, {
+				"Label": "B",
+				"Text": "[B]inparticular"
+			}, {
+				"Label": "C",
+				"Text": "[C]bydefinition"
+			}, {
+				"Label": "D",
+				"Text": "[D]afterall"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】D                 【考点】上下文逻辑衔接+介词短语         "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题考查的是逻辑推断。作者试图用抽烟的例子解释上文的内容，虽然证据不足，也应该听从建议。本句句意为毕竟抽烟致癌在被证明在之前也是相似的情况（从传言到被证实）。D项after all符合逻辑。"
+			}]
+		}, {
+			"SbjId": "1936961",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "15"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]resemblance"
+			}, {
+				"Label": "B",
+				"Text": "[B]combination"
+			}, {
+				"Label": "C",
+				"Text": "[C]connection"
+			}, {
+				"Label": "D",
+				"Text": "[D]pattern"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】C                  【考点】上下文衔接+名词辨析          "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题考查词意的辨析。该句句意为抽烟致癌的说法过了很多年，它们之间有直接关系的证据才被发现。故正确答案为B选项。"
+			}]
+		}, {
+			"SbjId": "1936962",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "16"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]made"
+			}, {
+				"Label": "B",
+				"Text": "[B]served"
+			}, {
+				"Label": "C",
+				"Text": "[C]saved"
+			}, {
+				"Label": "D",
+				"Text": "[D]used"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】B                  【考点】被动语态+动词搭配        "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本句中出现了几种不同的食物，根据句意可以判断出它们可以在周日替代烤肉被端上餐桌，故B为正确选项。"
+			}]
+		}, {
+			"SbjId": "1936963",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "17"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]tobefair"
+			}, {
+				"Label": "B",
+				"Text": "[B]forinstance"
+			}, {
+				"Label": "C",
+				"Text": "[C]tobebrief"
+			}, {
+				"Label": "D",
+				"Text": "[D]ingeneral"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】A                   【考点】上下文逻辑衔接+固定短语         "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据but判断前后句为转折关系，本句句意为FSA说他们并不是告诉人们停止吃烤制的食物，A选项to be fair最符合逻辑关系。"
+			}]
+		}, {
+			"SbjId": "1936964",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "18"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]reluctantly"
+			}, {
+				"Label": "B",
+				"Text": "[B]entirely"
+			}, {
+				"Label": "C",
+				"Text": "[C]gradually"
+			}, {
+				"Label": "D",
+				"Text": "[D]carefully"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】B                  【考点】副词辨析          "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据前后句，可以判断本题与reduce相对，意思为并不是完全不吃烤制食物，而是减少整体摄入量。也就是B选项。"
+			}]
+		}, {
+			"SbjId": "1936965",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "19"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]promise"
+			}, {
+				"Label": "B",
+				"Text": "[B]experience"
+			}, {
+				"Label": "C",
+				"Text": "[C]campaign"
+			}, {
+				"Label": "D",
+				"Text": "[D]competition"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】C                  【考点】上下文语义衔接+词意辨析          "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据上下文判断出本题指代的是前面提及的食品安全部门和科学家发起的行动，也就是警示人们少吃烘烤食物，故答案为C."
+			}]
+		}, {
+			"SbjId": "1936966",
+			"SbjType": "1",
+			"Score": "0",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "34",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"smallXuHao": "20"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A]followup"
+			}, {
+				"Label": "B",
+				"Text": "[B]pickup"
+			}, {
+				"Label": "C",
+				"Text": "[C]openup"
+			}, {
+				"Label": "D",
+				"Text": "[D]endup"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "【答案】D                  【考点】上下文语义衔接+动词搭配           "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】在本文中，constant health scare表示的是现象，no one listening是事情的结果，根据逻辑关系，本题的正确答案为D,频繁的健康恐慌的最终结果就是没有人再认真对待。"
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "30",
+		"QuanZhanRightRate": "3.33",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "2",
+		"SbjId": "1936968",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Section II Reading Comprehension"
+		}, {
+			"QType": "1",
+			"QContent": "Part A"
+		}, {
+			"QType": "1",
+			"QContent": "Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Read the following four texts. Answer the questions below each text by choosing A, B, C or D. Mark your answers on ANSWER SHEET. (40 points)"
+		}, {
+			"QType": "1",
+			"QContent": "Text 1"
+		}, {
+			"QType": "1",
+			"QContent": "A group of Labour MPs, among them Yvette Cooper, are bringing in the new year with a call to institute a UK “town of culture” award. The proposal is that it should sit alongside the existing city of culture title, which was held by Hull in 2017, and has been awarded to Coventry for 2021. Cooper and her colleagues argue that the success of the crown for Hull, where it brought in £220m of investment and an avalanche of arts, ought not to be confined to cities. Britain’s towns, it is true, are not prevented from applying, but they generally lack the resources to put together a bid to beat their bigger competitions. A town of culture award could, it is argued, become an annual event, attracting funding and creating jobs."
+		}, {
+			"QType": "1",
+			"QContent": "Some might see the proposal as a booby prize for the fact that Britain is no longer be able to apply for the much more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008. A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world: after town of culture, who knows what will follow - village of culture? Suburb of culture? Hamlet of culture?"
+		}, {
+			"QType": "1",
+			"QContent": "It is also wise to recall that such titles are not a cure-all. A badly run “year of culture” washes in and out of a place like the tide, bringing prominence for a spell but leaving no lasting benefits to the community. The really successful holders of such titles are those that do a great deal more than fill hotel bedrooms and bring in high-profile arts events and good press for a year. They transform the aspirations of the people who live there; they nudge the self-image of the city into a bolder and more optimistic light. It is hard to get right, and requires a remarkable degree of vision, as well as cooperation between city authorities, the private sector, community groups and cultural organizations. But it can be done: Glasgow’s year as European capital of culture can certainly be seen as one of complex series of factors that have turned the city into the powerhouse of art, music and theatre that it remains today."
+		}, {
+			"QType": "1",
+			"QContent": "A “town of culture” could be not just about the arts but about honouring a town’s peculiarity - helping sustain its high street, supporting local facilities and above all celebrating its people and turn it into action."
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "1936968",
+		"SbjSubContentList": [{
+			"SbjId": "1936969",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "30",
+			"QuanZhanRightRate": "03.33",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "21. Cooper and her colleagues argue that a “town of culture” award could____."
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] consolidate the town-city ties in Britain."
+			}, {
+				"Label": "B",
+				"Text": "[B] promote cooperation among Britain’s towns."
+			}, {
+				"Label": "C",
+				"Text": "[C] increase the economic strength of Britain towns."
+			}, {
+				"Label": "D",
+				"Text": "[D] focus Britain’s limited resources on cultural events."
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "21.Cooper and her colleagues argue that a “town of culture” award could____."
+			}, {
+				"QType": "1",
+				"QContent": "21.Cooper和她的同事提出“文化之乡”奖能够____"
+			}, {
+				"QType": "1",
+				"QContent": "[A]consolidate the town-city ties in Britain."
+			}, {
+				"QType": "1",
+				"QContent": "[A] 巩固英国乡镇和城市之间的联系"
+			}, {
+				"QType": "1",
+				"QContent": "[B]promote cooperation among Britain's towns."
+			}, {
+				"QType": "1",
+				"QContent": "[B] 促进英国城镇之间的合作"
+			}, {
+				"QType": "1",
+				"QContent": "[C] increase the economic strength of Britain towns."
+			}, {
+				"QType": "1",
+				"QContent": "[C]提升英国城镇的经济实力"
+			}, {
+				"QType": "1",
+				"QContent": "[D] focus Britain's limited resources on cultural events."
+			}, {
+				"QType": "1",
+				"QContent": "[D]将英国有限的资源集中到文化活动中"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 C                                "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据题干中的人名定位到首段第三句到最后一句，“Cooper and her colleague argue that....... A town of culture award could.....become an annual event, attracting funding and creating jobs.”即文化城镇奖能够成为一个年度活动，吸引投资和创造就业。对应了C选项中的经济实力的提升。而A、B、D选项文中都没有提到，故答案为C."
+			}]
+		}, {
+			"SbjId": "1936970",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "30",
+			"QuanZhanRightRate": "03.33",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "22. According to Paragraph 2, the proposal might be regarded by some as____."
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] a sensible compromise."
+			}, {
+				"Label": "B",
+				"Text": "[B] a self-deceiving attempt."
+			}, {
+				"Label": "C",
+				"Text": "[C] an eye-catching bonus."
+			}, {
+				"Label": "D",
+				"Text": "[D] an inaccessible target."
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "22.According to Paragraph 2, the proposal might be regarded by some as____"
+			}, {
+				"QType": "1",
+				"QContent": "22.根据第二段，这个提议可能会被一些人认为是    。"
+			}, {
+				"QType": "1",
+				"QContent": "[A]a sensible compromise"
+			}, {
+				"QType": "1",
+				"QContent": "[A] 理智的妥协"
+			}, {
+				"QType": "1",
+				"QContent": "[B]a self-deceiving attempt"
+			}, {
+				"QType": "1",
+				"QContent": "[B] 自欺欺人的尝试"
+			}, {
+				"QType": "1",
+				"QContent": "[C]an eye-catching bonus"
+			}, {
+				"QType": "1",
+				"QContent": "[C] 引人注目的奖励"
+			}, {
+				"QType": "1",
+				"QContent": "[D]an inaccessible target"
+			}, {
+				"QType": "1",
+				"QContent": "[D] 难以达成的目标"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】B      "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据题干要求定位到第二段第一句，“Some might see the proposal as a booby prize for the fact that Britain is no longer be able to apply for the much more prestigious title of European capital of culture, a sought-after award bagged........fever of self-celebration.......”有人可能会把这个提案看成是一个安慰奖，因为英国已经不再能够申请更具威望的欧洲文化之都的称号......自我庆祝的狂热......。可以看出英国文化地位的下降，导致人民对这个提案的怀疑态度。C选项中的self-deceiving对应了文中的Booby prize和self-celebration，属于近义词辨析。"
+			}]
+		}, {
+			"SbjId": "1936971",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "30",
+			"QuanZhanRightRate": "03.33",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "23. The author suggests that a title holder is successful only if it____."
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] endeavours to maintain its image."
+			}, {
+				"Label": "B",
+				"Text": "[B] meets the aspirations of its people."
+			}, {
+				"Label": "C",
+				"Text": "[C] brings its local arts to prominence."
+			}, {
+				"Label": "D",
+				"Text": "[D] commits to its long-term growth."
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "23.The author suggests that a title holder is successful only if it____"
+			}, {
+				"QType": "1",
+				"QContent": "23.作者认为一个头衔持有者只有____才是成功的。"
+			}, {
+				"QType": "1",
+				"QContent": "[A]endeavours to maintain its image"
+			}, {
+				"QType": "1",
+				"QContent": "[A] 努力维护它的形象"
+			}, {
+				"QType": "1",
+				"QContent": "[B]meets the aspirations of its people"
+			}, {
+				"QType": "1",
+				"QContent": "[B] 满足人们的期望"
+			}, {
+				"QType": "1",
+				"QContent": "[C]brings is local arts to prominence"
+			}, {
+				"QType": "1",
+				"QContent": "[C] 推广当地文化"
+			}, {
+				"QType": "1",
+				"QContent": "[D]commits to its long-term growth"
+			}, {
+				"QType": "1",
+				"QContent": "[D] 致力于长期发展"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】D                     "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】 根据题干中的title holder和successful定位到第三段的第三句:“The really successful holders of such titles are those that do a great deal more than fill......and more optimistic light.”真正的成功是做一笔好生意，而不是填满酒店房间或者高调举办文化和媒体活动。把当地人的期望转变为现实，将城市形象推向更大胆，更乐观的状态。整句表达都是要着眼长远发展，而不是一时的风光。故答案为D。"
+			}]
+		}, {
+			"SbjId": "1936972",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "30",
+			"QuanZhanRightRate": "03.33",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "24. Glasgow is mentioned in Paragraph 3 to present____."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] a contrasting case."
+			}, {
+				"Label": "B",
+				"Text": "[B] a supporting example."
+			}, {
+				"Label": "C",
+				"Text": "[C] a background story."
+			}, {
+				"Label": "D",
+				"Text": "[D] a related topic."
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "24.Glasgow is mentioned in Paragraph 3 to present____"
+			}, {
+				"QType": "1",
+				"QContent": "24.第三段提及格拉斯哥是为了展现____"
+			}, {
+				"QType": "1",
+				"QContent": "[A]a contrasting case"
+			}, {
+				"QType": "1",
+				"QContent": "[A] 对比案例"
+			}, {
+				"QType": "1",
+				"QContent": "[B]a supporting example"
+			}, {
+				"QType": "1",
+				"QContent": "[B] 支撑示例"
+			}, {
+				"QType": "1",
+				"QContent": "[C]a background story"
+			}, {
+				"QType": "1",
+				"QContent": "[C] 背景故事"
+			}, {
+				"QType": "1",
+				"QContent": "[D] a related topic"
+			}, {
+				"QType": "1",
+				"QContent": "[D] 相关话题"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】B                                   "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据题干定地名定位到第三段最后一句：“Glasgow’s year as European capital of culture can certainly be seen as........the powerhouse of art, music and theatre that it remains today.”格拉斯哥作为欧洲文化之都，其中一系列复杂的因素把它变成了一个艺术、音乐和戏剧的重要城市，并一直延续至今。这些描述准确的呼应了前面对成功城市的定义，故答案为B。"
+			}]
+		}, {
+			"SbjId": "1936973",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "30",
+			"QuanZhanRightRate": "03.33",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "25. What is the author’s attitude towards the proposal ?"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] skeptical"
+			}, {
+				"Label": "B",
+				"Text": "[B] objective"
+			}, {
+				"Label": "C",
+				"Text": "[C] favourable"
+			}, {
+				"Label": "D",
+				"Text": "[D] critical"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "25.What is the author's attitude towards the proposal ?"
+			}, {
+				"QType": "1",
+				"QContent": "25.作者对这个建议的态度是怎样的？"
+			}, {
+				"QType": "1",
+				"QContent": "[A]skeptical"
+			}, {
+				"QType": "1",
+				"QContent": "[A]怀疑的"
+			}, {
+				"QType": "1",
+				"QContent": "[B]objective"
+			}, {
+				"QType": "1",
+				"QContent": "[B]客观的"
+			}, {
+				"QType": "1",
+				"QContent": "[C]favourable"
+			}, {
+				"QType": "1",
+				"QContent": "[C]支持的"
+			}, {
+				"QType": "1",
+				"QContent": "[D]critical"
+			}, {
+				"QType": "1",
+				"QContent": "[D]批评的"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】C                                 "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据最后一段的内容，“一个文化之乡不仅与艺术有关，而且要尊重一个城市的特质，包括维护它的主要街道，支持当地基础设施，最重要的是赞美其人民并将其付诸行动。”表明了作者认为这个提案能给一个城市带来积极的影响，同时也对这种美好愿景有一种期待。故答案为C。"
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "25",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "3",
+		"SbjId": "1936974",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Text 2"
+		}, {
+			"QType": "1",
+			"QContent": "Scientific publishing has long been a licence to print money. Scientists need journals in which to publish their research, so they will supply the articles without monetary reward. Other scientists perform the specialised work of peer review also for free, because it is a central element in the acquisition of status and the production of scientific knowledge."
+		}, {
+			"QType": "1",
+			"QContent": "With the content of papers secured for free, the publisher needs only find a market for its journal. Until this century, university libraries were not very price sensitive. Scientific publishers routinely report profit margins approaching 40% on their operations, at a time when the rest of the publishing industry is in an existential crisis."
+		}, {
+			"QType": "1",
+			"QContent": "The Dutch giant Elsevier, which claims to publish 25% of the scientific papers produced in the world, made profits of more than £900m last year, while UK universities alone spent more than £210m in 2016 to enable researchers to access their own publicly funded research; both figures seem to rise inexorably despite increasingly desperate efforts to change them."
+		}, {
+			"QType": "1",
+			"QContent": "The most drastic, and thoroughly illegal, reaction has been the emergence of Sci-Hub, a kind of global photocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article published since 2015. The success of Sci-Hub, which relies on researchers passing on copies they have themselves legally accessed, shows the legal ecosystem has lost legitimacy among its users and must be transformed so that it works for all participants."
+		}, {
+			"QType": "1",
+			"QContent": "In Britain the move towards open access publishing has been driven by funding bodies. In some ways it has been very successful. More than half of all British scientific research is now published under open access terms: either freely available from the moment of publication, or paywalled for a year or more so that the publishers can make a profit before being placed on general release."
+		}, {
+			"QType": "1",
+			"QContent": "Yet the new system has not worked out any cheaper for the universities. Publishers have responded to the demand that they make their product free to readers by charging their writers fees to cover the costs of preparing an article. These range from around £500 to £5,000. A report last year pointed out that the costs both of subscriptions and of these “article preparation costs” has been steadily rising at a rate above inflation. In some ways the scientific publishing model resembles the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places. In both cases. we need a rebalancing of power."
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "1936974",
+		"SbjSubContentList": [{
+			"SbjId": "1936975",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "25",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "26. Scientific publishing is seen as “a licence to print money” partly because____."
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] its funding has enjoyed a steady increase."
+			}, {
+				"Label": "B",
+				"Text": "[B] its marketing strategy has been successful."
+			}, {
+				"Label": "C",
+				"Text": "[C] its payment for peer review is reduced."
+			}, {
+				"Label": "D",
+				"Text": "[D] its content acquisition costs nothing."
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "26.Scientific publishing is seen as “a licence to print money partly because____ ."
+			}, {
+				"QType": "1",
+				"QContent": "26．科学出版被看做“印钞的执照”的部分原因是________。"
+			}, {
+				"QType": "1",
+				"QContent": "[A]its funding has enjoyed a steady increase."
+			}, {
+				"QType": "1",
+				"QContent": "[A]它的资金有稳定的增长"
+			}, {
+				"QType": "1",
+				"QContent": "[B]its marketing strategy has been successful."
+			}, {
+				"QType": "1",
+				"QContent": "[B]它的市场策略是成功的"
+			}, {
+				"QType": "1",
+				"QContent": "[C]its payment for peer review is reduced."
+			}, {
+				"QType": "1",
+				"QContent": "[C]同行评审的支出在减少"
+			}, {
+				"QType": "1",
+				"QContent": "[D] its content acquisition costs nothing."
+			}, {
+				"QType": "1",
+				"QContent": "[D]没有内容获取成本"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】D                  "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】通过题目关键词scientific publishing定位到文章第一段。“scientific publishing has ...... Scientist need journals......, so they will supply the articles without monetary reward. Other scientists perform.......for free, because........”科学家要出版他们的研究，需要无偿给期刊提供文章。其他一些科学家免费给专业文章做同行评审，因为这是获取职称和科学知识的核心因素。可以看出通篇都在讲科学家无偿提供出版内容，对应D选项。A选项和B选项中的funding，marketing strategy文中都没有提及。C选项叙述不准确。"
+			}]
+		}, {
+			"SbjId": "1936976",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "25",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "27. According to Paragraphs 2 and 3, scientific publishers Elsevier have____."
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] thrived mainly on university libraries."
+			}, {
+				"Label": "B",
+				"Text": "[B] gone through an existential crisis."
+			}, {
+				"Label": "C",
+				"Text": "[C] revived the publishing industry."
+			}, {
+				"Label": "D",
+				"Text": "[D] financed researchers generously."
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "27.According to Paragraphs 2 and 3, scientific publishers Elsevier have____"
+			}, {
+				"QType": "1",
+				"QContent": "27．根据第二、三段，科学出版商Elsevier已经____"
+			}, {
+				"QType": "1",
+				"QContent": "[A]thrived mainly on university libraries."
+			}, {
+				"QType": "1",
+				"QContent": "[A]主要从大学图书馆蓬勃发展。"
+			}, {
+				"QType": "1",
+				"QContent": "[B]gone through an existential crisis."
+			}, {
+				"QType": "1",
+				"QContent": "[B]经历了巨大危机。"
+			}, {
+				"QType": "1",
+				"QContent": "[C] revived the publishing industry."
+			}, {
+				"QType": "1",
+				"QContent": "[C]复兴了出版行业。"
+			}, {
+				"QType": "1",
+				"QContent": "[D] financed researchers generously."
+			}, {
+				"QType": "1",
+				"QContent": "[D]慷慨的资助研究员。"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 A             "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】依据题干中的关键词Elsevier定位到文章第三段，“The Dutch giant Elsevier, which claims......, made profits........., while UK universities alone spent......access their own funded research”荷兰巨头Elsevier声称出版了世界上25％的科学论文，去年实现利润超过9亿英镑，而仅英国大学在2016年就花费了超过2.1亿英镑，以使研究人员能够获取自己的公共资助研究。可以推断出这家公司从大学获得了巨大的收入。A选项中的crisis危机文中没有涉及。C项属于过度推断，文中没有体现产业发展的情况。D选项与文中描述不符。故答案为A。"
+			}]
+		}, {
+			"SbjId": "1936977",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "25",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "28. How does the author feel about the success of Sci-Hub?"
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] relieved."
+			}, {
+				"Label": "B",
+				"Text": "[B] puzzled."
+			}, {
+				"Label": "C",
+				"Text": "[C] concerned."
+			}, {
+				"Label": "D",
+				"Text": "[D] encouraged."
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "28.How does the author feel about the success of Sci-Hub?"
+			}, {
+				"QType": "1",
+				"QContent": "28．作者对Sci-Hub成功的态度是什么？"
+			}, {
+				"QType": "1",
+				"QContent": "[A]relieved"
+			}, {
+				"QType": "1",
+				"QContent": "[A] 宽慰的"
+			}, {
+				"QType": "1",
+				"QContent": "[B] puzzled"
+			}, {
+				"QType": "1",
+				"QContent": "[B] 困惑的"
+			}, {
+				"QType": "1",
+				"QContent": "[C] concerned"
+			}, {
+				"QType": "1",
+				"QContent": "[C] 关心的"
+			}, {
+				"QType": "1",
+				"QContent": "[D] encouraged"
+			}, {
+				"QType": "1",
+				"QContent": "[D] 激励的"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 D              "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】通过题目关键词Sci-Hub可以定位到文章第四段，“the most drastic,......the emergence of Sci-Hub, ...........offer access to every paywalled article.....The success.......shows the legal ecosystem has......it works for all participants.”成立于2012年的Sci-Hub是一家全球科学论文复印商，声称可以访问自2015年以来发表的所有付费文章。它的成功依靠研究人员传递他们自己可以合法访问的副本，这显示合法的生态系统在其用户中失去了合法性，必须对其进行改造以使其对所有参与者都有效。表现出作者认为这家公司为学术界做出了积极的改变，会产生更加深远的影响。故答案为D。"
+			}]
+		}, {
+			"SbjId": "1936978",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "25",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "29. It can be learned from Paragraphs 5 and 6 that open access terms____."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] allow publishers some room to make money."
+			}, {
+				"Label": "B",
+				"Text": "[B] render publishing much easier for scientists."
+			}, {
+				"Label": "C",
+				"Text": "[C] reduce the cost of publication substantially."
+			}, {
+				"Label": "D",
+				"Text": "[D] free universities from financial burdens."
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "29.It can be learned from Paragraphs 5 and 6 that open access terms    ."
+			}, {
+				"QType": "1",
+				"QContent": "29．从第五段可以得知开放准入条款________."
+			}, {
+				"QType": "1",
+				"QContent": "[A]allow publishers some room to make money"
+			}, {
+				"QType": "1",
+				"QContent": "[A] 使出版商有盈利的空间"
+			}, {
+				"QType": "1",
+				"QContent": "[B]render publishing much easier for scientists"
+			}, {
+				"QType": "1",
+				"QContent": "[B] 科学家出版更加容易"
+			}, {
+				"QType": "1",
+				"QContent": "[C]reduce the cost of publication substantially"
+			}, {
+				"QType": "1",
+				"QContent": "[C] 显著减少了出版成本"
+			}, {
+				"QType": "1",
+				"QContent": "[D]free universities from financial burdens"
+			}, {
+				"QType": "1",
+				"QContent": "[D] 使大学摆脱财务负担"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 A              "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】通过题目关键词可以定位到文章第五段，“More than half of all British......under open access terms: either available from........the publishers can make profit before being placed on general release.”现在，超过一半的英国科研成果都是以开放获取的方式出版：从出版之日起免费提供，或者付费使用一年或更长时间，以便出版商在正式发行之前就可以获利。A选项是对文章内容的同义改写。通过第六段第一句“Yet the new system.....any cheaper for the universities”然而，新系统并没有给大学带来任何实惠，排除D选项。通过文中“A report last year pointed out.......rising at a rate above inflation”去年的一份报告指出，订阅费用和这些“文章准备成本”均以高于通货膨胀率的速度稳定增长，排除C项。B项文中没有体现。"
+			}]
+		}, {
+			"SbjId": "1936979",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "25",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "30. Which of the following characterises the scientific publishing model?"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] trial subscription is offered."
+			}, {
+				"Label": "B",
+				"Text": "[B] labour triumphs over status."
+			}, {
+				"Label": "C",
+				"Text": "[C] costs are well controlled."
+			}, {
+				"Label": "D",
+				"Text": "[D] the few feed on the many."
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "30.Which of the following characterises the scientific publishing model?"
+			}, {
+				"QType": "1",
+				"QContent": "30.以下哪一项是科学出版模式的特点？"
+			}, {
+				"QType": "1",
+				"QContent": "[A]trial subscription is offered."
+			}, {
+				"QType": "1",
+				"QContent": "[A] 提供试订阅"
+			}, {
+				"QType": "1",
+				"QContent": "[B] labour triumphs over status."
+			}, {
+				"QType": "1",
+				"QContent": "[B] 劳动胜过地位"
+			}, {
+				"QType": "1",
+				"QContent": "[C] costs are well controlled."
+			}, {
+				"QType": "1",
+				"QContent": "[C] 很好控制成本"
+			}, {
+				"QType": "1",
+				"QContent": "[D] the few feed on the many."
+			}, {
+				"QType": "1",
+				"QContent": "[D] 少数养活多数"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 D              "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】通过题干核心词open access model定位到文中最后两句，“In some ways the scientific publishing model......while huge profits are made by a few big firms who run the market places. In both cases, we need a rebalancing of power.”在某种程度上，科学出版模式类似于社交网络经济：免费提供劳动力以换取地位身份，而少数控制市场的大公司则获得了巨额利润。我们需要重新平衡权力。D项符合原文含义。A项和C项文中没有提及，B项与文中描述相反。"
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "27",
+		"QuanZhanRightRate": "3.70",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "4",
+		"SbjId": "1936980",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Text 3"
+		}, {
+			"QType": "1",
+			"QContent": "Progressives often support diversity mandates as a path to equality and a way to level the playing field. But all too often such policies are an insincere form of virtue-signaling that benefits only the most privileged and does little to help average people."
+		}, {
+			"QType": "1",
+			"QContent": "A pair of bill sponsored by Massachusetts state Senator Jason Lewis and House Speaker Pro Tempore Patricia Haddad, to ensure “gender parity” on boards and commissions, provide a case in point."
+		}, {
+			"QType": "1",
+			"QContent": "Haddad and Lewis are concerned that more than half the state-government boards are less than 40 percent female. In order to ensure that elite women have more such opportunities, they have proposed imposing government quotas. If the bills become law, state boards and commissions will be required to set aside 50 percent of board seats for women by 2022."
+		}, {
+			"QType": "1",
+			"QContent": "The proposal is similar to a measure recently adopted in California, which last year became the first state to require gender quotas for private companies. In signing the measure, California Governor Jerry Brown admitted that the law, which expressly classifies people on the basis of sex, is probably unconstitutional."
+		}, {
+			"QType": "1",
+			"QContent": "The US Supreme Court frowns on sex-based classifications unless they are designed to address an “important” policy interest. Because the California law applies to all boards, even where there is no history of prior discrimination, courts are likely to rule that the law violates the constitutional guarantee of “equal protection”."
+		}, {
+			"QType": "1",
+			"QContent": "But are such government mandates even necessary? Female participation on corporate boards may not currently mirror the percentage of women in the general population, but so what?"
+		}, {
+			"QType": "1",
+			"QContent": "The number of women on corporate boards has been steadily increasing without government interference. According to a study by Catalyst, between 2010 and 2015 the share women on the boards of global corporations increased by 54 percent."
+		}, {
+			"QType": "1",
+			"QContent": "Requiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards. That is exactly what happened when Norway adopted a nationwide corporate gender quota."
+		}, {
+			"QType": "1",
+			"QContent": "Writing in The New Republic, Alice Lee notes that increasing the number of opportunities for board membership without increasing the pool of qualified women to serve on such boards has led to a “golden skirt” phenomenon, where the same elite women scoop up multiple seats on a variety of boards."
+		}, {
+			"QType": "1",
+			"QContent": "Next lime somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures that make their sponsors feel good but do little to help average women."
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "1936980",
+		"SbjSubContentList": [{
+			"SbjId": "1936981",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "27",
+			"QuanZhanRightRate": "03.70",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "31.The author believes that the bill sponsored by Lewis and Haddad will____."
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] help little to reduce gender bias."
+			}, {
+				"Label": "B",
+				"Text": "[B] pose a threat to the state government."
+			}, {
+				"Label": "C",
+				"Text": "[C] raise women’s position in politics."
+			}, {
+				"Label": "D",
+				"Text": "[D] greatly broaden career options."
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "31.The author believes that the bill sponsored by Lewis and Haddad will        "
+			}, {
+				"QType": "1",
+				"QContent": "31．作者相信Lewis和Haddad支持的法案将会        "
+			}, {
+				"QType": "1",
+				"QContent": "[A] help little to reduce gender bias."
+			}, {
+				"QType": "1",
+				"QContent": "[A] 对减少性别歧视帮助甚微"
+			}, {
+				"QType": "1",
+				"QContent": "[B] pose a threat to the state government."
+			}, {
+				"QType": "1",
+				"QContent": "[B] 对州政府造成威胁"
+			}, {
+				"QType": "1",
+				"QContent": "[C] raise women's position in politics."
+			}, {
+				"QType": "1",
+				"QContent": "[C] 提升女性在政坛中的地位"
+			}, {
+				"QType": "1",
+				"QContent": "[D] greatly broaden career options."
+			}, {
+				"QType": "1",
+				"QContent": "[D] 大大拓宽职业选择"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】A                             "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】通过文章第一段的内容：“Progressives often support......But all too often such policies are an insincere form of .......and does little to help average people.”进步主义者经常把强制多样化作为实现平等和公平竞争的途径。但是，此类政策常常是一种虚伪的道德信号，只会给最有特权的人带来好处，而对帮助普通民众没有什么作用。可以看出作者对法案的整体态度是消极的，A选项属于同意转换。B项和中的threat文中没有提及。C项和D项都不是作者的观点，而是法案的目的。"
+			}]
+		}, {
+			"SbjId": "1936982",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "27",
+			"QuanZhanRightRate": "03.70",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "32. Which of the following is true of the California measure?"
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[A] it has irritated private business owner."
+			}, {
+				"Label": "B",
+				"Text": "[B] it is welcomed by the Supreme Court."
+			}, {
+				"Label": "C",
+				"Text": "[C] it may go against the Constitution."
+			}, {
+				"Label": "D",
+				"Text": "[D] it will settle the prior controversies."
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "32.Which of the following is true of the California measure?"
+			}, {
+				"QType": "1",
+				"QContent": "32．以下关于加利福尼亚措施的描述哪一项是正确的？"
+			}, {
+				"QType": "1",
+				"QContent": "[A] It has irritated private business owner."
+			}, {
+				"QType": "1",
+				"QContent": "[A] 激怒了私营企业主。"
+			}, {
+				"QType": "1",
+				"QContent": "[B] It is welcomed by the Supreme Court."
+			}, {
+				"QType": "1",
+				"QContent": "[B]受到最高法院的欢迎。"
+			}, {
+				"QType": "1",
+				"QContent": "[C] It may go against the Constitution."
+			}, {
+				"QType": "1",
+				"QContent": "[C] 可能违反宪法。"
+			}, {
+				"QType": "1",
+				"QContent": "[D] It will settle the prior controversies."
+			}, {
+				"QType": "1",
+				"QContent": "[D] 将会解决以前的争议。"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 C                            "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据信号词California measure可以定位到文章第四段：“The proposal is similar to a measure recently adopted in California, which......In signing the measure, California governor......, which expressly classifies......, is probably unconstitutional.”该提议类似于加利福尼亚最近采取的一项措施，去年加利福尼亚成为第一个要求对私营公司实行性别配额的州。在签署该措施时，加利福尼亚州州长杰里·布朗承认法律明确地对人进行性别分类，这可能违反宪法。C选项正是对原文表述的同意改写，主要考查go against这一短语的用法。A项和D项原文未涉及。B选项通过第五段第一句：“The US Supreme Court frowns..........”,可以判断与原文表述不符，可以排除。"
+			}]
+		}, {
+			"SbjId": "1936983",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "27",
+			"QuanZhanRightRate": "03.70",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "33. The author mentions the study by Catalyst to illustrate____.    [A] the harm from arbitrary board decision.    [B] the importance of constitutional guarantees."
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[D] the needlessness of government interventions."
+			}, {
+				"Label": "B",
+				"Text": "B"
+			}, {
+				"Label": "C",
+				"Text": "C"
+			}, {
+				"Label": "D",
+				"Text": "D"
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "33.The author mentions the study by Catalyst to illustrate      ."
+			}, {
+				"QType": "1",
+				"QContent": "33．作者提及Catalyst的研究是为了表明     。"
+			}, {
+				"QType": "1",
+				"QContent": "[A] the harm from arbitrary board decision."
+			}, {
+				"QType": "1",
+				"QContent": "[A] 来自仲裁委员会决议的危害"
+			}, {
+				"QType": "1",
+				"QContent": "[B] the importance of constitutional guarantees."
+			}, {
+				"QType": "1",
+				"QContent": "[B] 宪法保障的重要性"
+			}, {
+				"QType": "1",
+				"QContent": "[C]the pressure on women in global corporations."
+			}, {
+				"QType": "1",
+				"QContent": "[C] 跨国公司中女性的压力"
+			}, {
+				"QType": "1",
+				"QContent": "[D]the needlessness of government interventions."
+			}, {
+				"QType": "1",
+				"QContent": "[D] 政府干预的不必要性"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 D               "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据题干关键词study by Catalyst可以定位到文章第七段：“The number of women on corporate boards has been steadily increasing without government interference. According to a study by Catalyst, between......by 54 percent.”在没有政府干预的情况下，公司董事会中的女性人数一直在稳定增长。根据Catalyst的一项研究，在2010年至2015年之间，全球公司董事会中女性的比例增加了54％。D项中的intervention与原文中的interference属于同义替换。其它选项文中均为涉及，可以排除。"
+			}]
+		}, {
+			"SbjId": "1936984",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "27",
+			"QuanZhanRightRate": "03.70",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "34. Norway’s adoption of a nationwide corporate gender quota has led to____.[A] the underestimation of elite women’s role.[B] the objection to female participation on boards."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[D] the growing tension between labor and management."
+			}, {
+				"Label": "B",
+				"Text": "B"
+			}, {
+				"Label": "C",
+				"Text": "C"
+			}, {
+				"Label": "D",
+				"Text": "D"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "34. Norway’s adoption of a nationwide corporategender quota has led to        .  "
+			}, {
+				"QType": "1",
+				"QContent": "34．挪威采取的全国性公司性别指标导致了       。"
+			}, {
+				"QType": "1",
+				"QContent": "[A]the underestimation of elite women’s role."
+			}, {
+				"QType": "1",
+				"QContent": "[A] 精英女性角色的低估"
+			}, {
+				"QType": "1",
+				"QContent": "[B] the objection to female participation on boards."
+			}, {
+				"QType": "1",
+				"QContent": "[B] 反对女性参加董事会"
+			}, {
+				"QType": "1",
+				"QContent": "[C] the entry of unqualified candidates into the boards."
+			}, {
+				"QType": "1",
+				"QContent": "[C] 不合格候选人进入董事会"
+			}, {
+				"QType": "1",
+				"QContent": "[D] the growing tension between labor and management."
+			}, {
+				"QType": "1",
+				"QContent": "[D] 劳工和管理层之间上升的的矛盾"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 C                           "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】 根据题干关键词Norway可以定位到文章第八段：“Requiring companies to make gender......will inevitably lead to less experienced private sector boards. That is exactly what happened when Norway adopted a nationwide corporate gender quota.”要求公司将性别作为董事会成员的主要资格，将不可避免地导致经验不足的私营部门董事会。这正是挪威在全国范围内采用公司性别配额的情况。C项与原文描述相符。D项内容文中没有涉及。A项和B项与第九段内容不符。"
+			}]
+		}, {
+			"SbjId": "1936985",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "27",
+			"QuanZhanRightRate": "03.70",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "35. Which of the following can be inferred from the text?[A] women’s need in employment should be considered.[B] feasibility should be a prime concern in policy making."
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[D] major social issues should be the focus of legislation."
+			}, {
+				"Label": "B",
+				"Text": "B"
+			}, {
+				"Label": "C",
+				"Text": "C"
+			}, {
+				"Label": "D",
+				"Text": "D"
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "35.Which of the following can be inferred from the text?  "
+			}, {
+				"QType": "1",
+				"QContent": "35．以下哪一项描述可从文中得出？"
+			}, {
+				"QType": "1",
+				"QContent": "[A]Women’s need in employment should be considered."
+			}, {
+				"QType": "1",
+				"QContent": "[A] 应该考虑女性在就业中的需求。"
+			}, {
+				"QType": "1",
+				"QContent": "[B]Feasibility should be a prime concern in policy making."
+			}, {
+				"QType": "1",
+				"QContent": "[B] 可行性应该是政策制定中的主要因素"
+			}, {
+				"QType": "1",
+				"QContent": "[C]Everyone should try hard to promote social justice."
+			}, {
+				"QType": "1",
+				"QContent": "[C] 每个人应该努力促进社会正义。"
+			}, {
+				"QType": "1",
+				"QContent": "[D]Major social issues should be the focus of legislation."
+			}, {
+				"QType": "1",
+				"QContent": "[D] 立法的关注点应该是主要社会问题。"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 B                            "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题考查对全文内容的理解概括。文中没有提及女性的就业需求，排除A项。作者主要在讨论是否应该采用强制女性配额，并没有发出呼吁，排除C项。原文没有论述立法的核心和如何立法，D项可以排除。C项属于合理总结。"
+			}]
+		}]
+	}, {
+		"SbjTypeName": "阅读理解",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "26",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "5",
+		"SbjId": "1936986",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Text 4"
+		}, {
+			"QType": "1",
+			"QContent": "Last Thursday, the French Senate passed a digital services tax, which would impose an entirely new tax on large multinationals that provide digital services to consumers or users in France. Digital services include everything from providing a platform for selling goods and services online to targeting advertising based on user data, and the tax applies to gross revenue from such services. French politicians and media outlets have referred to this as a “GAFA tax”, meaning that it is designed to apply primarily to companies such as Google, Apple, Facebook and Amazon - In other words, multinational tech companies based in the United States."
+		}, {
+			"QType": "1",
+			"QContent": "The digital services tax awaits the signature of President Emmanuel Macron, who has expressed support for the measure, and it could go into effect within the next few weeks. But it has already sparked significant controversy, with the Unite Sates trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France."
+		}, {
+			"QType": "1",
+			"QContent": "The French tax is not just a unilateral move by one country in need of revenue. Instead, the digital services tax is part of a much larger trend, with countries over the past few years proposing or putting in place an alphabet soup of new international tax provisions. They have included Britain’s DPT(diverted profits tax), Australia’s MAAL(multinational anti-avoidance law), and India’s SEP (significant economic presence) test, to name but a few. At the same time, the European Union, Spain, Britain and several other countries have all seriously contemplated digital services taxes."
+		}, {
+			"QType": "1",
+			"QContent": "These unilateral developments differ in their specifics, but they are all designed to tax multinationals on income and revenue that countries believe they should have a right to tax, even if international tax rules do not grant them that right. In other words, they all share a view that the international tax system has failed to keep up with the current economy."
+		}, {
+			"QType": "1",
+			"QContent": "In response to these many unilateral measures, the Organization for Economic Cooperation and Development (OECD) is currently working with 131 countries to reach a consensus by the end of 2020 on an international solution. Both France and the United States are involved in the organization’s work but France’s digital services tax and the American response raise questions about what the future holds for the international tax system."
+		}, {
+			"QType": "1",
+			"QContent": "Franc’s planned tax is a clear warning: unless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit, and American companies will face a cascade of different taxes from dozens of nations that will prove burdensome and costly."
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "1936986",
+		"SbjSubContentList": [{
+			"SbjId": "1936987",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "26",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "36. The French Senate has passed a bill to____.    [A] regulate digital services platforms.    [B] protect French companies’ interests."
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[D] curb the influence of advertising."
+			}, {
+				"Label": "B",
+				"Text": "B"
+			}, {
+				"Label": "C",
+				"Text": "C"
+			}, {
+				"Label": "D",
+				"Text": "D"
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "36.The French Senate has passed a bill to             ."
+			}, {
+				"QType": "1",
+				"QContent": "36．法国议会通过一项法案的目的是     。"
+			}, {
+				"QType": "1",
+				"QContent": "[A]regulate digital services platforms."
+			}, {
+				"QType": "1",
+				"QContent": "[A]规范数字服务平台"
+			}, {
+				"QType": "1",
+				"QContent": "[B] protect French companies' interests"
+			}, {
+				"QType": "1",
+				"QContent": "[B]保护法国公司利益"
+			}, {
+				"QType": "1",
+				"QContent": "[C] impose a levy on tech multinationals"
+			}, {
+				"QType": "1",
+				"QContent": "[C]对科技跨国公司征税"
+			}, {
+				"QType": "1",
+				"QContent": "[D] curb the influence of advertising"
+			}, {
+				"QType": "1",
+				"QContent": "[D]限制广告业的影响"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 C                           "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据题干信号词French Senate定位到文章第一段：“Last Thursday, the French Senate passed a......, which would impose an entirely new tax on...... Digital services include......., and the tax applies to gross revenue from such services.”上周四，法国参议院通过了一项数字服务税，该税将向法国对消费者或用户提供数字服务的大型跨国公司征收全新的税收。数字服务包括提供在线销售商品和服务的平台和基于用户数据的广告投放，税款适用于此类服务的总收入。很明显C项是对原文描述的同义概括，主要考查对词汇的掌握。A项和B项原文并未涉及。D项属于过度推理。"
+			}]
+		}, {
+			"SbjId": "1936988",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "26",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "37. It can be learned from Paragraph 2 that the digital services tax____.[A] may trigger countermeasures against France.[B] is apt to arouse criticism at home and abroad."
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": "[D] will prompt the tech giants to quit France."
+			}, {
+				"Label": "B",
+				"Text": "B"
+			}, {
+				"Label": "C",
+				"Text": "C"
+			}, {
+				"Label": "D",
+				"Text": "D"
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "37. It can be learned from Paragraph 2 that the  digital services tax     ."
+			}, {
+				"QType": "1",
+				"QContent": "37．从第二段可以得知数字服务税     。"
+			}, {
+				"QType": "1",
+				"QContent": "[A]may trigger countermeasures against France"
+			}, {
+				"QType": "1",
+				"QContent": "[A]可能会产生针对法国的应对措施"
+			}, {
+				"QType": "1",
+				"QContent": "[B]is apt to arouse criticism at home and abroad"
+			}, {
+				"QType": "1",
+				"QContent": "[B] 容易引起国内外的批评"
+			}, {
+				"QType": "1",
+				"QContent": "[C]aims to ease international trade tensions"
+			}, {
+				"QType": "1",
+				"QContent": "[C]目的是缓解国际贸易紧张局势"
+			}, {
+				"QType": "1",
+				"QContent": "[D]will prompt the tech giants to quit France"
+			}, {
+				"QType": "1",
+				"QContent": "[D]将会促使科技巨头放弃法国"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 A                           "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据题干要求分析第二段的内容：“The digital service tax awaits......within the next few weeks. But it has already sparked significant controversy, with the united states trade representative......, which in turn could lead to trade sanctions against France.”数字服务税正在等待总统马克龙的签署，他对该措施表示了支持，该法案可能在未来几周内生效。但是，这已经引发了重大争议，美国国家贸易代表委员会的贸易代表开始调查税收是否对美国公司有不公平对待，这反过来可能导致对法国的贸易制裁。A选项中的trigger countermeasures是对lead to trade sanctions的同义替换。其他选项均为涉及，可以排除。"
+			}]
+		}, {
+			"SbjId": "1936989",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "26",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "38. The countries adopting the unilateral measures share the opinion that____.[A] redistribution of tech giants’ revenue must be ensured.[B] the current international tax system needs upgrading.[C] tech multinationals monopoly should be prevented.[D] all countries ought to enjoy equal taxing rights."
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "38. The countries adopting the unilateral measures share the opinion that      "
+			}, {
+				"QType": "1",
+				"QContent": "38．采取单边措施的国家都同意      。"
+			}, {
+				"QType": "1",
+				"QContent": "[A] redistribution of tech giants' revenue must be ensured."
+			}, {
+				"QType": "1",
+				"QContent": "[A]必须保证科技巨头收入的重新分配"
+			}, {
+				"QType": "1",
+				"QContent": "[B] the current international tax system needs upgrading."
+			}, {
+				"QType": "1",
+				"QContent": "[B]现有的国际税收系统需要升级"
+			}, {
+				"QType": "1",
+				"QContent": "[C] tech multinationals monopoly should be prevented."
+			}, {
+				"QType": "1",
+				"QContent": "[C]应该阻止科技跨国公司的垄断"
+			}, {
+				"QType": "1",
+				"QContent": "[D] all countries ought to enjoy equal taxing rights."
+			}, {
+				"QType": "1",
+				"QContent": "[D]所有国家应该享有平等的税收权利"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】 B                           "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据题干核心词countries，unilateral measures和opinion可以定位到文章第三和第四段的内容。第三段内容主要包含采取措施的国家和相关法案，没有提及所持观点。第四段内容:“These unilateral developments differ in their specifics, but they are all....... even if international tax rules do not......, they all share a view that the .....with the current economy.”这些单方面的发展在细节上各有不同，但它们都旨在向跨国公司征税，各国都认为他们应拥有征税权，即使国际税收规则没有赋予他们该权利。换句话说，他们都认为国际税收制度未能跟上当前经济的步伐。由此可以推断出B项，他们希望改变现有的国际税收制度。A项和C项原文没有涉及，可以排除。D项中equal原文没有体现。"
+			}]
+		}, {
+			"SbjId": "1936990",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "26",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "39.  It can be learned from Para 5 that the OECD’s current work____.[A] is being resisted by US companies.[B] needs to be readjusted immediately.[C] is faced with uncertain prospects.[D] needs to in involve more countries."
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "39. It can be learned from Paragraph 5 that the OECO’S current work     ."
+			}, {
+				"QType": "1",
+				"QContent": "34．从第五段可以得知OECO的现在的工作     。"
+			}, {
+				"QType": "1",
+				"QContent": "[A]is being resisted by US companies"
+			}, {
+				"QType": "1",
+				"QContent": "[A]正在被美国公司抵制"
+			}, {
+				"QType": "1",
+				"QContent": "[B]needs to be readjusted immediately"
+			}, {
+				"QType": "1",
+				"QContent": "[B]需要立刻进行调整"
+			}, {
+				"QType": "1",
+				"QContent": "[C]is faced with uncertain prospects"
+			}, {
+				"QType": "1",
+				"QContent": "[C]正面临不确定的前景"
+			}, {
+				"QType": "1",
+				"QContent": "[D]needs to involve more countries"
+			}, {
+				"QType": "1",
+				"QContent": "[D]需要包含更多的国家"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】C                            "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据第五段的描述：“In response to......OECD is currently working with 131 countries to reach a consensus.....Both France and the United States are involved in......what the future holds for the international tax system.”为了应对这些单方面措施，经济合作与发展组织（OECD）目前正在与131个国家合作，以在2020年底之前就国际解决方案达成共识。法国和美国都参与了该组织的工作，但是法国的数字服务税和美国的回应引发了人们对国际税制未来前景的疑问。可以看出C项中uncertain prospects是对原文“raise questions about what the future holds”的同意改写。其余选项均和原文叙述不符。"
+			}]
+		}, {
+			"SbjId": "1936991",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "26",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "40. Which of the following might be the best title for this text?[A] France is Confronted with Trade Sanctions.[B] France leads the Charge on Digital Tax.[C] France Says “NO” to Tech Multinationals.[D] France Demands a Role in the Digital Economy."
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}],
+			"Answer": "B",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "40. Which of the following might be the best title for this text?"
+			}, {
+				"QType": "1",
+				"QContent": "40．以下哪一项最适合作为本文的标题？"
+			}, {
+				"QType": "1",
+				"QContent": "[A]France is Confronted with Trade Sanctions."
+			}, {
+				"QType": "1",
+				"QContent": "[A]面对贸易制裁的法国"
+			}, {
+				"QType": "1",
+				"QContent": "[B]France leads the charge on Digital Tax."
+			}, {
+				"QType": "1",
+				"QContent": "[B]法国引领数字税"
+			}, {
+				"QType": "1",
+				"QContent": "[C]France SaysNOto Tech Multinationals."
+			}, {
+				"QType": "1",
+				"QContent": "[C]对科技跨国公司说不的法国"
+			}, {
+				"QType": "1",
+				"QContent": "[D]France Demands a Role in the digital economy."
+			}, {
+				"QType": "1",
+				"QContent": "[D]在数字经济中争取一席之地的法国"
+			}, {
+				"QType": "1",
+				"QContent": "【答案】B                           "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本题考查对全文核心内容的概括总结。通过首段和末端内容，以及各段的核心词，可以看出文章的主要论述对象是法国和数字税。原文只有第二段提到贸易制裁，排除A项。文中没有体现法国和科技公司的决裂，排除C项。法国采取数字税的目的是寻求更公平的国际税收制度，并不是发展数字经济，D项排除。故答案为B."
+			}]
+		}]
+	}, {
+		"SbjTypeName": "新题型",
+		"SbjType": "17",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "24",
+		"QuanZhanRightRate": "0",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "6",
+		"SbjId": "1936992",
+		"Score": "10.00",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Part B"
+		}, {
+			"QType": "1",
+			"QContent": "Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "For Questions 41-45, choose the most suitable paragraphs from the list A-G and fill them into the numbered boxes to form a coherent text. Paragraph E has been correctly placed. There is one paragraph which dose not fit in with the text. Mark your answers on ANSWER SHEET.      (10 points)"
+		}, {
+			"QType": "1",
+			"QContent": "[A]  Eye fixations are brief[B] Too much eye contact is instinctively felt to be rude[C] Eye contact can be a friendly social signal[D] Personality can affect how a person reacts to eye contact"
+		}, {
+			"QType": "1",
+			"QContent": "[E] Biological factors behind eye contact are being investigated[F] Most people are not comfortable holding eye contact with strangers[G] Eye contact can also be aggressive"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "In a social situation, eye contact with another person can show that you are paying attention in a friendly way. But it can also be antagonistic, such as when a political candidate turns toward their competitor during a debate and makes eye contact that signals hostility. Here’s what hard science reveals about eye contact:41. ___________________________________"
+		}, {
+			"QType": "1",
+			"QContent": "We know that a typical infant will instinctively gaze into its mother’s eyes, and she will look back. This mutual gaze is a major part of the attachment between mother and child. In adulthood, looking at someone else in a pleasant way can be a complimentary sign of paying attention. It can catch someone’s attention in a crowded room. “Eye contact and smile” can signal availability and confidence, a common-sense notion supported in studies by psychologist Monica Moore.42. _____________________________________"
+		}, {
+			"QType": "1",
+			"QContent": "Neuroscientist Bonnie Auyeung found that the hormone Oxytocin increased the amount of eye contact from men toward the interviewer during a brief interview when the direction of their gaze was recorded. This was also found in high-functioning men with some autistic spectrum symptoms, who may tend to avoid eye contact. Specific brain regions that respond during direct gaze are being explored by other researches, using advanced methods of brain scanning.43. ____________________________________"
+		}, {
+			"QType": "1",
+			"QContent": "With the use of eye-tracking technology, Julia Minson of the Harvard Kennedy School of Government concluded that eye contact can signal very different kinds of messages, depending on the situation. While eye contact may be a sign of connection or trust in friendly situations, it's more likely to be associated with dominance or intimidation in adversarial situations. “Whether you’re a politician or a parent, it might be helpful to keep in mind that trying to maintain eye contact may backfire if you’re trying to convince someone who has a different set of beliefs than you,” said Minson.44. __________________________________________"
+		}, {
+			"QType": "1",
+			"QContent": "When we look at a face or a picture, our eyes pause on one spot at a time, often on the eyes or mouth. These pauses typically occur at about three per second, and the eyes then jump to another spot, until several important points in the image are registered like a series of snapshots. How the whole image is then assembled and perceived is still a mystery although it is the subject of current research.45. ______________________________________    In people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance, according to the Finnish researcher Jari Hietanen and colleagues. “Our findings indicate that people do not only feel different when they are the centre of attention but that their brain reactions also differ. A more direct finding is that people who scored highly for negative emotions like anxiety looked at others for shorter periods of time and reported more comfortable feelings when others did not look directly at them."
+		}],
+		"XiaoTiCount": "5",
+		"BigSbjId": "1936992",
+		"SbjSubContentList": [{
+			"SbjId": "1936993",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "24",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "41"
+			}, {
+				"smallXuHao": "1"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "C",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "41、【答案】[C]. Eye contact can be a friendly social signal"
+			}, {
+				"QType": "1",
+				"QContent": "眼神交流可以是一种友好的社交信号 "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据段落中的: “looking at someone else in a pleasant way can be a complimentary sigh of paying attention.” “Eye contact and smile can signal availability and confidence.”以令人愉悦的方式看着别人可以是一种赞赏的标志。眼睛交流和微笑可以表示亲近和自信。可以体现出眼神交流的社交属性，并且是一种有好的信号。"
+			}]
+		}, {
+			"SbjId": "1936994",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "24",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "42"
+			}, {
+				"smallXuHao": "2"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "E",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "42、【答案】[E]. Biological factors behind eye contact are being investigated"
+			}, {
+				"QType": "1",
+				"QContent": "               正在研究眼神交流背后的生物因素       "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】 根据文中最后一句：“Specific brain regions that respond during direct gaze are being explored by other researches, using advanced methods of brain scanning.” 其他研究正在使用先进的大脑扫描方法来探索在直接注视过程中做出反应的特定大脑区域。可以对应选项E中的关键词：biological factors和investigated，即调查生物因素。"
+			}]
+		}, {
+			"SbjId": "1936995",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "24",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "43"
+			}, {
+				"smallXuHao": "3"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "G",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "43、【答案】[G]. Eye contact can also be aggressive"
+			}, {
+				"QType": "1",
+				"QContent": "                眼神交流也可以具有攻击性      "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】根据段落中的：“While eye contact may be a sign of connection or trust in friendly situation, it’s more likely to be associated with dominance or intimidation in adversarial situation.”眼神交流可能是友好环境中关系或信任的标志，但更可能与对抗情境中的支配或恐吓联系在一起。本题前一句中的friendly是一个陷阱，要注意其中的转折关系，后句才是主旨含义。G选项中的aggressive是对dominance or intimidation的同意概括。"
+			}]
+		}, {
+			"SbjId": "1936996",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "24",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "44"
+			}, {
+				"smallXuHao": "4"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "A",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "44、【答案】[A]. Eye fixations are brief"
+			}, {
+				"QType": "1",
+				"QContent": "                眼神凝视是短暂的   "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】 本题主要考查词意辨析。根据文中：“When we look at a face or a picture, our eyes pause...... These pauses typically occur at about three per second, and ......like a series of snapshot.”当我们看着一张脸或一张照片时，我们的眼睛一次停在一个点上，经常停在眼睛或嘴上。这些暂停通常每秒钟发生三次，然后眼睛跳到另一个位置，直到图像中的几个重要点被记录下来，就像一系列快照一样。如果能正确解释A选项的意思，就可以立即与本段内容相匹配。"
+			}]
+		}, {
+			"SbjId": "1936997",
+			"SbjType": "1",
+			"Score": "2.00",
+			"SbjNanDu": "0",
+			"QuanZhanZuoDa": "24",
+			"QuanZhanRightRate": "00.00",
+			"YiCuoXiang": "",
+			"LastAnswer": "",
+			"SbjContentList": [{
+				"QType": "1",
+				"QContent": "45"
+			}, {
+				"smallXuHao": "5"
+			}],
+			"SbjChoice": [{
+				"Label": "A",
+				"Text": " "
+			}, {
+				"Label": "B",
+				"Text": " "
+			}, {
+				"Label": "C",
+				"Text": " "
+			}, {
+				"Label": "D",
+				"Text": " "
+			}, {
+				"Label": "E",
+				"Text": " "
+			}, {
+				"Label": "F",
+				"Text": " "
+			}, {
+				"Label": "G",
+				"Text": " "
+			}],
+			"Answer": "D",
+			"Explain": [{
+				"QType": "1",
+				"QContent": "45、【答案】 [D]. Personality can affect how a person reacts to eye contact"
+			}, {
+				"QType": "1",
+				"QContent": "                性格能影响一个人对眼神交流的反应      "
+			}, {
+				"QType": "1",
+				"QContent": "【解析】本段对两种人进行了对比，“people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance.”和“people who scored highly for negative emotions like anxiety looked at others for shorter periods of time and reported more comfortable feelings when others did not look directly at them.”在神经测试（与自我意识和焦虑相关的人格维度）中得分较高的人中，目光接触触发了与回避相关的更多活动;在焦虑之类的负面情绪上获得高分的人注视别人较短的时间，并且在其他人不直视他们时，他们会感到更加舒适。可以判断出其主要论点是不同人格对眼神交流的反应差异。故答案为D."
+			}]
+		}]
+	}, {
+		"SbjTypeName": "翻译",
+		"SbjType": "5",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "2",
+		"QuanZhanRightRate": "100",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "7",
+		"SbjId": "1936998",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Part C"
+		}, {
+			"QType": "1",
+			"QContent": "Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written carefully on ANSWER SHEET 2. (10 points)"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": "Following the explosion of creativity in Florence during the 14th century known as the Renaissance, the modern world saw a departure from what it had once known. It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being. Renaissance ideas had spread throughout Europe well into the 17th century, with the arts and sciences flourishing extraordinarily among those with a more logical disposition. (46) With the Church’s teachings and ways of thinking being eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged leading to new and unexplored intellectual territories."
+		}, {
+			"QType": "1",
+			"QContent": "During the Renaissance, the great minds of Nicolaus Copernicus, Johannes Kepler and Galileo Galileo demonstrated the power of scientific study and discovery. (47) Before each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geocentric view that the Earth was at the centre of our universe. Copernicus theorized in 1543 that in actual fact, all of the planets that we knew of revolved not around the Earth, but the Sun, a system that was later upheld by Galileo at his own expense. Offering up such a theory during a time of high tension between scientific and religious minds was branded as heresy, and any such heretics that continued to spread these lies were to be punished by imprisonment or even death. Galileo was excommunicated by the Church and imprisoned for life for his astronomical observations and his support of the heliocentric principle."
+		}, {
+			"QType": "1",
+			"QContent": "(48) Despite attempts by the Church to suppress this new generation of logicians and rationalists. More explanations for how the universe functioned were being made at a rate that the people could no longer ignore. It was with these great revelations that a new kind of philosophy founded in reason was born.    The Church’s long-standing dogma was losing the great battle for truth to rationalists and scientists. This very fact embodied the new ways of thinking that swept through Europe during most of 17century. (49) As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era - the Age of Reason."
+		}, {
+			"QType": "1",
+			"QContent": "The 17th and 18th centuries were times of radical change and curiosity. Scientific method, reductionism the questioning of Church ideals was to be encouraged, as were ideas of liberty, tolerance and progress. (50) Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase “sapere aude” or “dare to know”, after Immanuel Kant used it in his essay “An Answer to the Question: What is Enlightenment? ”. It was the purpose and responsibility of great minds to go forth and seek out the truth, which they believed to be founded in knowledge."
+		}],
+		"Score": "10.00",
+		"AnswerList": [{
+			"QType": "1",
+			"QContent": "(46) 【考点】被动语态，动名词"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】Church 大写，指代上文的Roman Catholicism Church罗马天主教，eclipse 表示：使相形见绌，黯然失色，Medieval: 中世纪，Renaissance 指文艺复兴，上述词汇未正确译出，均会酌情扣分。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】Renaissance“文艺复兴”，ways of things思维方式；gap“差距，分歧”；bridge“消除，连接”；lead to“导致，通向”，intellectual“智力，知识分子”territory“领域，领土”。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】随着文艺复兴使天主教的教义和思维方式黯然失色， 中世纪和现代之间的差距被缩小，带来了全新和未知的知识领域。"
+		}, {
+			"QType": "1",
+			"QContent": "(47) 【考点】复合句，定语从句"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】their指代上文的诸如伽利略这样的great minds,需要译出，revelations 指他们的科学研究和理论，geo-centric view根据后面的同位语从句，应该很好推测，意思是“地心说”。同位语从句可以拆译。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】 revelation启示，揭露；at the time在那时候；sustain维持，保持；ancient古老的，古代的；universe宇宙。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】在思想巨人们的每一个科学理念出现之前，当时的许多思想者一直保留着更加古老的思考方式，包括地心说，这一学说认为地球是宇宙的中心。"
+		}, {
+			"QType": "1",
+			"QContent": "(48) 【考点】主语从句，并列结构"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】 attempts是名词:尝试，这里可以名词变成动词，使句子更加通顺; suppress 镇压，压迫; logicians 逻辑学家，rationalists 理性主义者。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】despite尽管，即使；generation一代，一批；function作用，运转；at a rate以一种.....速度；ignore忽视。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】尽管教会试图镇压新一代的逻辑学者和理性主义者，但是他们对宇宙运转理论的探索以一种平民和教会都无法忽视的速度不断涌现。"
+		}, {
+			"QType": "1",
+			"QContent": "(49) 【考点】不定式，连词"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】复合句。句首as表示主句从句动作同时发生，可以译为:随着; reasoning是reason推理的动名词形式，要译为“推理”，而不是“理由。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】advanced“先进的，进步的”；non-commercial “非经济的，非贸易性的”；within reason合情合理的，理智的。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】随着越来越多人努力将推理和科学哲学论融入世界。文艺复兴结束了，是时候迎来一个新的时代。"
+		}, {
+			"QType": "1",
+			"QContent": "(50) 【考点】主语从句，定语从句，被动语态"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】本句主句是完整的被动语态，建议翻译成主动，更加通顺。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】tend to do sth.“倾向于做某事”；be essential to sth.“对……必要的”；healthy functioning“健康运行，健康机制”。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】拉丁语“智慧勇气”或者“敢于求知”充分体现了这种寻求知识和理解我们已知信息的行为。"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}],
+		"ExplainList": [{
+			"QType": "1",
+			"QContent": "(46) 【考点】被动语态，动名词"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】Church 大写，指代上文的Roman Catholicism Church罗马天主教，eclipse 表示：使相形见绌，黯然失色，Medieval: 中世纪，Renaissance 指文艺复兴，上述词汇未正确译出，均会酌情扣分。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】Renaissance“文艺复兴”，ways of things思维方式；gap“差距，分歧”；bridge“消除，连接”；lead to“导致，通向”，intellectual“智力，知识分子”territory“领域，领土”。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】随着文艺复兴使天主教的教义和思维方式黯然失色， 中世纪和现代之间的差距被缩小，带来了全新和未知的知识领域。"
+		}, {
+			"QType": "1",
+			"QContent": "(47) 【考点】复合句，定语从句"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】their指代上文的诸如伽利略这样的great minds,需要译出，revelations 指他们的科学研究和理论，geo-centric view根据后面的同位语从句，应该很好推测，意思是“地心说”。同位语从句可以拆译。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】 revelation启示，揭露；at the time在那时候；sustain维持，保持；ancient古老的，古代的；universe宇宙。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】在思想巨人们的每一个科学理念出现之前，当时的许多思想者一直保留着更加古老的思考方式，包括地心说，这一学说认为地球是宇宙的中心。"
+		}, {
+			"QType": "1",
+			"QContent": "(48) 【考点】主语从句，并列结构"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】 attempts是名词:尝试，这里可以名词变成动词，使句子更加通顺; suppress 镇压，压迫; logicians 逻辑学家，rationalists 理性主义者。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】despite尽管，即使；generation一代，一批；function作用，运转；at a rate以一种.....速度；ignore忽视。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】尽管教会试图镇压新一代的逻辑学者和理性主义者，但是他们对宇宙运转理论的探索以一种平民和教会都无法忽视的速度不断涌现。"
+		}, {
+			"QType": "1",
+			"QContent": "(49) 【考点】不定式，连词"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】复合句。句首as表示主句从句动作同时发生，可以译为:随着; reasoning是reason推理的动名词形式，要译为“推理”，而不是“理由。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】advanced“先进的，进步的”；non-commercial “非经济的，非贸易性的”；within reason合情合理的，理智的。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】随着越来越多人努力将推理和科学哲学论融入世界。文艺复兴结束了，是时候迎来一个新的时代。"
+		}, {
+			"QType": "1",
+			"QContent": "(50) 【考点】主语从句，定语从句，被动语态"
+		}, {
+			"QType": "1",
+			"QContent": "【解析】本句主句是完整的被动语态，建议翻译成主动，更加通顺。"
+		}, {
+			"QType": "1",
+			"QContent": "【词汇】tend to do sth.“倾向于做某事”；be essential to sth.“对……必要的”；healthy functioning“健康运行，健康机制”。"
+		}, {
+			"QType": "1",
+			"QContent": "【译文】拉丁语“智慧勇气”或者“敢于求知”充分体现了这种寻求知识和理解我们已知信息的行为。"
+		}],
+		"Explain": "",
+		"ImageList": []
+	}, {
+		"SbjTypeName": "小作文",
+		"SbjType": "5",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "3",
+		"QuanZhanRightRate": "100",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "8",
+		"SbjId": "1936999",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Section Ⅲ Writing"
+		}, {
+			"QType": "1",
+			"QContent": "Part A"
+		}, {
+			"QType": "1",
+			"QContent": "51. Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "The Student Union of your university has assigned you to inform the international students about an upcoming singing contest. Write a notice in about 100 words. "
+		}, {
+			"QType": "1",
+			"QContent": "Write your answer on the ANSWER SHEET."
+		}, {
+			"QType": "1",
+			"QContent": "Do not use your own name in the notice. (10 points)"
+		}],
+		"Score": "10.00",
+		"AnswerList": [{
+			"QType": "1",
+			"QContent": "参考范文"
+		}, {
+			"QType": "1",
+			"QContent": "Notice"
+		}, {
+			"QType": "1",
+			"QContent": "For all the international students, a singing contest is going to be held next month in the auditorium of our university. The notice is released here to inform you the details."
+		}, {
+			"QType": "1",
+			"QContent": "The contest will start at 7 o’clock p.m. on January 1, 2020. Anyone who is interested in singing can come to the student union building to sign up and fill in an application form, including your name, age, nationality, and the song you prepare for the contest before this weekend."
+		}, {
+			"QType": "1",
+			"QContent": "If you have any questions or suggestions about the contest, please do not hesitate to contact us. We are looking forward to your participation."
+		}, {
+			"QType": "1",
+			"QContent": "                                                    "
+		}, {
+			"QType": "1",
+			"QContent": "                                                        Students’ Union"
+		}, {
+			"QType": "1",
+			"QContent": "December 18, 2019"
+		}],
+		"ExplainList": [],
+		"Explain": "",
+		"ImageList": []
+	}, {
+		"SbjTypeName": "大作文",
+		"SbjType": "5",
+		"SbjNanDu": "0",
+		"QuanZhanZuoDa": "2",
+		"QuanZhanRightRate": "100",
+		"YiCuoXiang": "",
+		"KaoDianList": [],
+		"ShouCangId": "0",
+		"YongShiTime": "0",
+		"FenXiangLianJie": "http://kaoyan.zhongyewx.com/AppTiKuFengXiangYe/KaoYanGongGongKe/KaoYanTiFenXiang/danxuan.aspx",
+		"IsLastError": "0",
+		"LastAnswer": "",
+		"TiHao": "9",
+		"SbjId": "1937000",
+		"SbjContentList": [{
+			"QType": "1",
+			"QContent": "Part B"
+		}, {
+			"QType": "1",
+			"QContent": "52. Directions:"
+		}, {
+			"QType": "1",
+			"QContent": "Write an essay of 160-200 words based on the picture below. In your essay, you should"
+		}, {
+			"QType": "1",
+			"QContent": "1) describe the picture briefly,"
+		}, {
+			"QType": "1",
+			"QContent": "2) interpret the implied meaning, and"
+		}, {
+			"QType": "1",
+			"QContent": "3) give your comments."
+		}, {
+			"QType": "1",
+			"QContent": "Write your answer on the ANSWER SHEET. (20 points)"
+		}, {
+			"QType": "2",
+			"QContent": "/asynupload/SubjectQuessionImgs/20200520115752_5659.png"
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}, {
+			"QType": "1",
+			"QContent": " "
+		}],
+		"Score": "20.00",
+		"AnswerList": [{
+			"QType": "1",
+			"QContent": "参考范文"
+		}, {
+			"QType": "1",
+			"QContent": "The drawings compare the different ways two students approach an assignment. In the left picture, the girl writes quickly on her notebook, deciding it’s better to get everything done as soon as possible, while the boy in the right picture relaxes on a sofa, not doing anything about his task, obviously planning to leave everything until the last minute."
+		}, {
+			"QType": "1",
+			"QContent": "The drawer, in my opinion, attempts to warn us against the bad habit of procrastination. In our study or work, the most important thing is to finish things in advance, so we’ll have plenty of time to go over the work we have done and check for imperfections to make sure that our final work is of high quality. If we procrastinate and let unimportant things divert our attention, when the deadline draws near, we are sure to panic and we will have to do our work in a very squeezed amount of time, which is going to be difficult for us to guarantee good work. And the most possible scenario is that we have to ask for an extension, leaving bad impression on our professors or bosses and also hurting our efficiency."
+		}, {
+			"QType": "1",
+			"QContent": "In a nutshell, it is dangerous to be a last-minute person, if one aims to be a high achiever in work or study, he or she definitely needs to get in the habit of completing his or her work well ahead of time."
+		}],
+		"ExplainList": [],
+		"Explain": "",
+		"ImageList": []
+	}]
+}

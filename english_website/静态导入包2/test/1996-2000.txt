@@ -1,0 +1,981 @@
+2001年全国硕士研究生招生考试英语试题
+Section I   Use of English
+
+Directions：
+For each numbered blank in the following passage, there are four choices marked [A], [B], [C] and [D]. Choose the best one and mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (10 points)
+
+The government is to ban payments to witnesses by newspapers seeking to buy up people involved in prominent cases   1   the trial of Rosemary West.
+In a significant    2   of legal controls over the press, Lord Irvine, the Lord Chancellor, will introduce a   3   bill that will propose making payments to witnesses    4  and will strictly control the amount of    5   that can be given to a case    6    a trial begins.
+In a letter to Gerald Kaufman, chairman of the House of Commons media select committee, Lord Irvine said he   7  with a committee report this year which said that self regulation did not  8  sufficient control.
+  9   of the letter came two days after Lord Irvine caused a   10   of media protest when he said the   11   of privacy controls contained in European legislation would be left to judges   12  to Parliament.
+The Lord Chancellor said introduction of the Human Rights Bill, which   13   the European Convention on Human Rights legally   14  in Britain, laid down that everybody was   15   to privacy and that public figures could go to court to protect themselves and their families.
+“Press freedoms will be in safe hands   16   our British judges,” he said.
+Witness payments became an    17    after West was sentenced to 10 life sentences in 1995. Up to 19 witnesses were   18   to have received payments for telling their stories to newspapers. Concerns were raised   19   witnesses might be encouraged exaggerate their stories in court to   20   guilty verdicts.
+
+1.［A］as to 	［B］for instance 	［C］in particular   	［D］such as
+2.［A］tightening    	［B］intensifying 	［C］focusing    		［D］fastening
+3.［A］sketch        	［B］rough    	［C］preliminary		［D］draft
+4.［A］illogical     	［B］illegal     	［C］improbable   	［D］improper
+5.［A］publicity     	［B］penalty   	［C］popularity    	［D］peculiarity
+6.［A］since         	［B］if        	［C］before       	［D］as
+7.［A］sided         	［B］shared    	［C］complied     	［D］agreed　
+8.［A］present       	［B］offer       	［C］manifest     	［D］indicate
+9.［A］Release       	［B］Publication  	［C］Printing     		［D］Exposure　　
+10.［A］storm     	［B］rage　     	［C］flare       		［D］flash
+11.［A］translation   	［B］interpretation ［C］exhibition  		［D］demonstration
+12.［A］better than  	［B］other than   	［C］rather than   		［D］sooner than
+13.［A］changes      	［B］makes    	［C］sets        		［D］turns　
+14.［A］binding      	［B］convincing  	［C］restraining  		［D］sustaining
+15.［A］authorized   	［B］credited    	［C］entitled   		［D］qualified　
+16.［A］with         	［B］to          	［C］from      		［D］by
+17.［A］impact       	［B］incident     	［C］inference    		［D］issue　
+18.［A］stated       	［B］remarked  	［C］said        		［D］told
+19.［A］what        	［B］when     	［C］which      		［D］that
+20.［A］assure       	［B］confide     	［C］ensure     		［D］guarantee
+
+Section II Reading Comprehension
+
+Directions:
+Each of the passages below is followed by some questions. For each questions there are four answers marked [A], [B], [C] and [D]. Read the passages carefully and choose the best answer to each of the questions. Then mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (40 points)
+Passage 1
+	Specialisation can be seen as a response to the problem of an increasing accumulation of scientific knowledge. By splitting up the subject matter into smaller units，one man could continue to handle the information and use it as the basis for further research. But specialisation was only one of a series of related developments in science affecting the process of communication. Another was the growing professionalisation of scientific activity.
+No clear-cut distinction can be drawn between professionals and amateurs in science: exceptions can be found to any rule. Nevertheless, the word “amateur” does carry a connotation that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values. The growth of specialisation in the nineteenth century, with its consequent requirement of a longer, more complex training, implied greater problems for amateur participation in science. The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
+	A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper. Thus, in the nineteenth century, local geological studies represented worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture. Amateurs, on the other hand, have continued to pursue local studies in the old way. The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
+	Although the process of professionalisation and specialisation was already well under way in British geology during the nineteenth century, its full consequences were thus delayed until the twentieth century. In science generally, however, the nineteenth century must be reckoned as the crucial period for this change in the structure of science.
+
+21.	The growth of specialisation in the 19th century might be more clearly seen in sciences such as _______.
+[AJ sociology and chemistry              		[B] physics and psychology
+[C] sociology and psychology            	 	[D] physics and chemistry
+22.	We can infer from the passage that _______.
+[A] there is little distinction between specialisation and professionalisation
+[B] amateurs can compete with professionals in some areas of science
+[C] professionals tend to welcome amateurs into the scientific community
+[D] amateurs have national academic societies but no local ones
+23.	The author writes of the development of geology to demonstrate ______.
+[A] the process of specialisation and professionalisation
+[B] the hardship of amateurs in scientific study
+[C] the change of policies in scientific publications
+[D] the discrimination of professionals against amateurs
+24.	The direct reason for specialisation is _______.
+[A] the development in communication				[B] the growth of professionalisation
+[C] the expansion of scientific knowledge			[D] the splitting up of academic societies
+
+Passage 2
+	A great deal of attention is being paid today to the so-called digital divide-the division of the world into the info (information) rich and the info poor. And that divide does exist today. My wife and I lectured about this looming danger twenty years ago. What was less visible then, however, were the new, positive forces that work against the digital divide. There are reasons to be optimistic.
+	There are technological reasons to hope the digital divide will narrow. As the Internet becomes more and more commercialized, it is in the interest of business to universalize access-after all, the more people online, the more potential customers there are. More and more governments, afraid their countries will be left behind, want to spread Internet access. Within the next decade or two, one to two billion people on the planet will he netted together. As a result, I now believe the digital divide will narrow rather than widen in the years ahead. And that is very good news because the Internet may well be the most powerful tool for combating world poverty that we’ve ever had.
+	Of course, the use of the Internet isn’t the only way to defeat poverty. And the Internet is not the only tool we have. But it has enormous potential.
+	To take advantage of this tool, some impoverished countries will have to get over their outdated anti-colonial prejudices with respect to foreign investment. Countries that still think foreign investment is an invasion of their sovereignty might well study the history of infrastructure（the basic structural foundations of a society）in the United States. When the United States built its industrial infrastructure, it didn’t have the capital to do so. And that is why America’s Second Wave infrastructure-including roads, harbors, highways, ports and so on-were built with foreign investment. The English, the Germans, the Dutch and the French were investing in Britain’s former colony. They financed them. Immigrant Americans built them. Guess who owns them now? The Americans. I believe the same thing would be true in places like Brazil or anywhere else for that matter. The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the better off you’re going to be. That doesn't mean lying down and becoming fooled, or letting foreign corporations run uncontrolled. But it does mean recognizing how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet.
+
+25.	Digital divide is something _______.
+[A] getting worse because of the Internet		[B] the rich countries are responsible for
+[C] the world must guard against		[D] considered positive today
+26.	Governments attach importance to the Internet because it _______.
+[A] offers economic potentials		[B] can bring foreign funds
+[C] can soon wipe out world poverty		[D] connects people all over the world
+27.	The writer mentioned the case of the United States to justify the policy of _______.
+[A] providing financial support overseas		[B] preventing foreign capital’s control
+[C] building industrial infrastructure		[D] accepting foreign investment
+28.  It seems that now a country’s economy depands much on ______.
+[A] how well-developed it is electronically	[B] whether it is prejudiced against immigrants
+[C] whether it adopts America’s industrial pattern	[D] how much control it has over foreign corporations
+
+Passage 3
+	Why do so many Americans distrust what they read in their newspapers? The American Society of Newspaper Editors is trying to answer this painful question. The organization is deep into a long self-analysis known as the journalism credibility project.
+	Sad to say, this project has turned out to be mostly low-level findings about factual errors and spelling and grammar mistakes, combined with lots of headscratching puzzlement about what in the world those readers really want.
+	But the sources of distrust go way deeper. Most journalists learn to see the world through a set of standard templates (patterns) into which they plug each day’s events. In other words, there is a conventional story line in the newsroom culture that provides a backbone and a ready-made narrative structure for otherwise confusions news.
+	There exists a social and cultural disconnect between journalists and their readers which helps explain why the “standard templates”of the newsroom seem alien many readers. In a recent survey, questionnaires were sent to reporters in five middle size cities around the country, plus one large metropolitan area. Then residents in these communities were phoned at random and asked the same questions.
+	Replies show that compared with other Americans, journalists are more likely to live in upscale neighborhoods, have maids, own Mercedeses, and trade stocks, and they’re less likely to go to church, do volunteer work, or put down roots in community.
+	Reporters tend to be part of a broadly defined social and cultural elite, so their work tends to reflect the conventional values of this elite. The astonishing distrust of the news media isn’t rooted in inaccuracy or poor reportorial skills but in the daily clash of world views between reporters and their readers.
+	This is an explosive situation for any industry, particularly a declining one. Here is a troubled business that keeps hiring employees whose attitudes vastly annoy the customers. Then it sponsors lots of symposiums and a credibility project dedicated to wondering why customers are annoyed and fleeing in large numbers. But it never seems to get around to noticing the cultural and class biases that so many former buyers are complaining about. If it did, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.
+
+29.	What is the passage mainly about?
+[A] needs of the readers all over the world.
+[B] causes of the public disappointment about newspapers.
+[C] origins of the declining newspaper industry.
+[D] aims of a journalism credibility project.
+30.	The results of the journalism credibility project turned out to be ______.
+[A] quite trustworthy                     	[B] somewhat contradictory
+[C] very illuminating                     	[D] rather superficial
+31. The basic problem of journalists as pointed out by the writer lies in their ______.
+[A] working attitude                      	[B] conventional lifestyle
+[C] world outlook                      	[D] educational background
+32.	Despite its efforts, the newspaper industry still cannot satisfy the readers owing to its_______.
+[A] failure to realize its real problem		  	[B] tendency to hire annoying reporters
+[C] likeliness to do inaccurate reporting      	[D] prejudice in matters of race and gender
+
+Passage 4
+	The world is going through the biggest wave of mergers and acquisitions ever witnessed. The process sweeps from hyperactive America to Europe and reaches the emerging countries with unsurpassed might. Many in these countries are looking at this process and worrying: "Won't the wave of business concentration turn into an uncontrollable anti-competitive force?"
+	There's no question that the big are getting bigger and more powerful. Multinational corporations accounted for less than 20% of international trade in 1982. Today the figure is more than 25% and growing rapidly. International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment. In Argentina, for instance, after the reforms of the early 1990s, multinationals went from 43% to almost 70% of the industrial production of the 200 largest firms. This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.
+	I believe that the most important forces behind the massive M&A wave are the same that underlie the globalization process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customers' demands. All these are beneficial, not detrimental, to consumers. As productivity grows, the world's wealth increases.
+	Examples of benefits or costs of the current concentration wave are scanty. Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the Standard Oil trust was broken up. The mergers of telecom companies, such as WorldCom, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress. On the contrary, the price of communications is coming down fast. In cars, too, concentration is increasing-witness Daimler and Chrysler, Renault and Nissan-but it does not appear that consumers are being hurt.
+	Yet the fact remains that the merger movement must be watched. A few weeks ago, Alan Greenspan warned against the megamergers in the banking industry. Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created? Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition? And should one country take upon itself the role of “defending competition” on issues that affect many other nations, as in the U S. vs. Microsoft case ?
+
+33. What is the typical trend of businesses today?
+[A] to take in more foreign funds.           	[B] to invest more abroad.
+[C] to combine and become bigger.       	[D] to trade with more countries.
+34.	According to the author, one of the driving forces behind M&A wave is ______
+[A] the greater customer demands.     	[B] a surplus supply for the market.
+[C] a growing productivity.            	[D] the increase of the world's wealth.
+35.	From paragraph 4 we can infer that ______.
+[A] the increasing concentration is certain to hurt consumers
+[B] WorldCom serves as a good example of both benefits and costs
+[C] the costs of the globalization process are enormous
+[D] the Standard Oil trust might have threatened competition
+36.	Toward the new business wave, the writer's attitude can he said to be _______.
+[A] optimistic                   	[B] objective
+[C] pessimistic                  	[D] biased
+
+Passage 5
+	When I decided to quit my full time employment it never occurred to me that I might become a part of a new international trend. A lateral move that hurt my pride and blocked my professional progress prompted me to abandon my relatively high profile career although, in the manner of a disgraced government minister, I covered my exit by claiming “I wanted to spend more time with my family”.
+	Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans term “downshifting”has turned my tired excuse into an absolute reality. I have been transformed from a passionate advocate of the philosophy of “having it all”, preached by Linda Kelsey for the past seven years in the pages of She magazine, into a woman who is happy to settle for a bit of everything.
+	I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of “juggling your life”, and making the alternative move into “downshifting” brings with it far greater rewards than financial success and social status. Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on “quality time”.
+	In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. Downshifting-also known in America as “voluntary simplicity” has, ironically, even bred a new area of what might be termed anticonsumerism. There are a number of bestselling downshifting self-help books for people who want to simplify their lives; there are newsletter's, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap; there are even support groups for those who want to achieve the mid- '90s equivalent of dropping out.
+	While in America the trend started as a reaction to the economic decline——after the mass redundancies caused by downsizing in the late’80s——and is still linked to the politics of thrift, in Britain, at least among the middle-class downshifters of my acquaintance, we have different reasons for seeking to simplify our lives.
+	For the women of my generation who were urged to keep juggling through the’80s, downshifting in the mid-'90s is not so much a search for the mythical good life——growing your own organic vegetables, and risking turning into one——as a personal recognition of your limitations.
+
+37. Which of the following is true according to paragraph 1?
+[A] Full-time employment is a new international trend.
+[B] The writer was compelled by circumstances to leave her job.
+[C] “A lateral move” means stepping out of full-time employment.
+[D] The writer was only too eager to spend more time with her family.
+38. The writer’s experiment shows that downshifting ____
+[A] enables her to realize her dream	[B] helps her mold a new philosophy of life
+[C] prompts her to abandon her high social status	[D] leads her to accept the doctrine of She magazine
+39. “Juggling one’s life” probably means living a life characterized by_____.
+[A] non-materialistic lifestyle          	[B] a bit of everything
+[C] extreme stress                       	[D] anti-consumerism
+40. According to the passage, downshifting emerged in the U.S. as a result of _____
+[A] the quick pace of modern life      	[B] man’s adventurous spirit
+[C] man’s search for mythical experiences     	[D] the economic situation
+
+Part III English-Chinese Translation
+
+Directions:
+  Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (15 points)
+
+In less than 30 years’ time the Star Trek holodeck will be a reality. Direct links between the brain’s nervous system and a computer will also create full sensory virtual environments, allowing virtual vacations like those in the film Total Recall.
+41）There will be television chat shows hosted by robots, and cars with pollution monitors that will disable them when they offend. 42）Children will play with dolls equipped with personality chips, computers with in-built personalities will be regarded as workmates rather than tools, relaxation will be in front of smell television, and digital age will have arrived.
+According to BT’s futurologist, Ian Pearson, these are among the developments scheduled for the first few decades of the new millennium（a period of 1,000 years）, when supercomputers will dramatically accelerate progress in all areas of life.
+43）Pearson has pieced together the work of hundreds of researchers around the world to produce a unique millennium technology calendar that gives the latest dates when we can expect hundreds of key breakthroughs and discoveries to take place. Some of the biggest developments will be in medicine, including an extended life expectancy and dozens of artificial organs coming into use between now and 2040.
+Pearson also predicts a breakthrough in computer-human links. “By linking directly to our nervous system, computers could pick up what we feel and, hopefully, simulate feeling too so that we can start to develop full sensory environments, rather like the holidays in Total Recall or the Star Trek holodeck, ” he says. 44）But that, Pearson points out, is only the start of man-machine integration: “It will be the beginning of the long process of integration that will ultimately lead to a fully electronic human before the end of the next century.”
+Through his research, Pearson is able to put dates to most of the breakthroughs that can be predicted. However, there are still no forecasts for when faster-than-light travel will be available, or when human cloning will be perfected, or when time travel will be possible. But he does expect social problems as a result of technological advances. A boom in neighborhood surveillance cameras will, for example, cause problems in 2010, while the arrival of synthetic lifelike robots will mean people may not be able to distinguish between their human friends and the droids.
+45）And home appliances will also become so smart that controlling and operating them will result in the breakout of a new psychological disorder—kitchen rage.
+Section IV Writing
+
+46.  Directions:
+Among all the worthy feelings of mankind, love is probably the noblest, but everyone has his/her own understanding of it.
+There has been a discussion recently on the issue in a newspaper. Write an essay to the newspaper to
+1）show your understanding of the symbolic meaning of the picture below.
+2）give a specific example, and
+3）give your suggestion as to the best way to show love.
+
+
+
+2000年全国硕士研究生招生考试英语试题
+Section I   Use of English
+Directions：
+For each numbered blank in the following passage, there are four choices marked ［A］, ［B］, ［C］ and ［D］. Choose the best one and mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (10 points)
+①If a farmer wishes to succeed, he must try to keep a wide gap between his consumption and his production. ②He must store a large quantity of grain  1  consuming all his grain immediately. ③He can continue to support himself and his family  2  he produces a surplus. ④He must use this surplus in three ways: as seed for sowing, as an insurance  3  the unpredictable effects of bad weather and as a commodity which he must sell in order to  4  old agricultural implements and obtain chemical fertilizers to  5  the soil. ⑤He may also need money to construct irrigation  6  and improve his farm in other ways. ⑥If no surplus is available, a farmer cannot be  7  . ⑦He must either sell some of his property or  8  extra funds in the form of loans. ⑧Naturally he will try to borrow money at a low  9  of interest, but loans of this kind are not  10  obtainable. ［139 words］
+1.［A］ other than 		［B］ as well as 		［C］ instead of 		［D］ more than
+2.［A］ only if			［B］ much as		［C］ long before		［D］ ever since
+3.［A］ for				［B］ against			［C］ of			［D］ towards
+4.［A］ replace			［B］ purchase		［C］ supplement		［D］ dispose
+5.［A］ enhance			［B］ mix			［C］ feed			［D］ raise
+6.［A］ vessels			［B］ routes			［C］ paths			［D］ channels
+7.［A］ self-confident 	［B］ self-sufficient	［C］ self-satisfied 	［D］self-restrained
+8.［A］ search			［B］ save			［C］ offer			［D］ seek 
+9.［A］ proportion		［B］ percentage		［C］ rate			［D］ ratio
+10.［A］ genuinely		［B］ obviously		［C］ presumably		［D］ frequently
+Section II Reading Comprehension
+
+Directions:
+Each of the passages below is followed by some questions. For each question there are four answers marked ［A］, ［B］, ［C］ and ［D］. Read the passages carefully and choose the best answer to each of the questions. Then mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (40 points)
+Passage 1
+①A history of long and effortless success can be a dreadful handicap, but, if properly handled, it may become a driving force. ②When the United States entered just such a glowing period after the end of the Second World War, it had a market eight times larger than any competitor, giving its industries unparalleled economies of scale. ③Its scientists were the worlds best; its workers the most skilled. ④(11)America and Americans were prosperous beyond the dreams of the Europeans and Asians whose economies the war had destroyed.
+①It was inevitable that this primacy should have narrowed as other countries grew richer. ②Just as inevitably, the retreat from predominance proved painful. ③By the mid-1980s Americans had found themselves at a loss over their fading industrial competitiveness. ④Some huge American industries, such as consumer electronics, had shrunk or vanished in the face of foreign competition. ⑤By 1987 there was only one American television maker left, Zenith. ⑥(Now there is none: Zenith was bought by South Korea’s LG Electronics in July.) ⑦（12）Foreign-made cars and textiles were sweeping into the domestic market. America’s machine-tool industry was on the ropes. ⑧For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next casualty.
+①All of this caused a crisis of confidence. ②Americans stopped taking prosperity for granted. ③They began to believe that their way of doing business was failing, and that their incomes would therefore shortly begin to fall as well. ④The mid-1980s brought one inquiry after another into the causes of America’s industrial decline. ⑤Their sometimes sensational findings were filled with warnings about the growing competition from overseas.
+①How things have changed! ②In 1995 the United States can look back on five years of solid growth while Japan has been struggling. ③（14）Few Americans attribute this solely to such obvious causes as a devalued dollar or the turning of the business cycle. ④Self-doubt has yielded to blind pride. ⑤“American industry has changed its structure, has gone on a diet, has learnt to be more quick-witted,” according to Richard Cavanaugh, executive dean of Harvard’s Kennedy School of Government. ⑥“It makes me proud to be an American just to see how our businesses are improving their productivity,” says Stephen Moore of the Cato Institute, a think-tank in Washington, DC. ⑦And William Sahlman of the Harvard Business School believes that people will look back on this period as “a golden age of business management in the United States.”［429 words］
+11. The U.S. achieved its predominance after World War II because.
+［A］ it had made painstaking efforts towards this goal 
+［B］ its domestic market was eight times larger than before
+［C］ the war had destroyed the economies of most potential competitors
+［D］ the unparalleled size of its workforce had given an impetus to its economy
+12. The loss of U.S. predominance in the world economy in the 1980s is manifested in the fact that the American.
+［A］ TV industry had withdrawn to its domestic market
+［B］ semiconductor industry had been taken over by foreign enterprises
+［C］ machine-tool industry had collapsed after suicidal actions
+［D］ auto industry had lost part of its domestic market
+13. What can be inferred from the passage?
+［A］ It is human nature to shift between self-doubt and blind pride.
+［B］ Intense competition may contribute to economic progress.
+［C］ The revival of the economy depends on international cooperation.
+［D］ A long history of success may pave the way for further development.
+14. The author seems to believe the revival of the U.S. economy in the 1990s can be attributed to the.
+［A］ turning of the business cycle			［B］ restructuring of industry
+［C］ improved business management			［D］ success in education
+Passage 2
+①（15）Being a man has always been dangerous. ②There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity, and among 70-year-olds there are twice as many women as men. ③But the great universal of male mortality is being changed. ④Now, boy babies survive almost as well as girls do. ⑤This means that, for the first time, there will be an excess of boys in those crucial years when they are searching for a mate. ⑥More important, another chance for natural selection has been removed. ⑦Fifty years ago, the chance of a baby (particularly a boy baby) surviving depended on its weight. A kilogram too light or too heavy meant almost certain death. ⑧Today it makes almost no difference. Since much of the variation is due to genes, one more agent of evolution has gone.
+①There is another way to commit evolutionary suicide: stay alive, but have fewer children. ②Few people are as fertile as in the past. ③Except in some religious communities, very few women have 15 children. ④Nowadays the number of births, like the age of death, has become average. ⑤Most of us have roughly the same number of offspring. ⑥（16）Again, differences between people and the opportunity for natural selection to take advantage of it have diminished. ⑦India shows what is happening. The country offers wealth for a few in the great cities and poverty for the remaining tribal peoples. ⑧The grand mediocrity of today—everyone being the same in survival and number of offspring—means that natural selection has lost 80% of its power in upper-middle-class India compared to the tribes.
+For us, this means that evolution is over; the biological Utopia has arrived. ②Strangely, it has involved little physical change. ③No other species fills so many places in nature. ④But in the past 100, 000 years—even the past 100 years—our lives have been transformed but our bodies have not. ⑤（17）We did not evolve, because machines and society did it for us. ⑥Darwin had a phrase to describe those ignorant of evolution: they “look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension.”⑦No doubt we will remember a 20th century way of life beyond comprehension for its ugliness. But however amazed our descendants may be at how far from Utopia we were, they will look just like us.［406 words］
+15. What used to be the danger in being a man according to the first paragraph? 
+［A］ A lack of mates.					［B］ A fierce competition.
+［C］ A lower survival rate.				［D］ A defective gene.
+16. What does the example of India illustrate?
+［A］ Wealthy people tend to have fewer children than poor people.
+［B］ Natural selection hardly works among the rich and the poor.
+［C］ The middle class population is 80% smaller than that of the tribes.
+［D］ India is one of the countries with a very high birth rate.
+17. The author argues that our bodies have stopped evolving because.
+［A］ life has been improved by technological advance
+［B］ the number of female babies has been declining
+［C］ our species has reached the highest stage of evolution
+［D］ the difference between wealth and poverty is disappearing
+18. Which of the following would be the best title for the passage?
+［A］ Sex Ratio Changes in Human Evolution.
+［B］ Ways of Continuing Man’s Evolution.
+［C］ The Evolutionary Future of Nature.
+［D］ Human Evolution Going Nowhere.
+Passage 3
+①（20）When a new movement in art attains a certain fashion, it is advisable to find out what its advocates are aiming at, for, however farfetched and unreasonable their principles may seem today, it is possible that in years to come they may be regarded as normal. ②With regard to Futurist poetry, however, the case is rather difficult, for whatever Futurist poetry may be—even admitting that the theory on which it is based may be right—it can hardly be classed as Literature.
+①This, in brief, is what the Futurist says: for a century, past conditions of life have been conditionally speeding up, till now we live in a world of noise and violence and speed. ②Consequently, our feelings, thoughts and emotions have undergone a corresponding change. ③（21）This speeding up of life, says the Futurist, requires a new form of expression. ④We must speed up our literature too, if we want to interpret modern stress. ⑤We must pour out a large stream of essential words, unhampered by stops, or qualifying adjectives, or finite verbs. ⑥Instead of describing sounds we must make up words that imitate them; we must use many sizes of type and different colored inks on the same page, and shorten or lengthen words at will.
+①Certainly their descriptions of battles are confused. ②But it is a little upsetting to read in the explanatory notes that a certain line describes a fight between a Turkish and a Bulgarian officer on a bridge off which they both fall into the river —and then to find that the line consists of the noise of their falling and the weights of the officers:  “Pluff! Pluff! A hundred and eighty-five kilograms.”
+①（22）This, though it fulfills the laws and requirements of Futurist poetry, can hardly be classed as Literature. ②All the same, no thinking man can refuse to accept their first proposition: that a great change in our emotional life calls for a change of expression. ③The whole question is really this: have we essentially changed?［334 words］
+19. This passage is mainly.
+［A］ a survey of new approaches to art		［B］ a review of Futurist poetry
+［C］ about merits of the Futurist movement	［D］ about laws and requirements of literature
+20. When a novel literary idea appears, people should try to.
+［A］ determine its purposes				［B］ ignore its flaws
+［C］ follow the new fashions				［D］ accept the principles
+21. Futurists claim that we must.
+［A］ increase the production of literature 		［B］ use poetry to relieve modern stress
+［C］ develop new modes of expression		［D］ avoid using adjectives and verbs
+22. The author believes that Futurist poetry is.
+［A］ based on reasonable principles
+［B］ new and acceptable to ordinary people
+［C］ indicative of a basic change in human nature  
+［D］ more of a transient phenomenon than literature
+Passage 4
+①（23）Aimlessness has hardly been typical of the postwar Japan whose productivity and social harmony are the envy of the United States and Europe. ②But increasingly the Japanese are seeing a decline of the traditional work-moral values. ③Ten years ago young people were hardworking and saw their jobs as their primary reason for being, but now Japan has largely fulfilled its economic needs, and young people don’t know where they should go next.
+①The coming of age of the postwar baby boom and an entry of women into the male-dominated job market have limited the opportunities of teen-agers who are already questioning the heavy personal sacrifices involved in climbing Japan’s rigid social ladder to good schools and jobs. ②In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life, compared with 67.2 percent of students in the United States. ③In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their counterparts in the 10 other countries surveyed. 
+①While often praised by foreigners for its emphasis on the basics, Japanese education tends to stress test taking and mechanical learning over creativity and self-expression. ②（25）“Those things that do not show up in the test scores—personality, ability, courage or humanity—are completely ignored,” says Toshiki Kaifu, chairman of the ruling Liberal Democratic Party’s education committee. ③“Frustration against this kind of thing leads kids to drop out and run wild.” ④Last year Japan experienced 2，125 incidents of school violence, including 929 assaults on teachers. ⑤Amid the outcry, many conservative leaders are seeking a return to the prewar emphasis on moral education. ⑥Last year Mitsuo Setoyama, who was then education minister, raised eyebrows when he argued that liberal reforms introduced by the American occupation authorities after World War II had weakened the “Japanese morality of respect for parents.”
+①（26）But that may have more to do with Japanese life-styles. ②“In Japan,” says educator Yoko Muro, “it’s never a question of whether you enjoy your job and your life, but only how much you can endure.” ③With economic growth has come centralization; fully 76 percent of Japan’s 119 million citizens live in cities where community and the extended family have been abandoned in favor of isolated, two-generation households. ④Urban Japanese have long endured lengthy commutes (travels to and from work) and crowded living conditions, but as the old group and family values weaken, the discomfort is beginning to tell. ⑤In the past decade, the Japanese divorce rate, while still well below that of the United States, has increased by more than 50 percent, and suicides have increased by nearly one-quarter.［447 words］
+23. In the Westerners’ eyes, the postwar Japan was.
+［A］ under aimless development		［B］ a positive example
+［C］ a rival to the West				［D］ on the decline
+24. According to the author, what may chiefly be responsible for the moral decline of Japanese society?
+［A］ Women’s participation in social activities is limited.
+［B］ More workers are dissatisfied with their jobs.
+［C］ Excessive emphasis has been placed on the basics.
+［D］ The life-style has been influenced by Western values.
+25. Which of the following is true according to the author?
+［A］ Japanese education is praised for helping the young climb the social ladder.
+［B］ Japanese education is characterized by mechanical learning as well as creativity.
+［C］ More stress should be placed on the cultivation of creativity.
+［D］ Dropping out leads to frustration against test taking.
+26. The change in Japanese life-style is revealed in the fact that.
+［A］ the young are less tolerant of discomforts in life
+［B］ the divorce rate in Japan exceeds that in the U.S.
+［C］ the Japanese endure more than ever before
+［D］ the Japanese appreciate their present life
+Passage 5
+①（27）If ambition is to be well regarded, the rewards of ambition—wealth, distinction, control over one’s destiny—must be deemed worthy of the sacrifices made on ambition’s behalf. ②If the tradition of ambition is to have vitality, it must be widely shared; and it especially must be highly regarded by people who are themselves admired, the educated not least among them. ③（28）In an odd way, however, it is the educated who have claimed to have given up on ambition as an ideal. ④What is odd is that they have perhaps most benefited from ambition—if not always their own then that of their parents and grandparents. ⑤There is a heavy note of hypocrisy in this, a case of closing the barn door after the horses have escaped—with the educated themselves riding on them. 
+①Certainly people do not seem less interested in success and its signs now than formerly. ②Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago.③（29）What has happened is that people cannot confess fully to their dreams, as easily and openly as once they could, lest they be thought pushing, acquisitive and vulgar. ④Instead, we are treated to fine hypocritical spectacles, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating participatory democracy in all phases of life, whose own children are enrolled in private schools. ⑤For such people and many more perhaps not so exceptional, the proper formulation is, “Succeed at all costs but avoid appearing ambitious.” 
+①The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive. ②As a result, the support for ambition as a healthy impulse, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. ③This does not mean that ambition is at an end, that people no longer feel its stirrings and promptings, but only that, no longer openly honored, it is less openly professed. ④Consequences follow from this, of course, some of which are that ambition is driven underground, or made sly. ⑤Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life. ［431 words］
+27. It is generally believed that ambition may be well regarded if.
+［A］ its returns well compensate for the sacrifices	［B］ it is rewarded with money, fame and power
+［C］ its goals are spiritual rather than material 	［D］ it is shared by the rich and the famous
+28. The last sentence of the first paragraph most probably implies that it is.
+［A］ customary of the educated to discard ambition in words
+［B］ too late to check ambition once it has been let out
+［C］ dishonest to deny ambition after the fulfillment of the goal
+［D］ impractical for the educated to enjoy benefits from ambition
+29. Some people do not openly admit they have ambition because.
+［A］ they think of it as immoral
+［B］ their pursuits are not fame or wealth
+［C］ ambition is not closely related to material benefits
+［D］ they do not want to appear greedy and contemptible
+30. From the last paragraph the conclusion can be drawn that ambition should be maintained.
+［A］ secretly and vigorously		［B］ openly and enthusiastically
+［C］ easily and momentarily		［D］ verbally and spiritually
+Part III English-Chinese Translation
+Directions:
+Read the following passage carefully and then translate the underlined segments into Chinese. Your translation must be written neatly on ANSWER SHEET 2. (15 points)
+Governments throughout the world act on the assumption that the welfare of their people depends largely on the economic strength and wealth of the community. 31）Under modern conditions, this requires varying measures of centralized control and hence the help of specialized scientists such as economists and operational research experts. 32）Furthermore, it is obvious that the strength of a country’s economy is directly bound up with the efficiency of its agriculture and industry, and that this in turn rests upon the efforts of scientists and technologists of all kinds. It also means that governments are increasingly compelled to interfere in these sectors in order to step up production and ensure that it is utilized to the best advantage. For example, they may encourage research in various ways, including the setting up of their own research centers; they may alter the structure of education, or interfere in order to reduce the wastage of natural resources or tap resources hitherto unexploited; or they may cooperate directly in the growing number of international projects related to science, economics and industry. In any case, all such interventions are heavily dependent on scientific advice and also scientific and technological manpower of all kinds.
+33）Owing to the remarkable development in mass-communications, people everywhere are feeling new wants and are being exposed to new customs and ideas, while governments are often forced to introduce still further innovations for the reasons given above. At the same time, the normal rate of social change throughout the world is taking place at a vastly accelerated speed compared with the past. For example, 34）in the early industrialized countries of Europe the process of industrialization—with all the far-reaching changes in social patterns that followed—was spread over nearly a century, whereas nowadays a developing nation may undergo the same process in a decade or so. All this has the effect of building up unusual pressures and tensions within the community and consequently presents serious problems for the governments concerned. 35）Additional social stresses may also occur because of the population explosion or problems arising from mass migration movements—themselves made relatively easy nowadays by modern means of transport. As a result of all these factors, governments are becoming increasingly dependent on biologists and social scientists for planning the appropriate programs and putting them into effect. ［390 words］
+Section IV Writing(15 points)
+36.Directions:
+A. Study the following two pictures carefully and write an essay of at least 150 words.
+B. Your essay must be written neatly on ANSWER SHEET 2.
+C. Your essay should meet the requirements below:
+1）Describe the pictures.
+2）Deduce the purpose of the painter of the pictures.
+3）Suggest counter-measures.
+ 
+1999年全国硕士研究生招生考试英语试题
+
+Section I   Use of English
+Directions：
+For each numbered blank in the following passage, there are four choices marked ［A］, ［B］, ［C］ and ［D］. Choose the best one and mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (10 points)
+Industrial safety does not just happen. Companies  1   low accident rates plan their safety programs, work hard to organize them, and continue working to keep them  2  and active. When the work is well done, a  3  of accidentfree operations is established  4  time lost due to injuries is kept at a minimum.
+Successful safety programs may  5  greatly in the emphasis placed on certain aspects of the program. Some place great emphasis on mechanical guarding. Others stress safe work practices by  6  rules or regulations.  7  others depend on an emotional appeal to the worker. But, there are certain basic ideas that must be used in every program if maximum results are to be obtained.
+There can be no question about the value of a safety program. From a financial standpoint alone, safety  8  . The fewer the injury  9  , the better the workman’s insurance rate. This may mean the difference between operating at  10  or at a loss. 
+1.［A］ at			［B］ in			［C］ on			［D］ with
+2.［A］ alive			［B］ vivid		［C］ mobile			［D］ diverse
+3.［A］ regulation	［B］ climate	［C］ circumstance	［D］ requirement
+4.［A］ where		［B］ how		［C］ what			［D］ unless
+5.［A］ alter			［B］ differ		［C］ shift			［D］ distinguish
+6.［A］ constituting	［B］ aggravating	［C］ observing		［D］ justifying
+7.［A］ Some		［B］ Many		［C］ Even			［D］ Still
+8.［A］ comes off		［B］ turns up	［C］ pays off		［D］ holds up
+9.［A］ claims		［B］ reports		［C］ declarations		［D］ proclamations
+10.［A］ an advantage	［B］ a benefit	［C］ an interest		［D］ a profit
+
+
+Section II Reading Comprehension
+
+Directions:
+Each of the passages below is followed by some questions. For each question there are four answers marked ［A］, ［B］, ［C］ and ［D］. Read the passages carefully and choose the best answer to each of the questions. Then mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (40 points)
+
+Passage 1
+It’s a rough world out there. Step outside and you could break a leg slipping on your doormat. Light up the stove and you could burn down the house. Luckily, if the doormat or stove failed to warn of coming disaster, a successful lawsuit might compensate you for your troubles. Or so the thinking has gone since the early 1980s, when juries began holding more companies liable for their customers’ misfortunes. 
+Feeling threatened, companies responded by writing everlonger warning labels, trying to anticipate every possible accident. Today, stepladders carry labels several inches long that warn, among other things, that you might—surprise!—fall off. The label on a child’s Batman cape cautions that the toy “does not enable user to fly”.
+While warnings are often appropriate and necessary—the dangers of drug interactions, for example—and many are required by state or federal regulations, it isn’t clear that they actually protect the manufacturers and sellers from liability if a customer is injured. About 50 percent of the companies lose when injured customers take them to court.
+Now the tide appears to be turning. As personal injury claims continue as before, some courts are beginning to side with defendants, especially in cases where a warning label probably wouldn’t have changed anything. In May, Julie Nimmons, president of Schutt Sports in Illinois, successfully fought a lawsuit involving a football player who was paralyzed in a game while wearing a Schutt helmet. “We’re really sorry he has become paralyzed, but helmets aren’t designed to prevent those kinds of injuries, ” says Nimmons. The jury agreed that the nature of the game, not the helmet, was the reason for the athlete’s injury. At the same time, the American Law Institute—a group of judges, lawyers, and academics whose recommendations carry substantial weight—issued new guidelines for tort law stating that companies need not warn customers of obvious dangers or bombard them with a lengthy list of possible ones. “Important information can get buried in a sea of trivialities, ” says a law professor at Cornell Law School who helped draft the new guidelines. If the moderate end of the legal community has its way, the information on products might actually be provided for the benefit of customers and not as protection against legal liability.
+
+11. What were things like in 1980s when accidents happened?
+［A］ Customers might be relieved of their disasters through lawsuits.
+［B］ Injured customers could expect protection from the legal system. 
+［C］ Companies would avoid being sued by providing new warnings.
+［D］ Juries tended to find fault with the compensations companies promised.
+12. Manufacturers as mentioned in the passage tend to. 
+［A］ satisfy customers by writing long warnings on products
+［B］ become honest in describing the inadequacies of their products 
+［C］ make the best use of labels to avoid legal liability
+［D］ feel obliged to view customers’ safety as their first concern 
+13. The case of Schutt helmet demonstrated that.
+［A］ some injury claims were no longer supported by law 
+［B］ helmets were not designed to prevent injuries
+［C］ product labels would eventually be discarded
+［D］ some sports games might lose popularity with athletes
+14. The author’s attitude towards the issue seems to be.
+［A］ biased			［B］ indifferent		［C］ puzzling		［D］ objective
+
+Passage 2
+In the first year or so of Web business, most of the action has revolved around efforts to tap the consumer market. More recently, as the Web proved to be more than a fashion, companies have started to buy and sell products and services with one another. Such businesstobusiness sales make sense because business people typically know what product they’re looking for.
+Nonetheless, many companies still hesitate to use the Web because of doubts about its reliability. “Businesses need to feel they can trust the pathway between them and the supplier,” says senior analyst Blane Erwin of Forrester Research. Some companies are limiting the risk by conducting online transactions only with established business partners who are given access to the company’s private intranet.
+Another major shift in the model for Internet commerce concerns the technology available for marketing. Until recently, Internet marketing activities have focused on strategies to “pull” customers into sites. In the past year, however, software companies have developed tools that allow companies to “push” information directly out to consumers, transmitting marketing messages directly to targeted customers. Most notably, the Pointcast Network uses a screen saver to deliver a continually updated stream of news and advertisements to subscribers’ computer monitors. Subscribers can customize the information they want to receive and proceed directly to a company’s Web site. Companies such as Virtual Vineyards are already starting to use similar technologies to push messages to customers about special sales, product offerings, or other events. But push technology has earned the contempt of many Web users. Online culture thinks highly of the notion that the information flowing onto the screen comes there by specific request. Once commercial promotion begins to fill the screen uninvited, the distinction between the Web and television fades. That’s a prospect that horrifies Net purists.
+But it is hardly inevitable that companies on the Web will need to resort to push strategies to make money. The examples of Virtual Vineyards, Amazon .com, and other pioneers show that a Web site selling the right kind of products with the right mix of interactivity, hospitality, and security will attract online customers. And the cost of computing power continues to free fall, which is a good sign for any enterprise setting up shop in silicon. People looking back 5 or 10 years from now may well wonder why so few companies took the online plunge.
+
+15. We learn from the beginning of the passage that Web business. 
+［A］ has been striving to expand its market 	
+［B］ intended to follow a fanciful fashion
+［C］ tried but in vain to control the market	
+［D］ has been booming for one year or so
+16. Speaking of the online technology available for marketing, the author implies that.
+［A］ the technology is popular with many Web users
+［B］ businesses have faith in the reliability of online transactions 
+［C］ there is a radical change in strategy         
+［D］ it is accessible limitedly to established partners
+17. In the view of Net purists, .
+［A］ there should be no marketing messages in online culture 
+［B］ money making should be given priority to on the Web
+［C］ the Web should be able to function as the television set
+［D］ there should be no online commercial information without requests
+18. We learn from the last paragraph that.
+［A］ pushing information on the Web is essential to Internet commerce
+［B］ interactivity, hospitality and security are important to online customers 
+［C］ leading companies began to take the online plunge decades ago
+［D］ setting up shops in silicon is independent of the cost of computing power
+
+Passage 3
+An invisible border divides those arguing for computers in the classroom on the behalf of students’ career prospects and those arguing for computers in the classroom for broader reasons of radical educational reform. Very few writers on the subject have explored this distinction—indeed, contradiction—which goes to the heart of what is wrong with the campaign to put computers in the classroom.
+An education that aims at getting a student a certain kind of job is a technical education, justified for reasons radically different from why education is universally required by law. It is not simply to raise everyone’s job prospects that all children are legally required to attend school into their teens. Rather, we have a certain conception of the American citizen, a character who is incomplete if he cannot competently assess how his livelihood and happiness are affected by things outside of himself. But this was not always the case; before it was legally required for all children to attend school until a certain age, it was widely accepted that some were just not equipped by nature to pursue this kind of education. With optimism characteristic of all industrialized countries, we came to accept that everyone is fit to be educated. Computereducation advocates forsake this optimistic notion for a pessimism that betrays their otherwise cheery outlook. Banking on the confusion between educational and vocational reasons for bringing computers into schools, computered advocates often emphasize the job prospects of graduates over their educational achievement.
+There are some good arguments for a technical education given the right kind of student. Many European schools introduce the concept of professional training early on in order to make sure children are properly equipped for the professions they want to join. It is, however, presumptuous to insist that there will only be so many jobs for so many scientists, so many businessmen, so many accountants. Besides, this is unlikely to produce the needed number of every kind of professional in a country as large as ours and where the economy is spread over so many states and involves so many international corporations.
+But, for a small group of students, professional training might be the way to go since welldeveloped skills, all other factors being equal, can be the difference between having a job and not. Of course, the basics of using any computer these days are very simple. It does not take a lifelong acquaintance to pick up various software programs. If one wanted to become a computer engineer, that is, of course, an entirely different story. Basic computer skills take—at the very longest—a couple of months to learn. In any case, basic computer skills are only complementary to the host of real skills that are necessary to becoming any kind of professional. It should be observed, of course, that no school, vocational or not, is helped by a confusion over its purpose. 
+
+19. The author thinks the present rush to put computers in the classroom is. 
+［A］ farreaching	［B］ dubiously oriented 
+［C］ selfcontradictory	［D］ radically reformatory
+20. The belief that education is indispensable to all children. 
+［A］ is indicative of a pessimism in disguise	
+［B］ came into being along with the arrival of computers
+［C］ is deeply rooted in the minds of computered advocates
+［D］ originated from the optimistic attitude of industrialized countries
+21. It could be inferred from the passage that in the author’s country the European model of professional training is.
+［A］ dependent upon the starting age of candidates 	
+［B］ worth trying in various social sections
+［C］ of little practical value	
+［D］ attractive to every kind of professional
+22. According to the author, basic computer skills should be. 
+［A］ included as an auxiliary course in school
+［B］ highlighted in acquisition of professional qualifications 
+［C］ mastered through a lifelong course   
+［D］ equally emphasized by any school, vocational or otherwise
+
+Passage 4
+When a Scottish research team startled the world by revealing 3 months ago that it had cloned an adult sheep, President Clinton moved swiftly. Declaring that he was opposed to using this unusual animal husbandry technique to clone humans, he ordered that federal funds not be used for such an experiment—although no one had proposed to do so—and asked an independent panel of experts chaired by Princeton President Harold Shapiro to report back to the White House in 90 days with recommendations for a national policy on human cloning. That group—the National Bioethics Advisory Commission (NBAC)—has been working feverishly to put its wisdom on paper, and at a meeting on 17 May, members agreed on a nearfinal draft of their recommendations.
+NBAC will ask that Clinton’s 90day ban on federal funds for human cloning be extended indefinitely, and possibly that it be made law. But NBAC members are planning to word the recommendation narrowly to avoid new restrictions on research that involves the cloning of human DNA or cells—routine in molecular biology. The panel has not yet reached agreement on a crucial question, however, whether to recommend legislation that would make it a crime for private funding to be used for human cloning.
+In a draft preface to the recommendations, discussed at the 17 May meeting, Shapiro suggested that the panel had found a broad consensus that it would be “morally unacceptable to attempt to create a human child by adult nuclear cloning.” Shapiro explained during the meeting that the moral doubt stems mainly from fears about the risk to the health of the child. The panel then informally accepted several general conclusions, although some details have not been settled.
+NBAC plans to call for a continued ban on federal government funding for any attempt to clone body cell nuclei to create a child. Because current federal law already forbids the use of federal funds to create embryos (the earliest stage of human offspring before birth) for research or to knowingly endanger an embryo’s life, NBAC will remain silent on embryo research.
+NBAC members also indicated that they would appeal to privately funded researchers and clinics not to try to clone humans by body cell nuclear transfer. But they were divided on whether to go further by calling for a federal law that would impose a complete ban on human cloning. Shapiro and most members favored an appeal for such legislation, but in a phone interview, he said this issue was still “up in the air”.
+
+23. We can learn from the first paragraph that.
+［A］ federal funds have been used in a project to clone humans
+［B］ the White House responded strongly to the news of cloning
+［C］ NBAC was authorized to control the misuse of cloning technique
+［D］ the White House has got the panel’s recommendations on cloning
+24. The panel agreed on all of the following except that.
+［A］ the ban on federal funds for human cloning should be made a law 
+［B］ the cloning of human DNA is not to be put under more control
+［C］ it is criminal to use private funding for human cloning
+［D］ it would be against ethical values to clone a human being
+25. NBAC will leave the issue of embryo research undiscussed because.
+［A］ embryo research is just a current development of cloning
+［B］ the health of the child is not the main concern of embryo research 
+［C］ an embryo’s life will not be endangered in embryo research
+［D］ the issue is explicitly stated and settled in the law
+26. It can be inferred from the last paragraph that.
+［A］ some NBAC members hesitate to ban human cloning completely 
+［B］ a law banning human cloning is to be passed in no time
+［C］ privately funded researchers will respond positively to NBAC’s appeal 
+［D］ the issue of human cloning will soon be settled
+
+Passage 5
+Science, in practice, depends far less on the experiments it prepares than on the preparedness of the minds of the men who watch the experiments. Sir Isaac Newton supposedly discovered gravity through the fall of an apple. Apples had been falling in many places for centuries and thousands of people had seen them fall. But Newton for years had been curious about the cause of the orbital motion of the moon and planets. What kept them in place? Why didn’t they fall out of the sky? The fact that the apple fell down toward the earth and not up into the tree answered the question he had been asking himself about those larger fruits of the heavens, the moon and the planets.
+How many men would have considered the possibility of an apple falling up into the tree? Newton did because he was not trying to predict anything. He was just wondering. His mind was ready for the unpredictable. Unpredictability is part of the essential nature of research. If you don’t have unpredictable things, you don’t have research. Scientists tend to forget this when writing their cut and dried reports for the technical journals, but history is filled with examples of it.
+In talking to some scientists, particularly younger ones, you might gather the impression that they find the “scientific method” a substitute for imaginative thought. I’ve attended research conferences where a scientist has been asked what he thinks about the advisability of continuing a certain experiment. The scientist has frowned, looked at the graphs, and said, “the data are still inconclusive.” “We know that,” the men from the budget office have said, “but what do you think? Is it worthwhile going on? What do you think we might expect?” The scientist has been shocked at having even been asked to speculate.
+What this amounts to, of course, is that the scientist has become the victim of his own writings. He has put forward unquestioned claims so consistently that he not only believes them himself, but has convinced industrial and business management that they are true. If experiments are planned and carried out according to plan as faithfully as the reports in the science journals indicate, then it is perfectly logical for management to expect research to produce results measurable in dollars and cents. It is entirely reasonable for auditors to believe that scientists who know exactly where they are going and how they will get there should not be distracted by the necessity of keeping one eye on the cash register while the other eye is on the microscope. Nor, if regularity and conformity to a standard pattern are as desirable to the scientist as the writing of his papers would appear to reflect, is management to be blamed for discriminating against the “odd balls” among researchers in favor of more conventional thinkers who “work well with the team”.
+
+27. The author wants to prove with the example of Isaac Newton that.
+［A］ inquiring minds are more important than scientific experiments
+［B］ science advances when fruitful researches are conducted 
+［C］ scientists seldom forget the essential nature of research
+［D］ unpredictability weighs less than prediction in scientific research
+28. The author asserts that scientists.
+［A］ shouldn’t replace “scientific method” with imaginative thought 
+［B］ shouldn’t neglect to speculate on unpredictable things
+［C］ should write more concise reports for technical journals 
+［D］ should be confident about their research findings
+29. It seems that some young scientists.
+［A］ have a keen interest in prediction	
+［B］ often speculate on the future
+［C］ think highly of creative thinking	
+［D］ stick to “scientific method”
+30. The author implies that the results of scientific research.
+［A］ may not be as profitable as they are expected	
+［B］ can be measured in dollars and cents
+［C］ rely on conformity to a standard pattern	
+［D］ are mostly underestimated by management
+
+Part III English-Chinese Translation
+Directions:
+Read the following passage carefully and then translate the underlined segments into Chinese. Your translation must be written clearly on ANSWER SHEET 2. (15 points)
+31）While there are almost as many definitions of history as there are historians, modern practice most closely conforms to one that sees history as the attempt to recreate and explain the significant events of the past. Caught in the web of its own time and place, each generation of historians determines anew what is significant for it in the past. In this search the evidence found is always incomplete and scattered; it is also frequently partial or partisan. The irony of the historian’s craft is that its practitioners always know that their efforts are but contributions to an unending process.
+32）Interest in historical methods has arisen less through external challenge to the validity of history as an intellectual discipline and more from internal quarrels among historians themselves. While history once revered its affinity to literature and philosophy, the emerging social sciences seemed to afford greater opportunities for asking new questions and providing rewarding approaches to an understanding of the past. Social science methodologies had to be adapted to a discipline governed by the primacy of historical sources rather than the imperatives of the contemporary world. 33）During this transfer, traditional historical methods were augmented by additional methodologies designed to interpret the new forms of evidence in the historical study.
+Methodology is a term that remains inherently ambiguous in the historical profession. 34）There is no agreement whether methodology refers to the concepts peculiar to historical work in general or to the research techniques appropriate to the various branches of historical inquiry. Historians, especially those so blinded by their research interests that they have been accused of “tunnel method,” frequently fall victim to the “technical fallacy.” Also common in the natural sciences, the technicist fallacy mistakenly identifies the discipline as a whole with certain parts of its technical implementation. 
+35）It applies equally to traditional historians who view history as only the external and internal criticism of sources, and to social science historians who equate their activity with specific techniques.
+
+Section IV Writing(15 points)
+
+36. Directions:
+A. Study the following graphs carefully and write an essay in at less than 150 words.
+B. Your essay must be written clearly on the ANSWER SHEET 2.
+C. Your essay should cover three points:
+a. effect of the country’s growing human population on its wildlife,
+b. possible reasons for the effect,
+c. your suggestion for wildlife protection
+       
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+1998年全国硕士研究生招生考试英语试题
+Section I   Use of English
+Directions:
+For each numbered blank in the following passage, there are four choices marked [A], [B], [C], and [D]. Choose the best one and mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (10 points)
+Until recent  l  y most historians spoke very critically of the Industrial Revolution. They1that in the long run industrialization greatly raised the standard of living for the  2  man. But they insisted that its  3  results during the period from 1750 to 1850 were widespread poverty and misery for the  4  of the English population.   5  contrast, they saw in the preceding hundred years from 1650 to 1750, when England was still a  6  agricultural country, a period of great abundance and prosperity.
+	This view,  7  , is generally thought to be wrong. Specialists  8  history and economics, have  9  two things: that the period from 1650 to 1750 was  10  by great poverty, and that industrialization certainly did not worsen and may have actually improved the conditions for the majority of the populace.
+1. ［A］ admitted		［B］ believed		［C］ claimed		［D］ predicted
+2. ［A］ plain		［B］ average		［C］ mean			［D］ normal
+3. ［A］ momentary	［B］ prompt		［C］ instant			［D］ immediate 
+4. ［A］ bulk		［B］ host			［C］ gross			［D］ magnitude
+5. ［A］ On			［B］ With			［C］ For			［D］ By
+6. ［A］ broadly		［B］ thoroughly		［C］ generally		［D］ completely 
+7. ［A］ however		［B］ meanwhile		［C］ therefore		［D］ moreover
+8. ［A］ at			［B］ in				［C］ about			［D］ for 
+9. ［A］ manifested	［B］ approved		［C］ shown			［D］ speculated
+10. ［A］ noted		［B］ impressed 		［C］ labeled		［D］ marked
+Section II Reading Comprehension
+Directions:
+Each of the passages below is followed by some questions. For each question there are four answers marked [A], [B], [C] and [D]. Read the passages carefully and choose the best answer to each of the questions. Then mark your answer on the ANSWER SHEET 1 by blackening the corresponding letter in the brackets. (40 points)
+Passage 1
+Few creations of big technology capture the imagination like giant dams. Perhaps it is humankind’s long suffering at the mercy of flood and drought that makes the idea of forcing the waters to do our bidding so fascinating. But to be fascinated is also, sometimes, to be blind. Several giant dam projects threaten to do more harm than good.
+The lesson from dams is that big is not always beautiful. It doesn’t help that building a big, powerful dam has become a symbol of achievement for nations and people striving to assert themselves. Egypt’s leadership in the Arab world was cemented by the Aswan High Dam. Turkey’s bid for First World status includes the giant Ataturk Dam.
+But big dams tend not to work as intended. The Aswan Dam, for example, stopped the Nile flooding but deprived Egypt of the fertile silt that floods left -- all in return for a giant reservoir of disease which is now so full of silt that it barely generates electricity.
+And yet, the myth of controlling the waters persists. This week, in the heart of civilized Europe, Slovaks and Hungarians stopped just short of sending in the troops in their contention over a dam on the Danube. The huge complex will probably have all the usual problems of big dams. But Slovakia is bidding for independence from the Czechs, and now needs a dam to prove itself.
+Meanwhile, in India, the World Bank has given the go-ahead to the even more wrong-headed Narmada Dam. And the bank has done this even though its advisors say the dam will cause hardship for the powerless and environmental destruction. The benefits are for the powerful, but they are far from guaranteed.
+Proper, scientific study of the impacts of dams and of the cost and benefits of controlling water can help to resolve these conflicts. Hydroelectric power and flood control and irrigation are possible without building monster dams. But when you are dealing with myths, it is hard to be either proper, or scientific. It is time that the world learned the lessons of Aswan. You don’t need a dam to be saved.
+11.	The third sentence of Paragraph 1 implies that ________.
+[A] people would be happy if they shut their eyes to reality	[B] the blind could be happier than the sighted
+[C] over-excited people tend to neglect vital things	[D] fascination makes people lose their eyesight
+12.	In Paragraph 5, “the powerless” probably refers to ________.
+[A] areas short of electricity	[B] dams without power stations
+[C] poor countries around India	[D] common people in the Narmada Dam area
+13.	What is the myth concerning giant dams?
+[A] They bring in more fertile soil.	[B] They help defend the country.
+[C] They strengthen international ties.	[D] They have universal control of the waters.
+14.	What the author tries to suggest may best be interpreted as ________.
+[A] “It’s no use crying over spilt milk”	[B] “More haste, less speed”
+[C] “Look before you leap”	[D] “He who laughs last laughs best”
+Passage 2
+Well, no gain without pain, they say. But what about pain without gain? Everywhere you go in America, you hear tales of corporate revival. What is harder to establish is whether the productivity revolution that businessmen assume they are presiding over is for real.
+The official statistics are mildly discouraging. They show that, if you lump manufacturing and services together, productivity has grown on average by 1.2% since 1987. That is somewhat faster than the average during the previous decade. And since 1991, productivity has increased by about 2% a year, which is more than twice the 1978-87 average. The trouble is that part of the recent acceleration is due to the usual rebound that occurs at this point in a business cycle, and so is not conclusive evidence of a revival in the underlying trend. There is, as Robert Rubin, the treasury secretary, says, a “disjunction” between the mass of business anecdote that points to a leap in productivity and the picture reflected by the statistics.
+Some of this can be easily explained. New ways of organizing the workplace -- all that re-engineering and downsizing -- are only one contribution to the overall productivity of an economy, which is driven by many other factors such as joint investment in equipment and machinery, new technology, and investment in education and training. Moreover, most of the changes that companies make are intended to keep them profitable, and this need not always mean increasing productivity: switching to new markets or improving quality can matter just as much.
+Two other explanations are more speculative. First, some of the business restructuring of recent years may have been ineptly done. Second, even if it was well done, it may have spread much less widely than people suppose.
+Leonard Schlesinger, a Harvard academic and former chief executive of Au Bong Pain, a rapidly growing chain of bakery cafes, says that much “re-engineering” has been crude. In many cases, he believes, the loss of revenue has been greater than the reductions in cost. His colleague, Michael Beer, says that far too many companies have applied re-engineering in a mechanistic fashion, chopping out costs without giving sufficient thought to long-term profitability. BBDO’s Al Rosenshine is blunter. He dismisses a lot of the work of re-engineering consultants as mere rubbish -- “the worst sort of ambulance chasing.”
+15.According to the author, the American economic situation is ________.
+[A] not as good as it seems	[B] at its turning point
+[C] much better than it seems	[D] near to complete recovery
+16.	The official statistics on productivity growth ________.
+[A] exclude the usual rebound in a business cycle	[B] fall short of businessmen’s anticipation
+[C] meet the expectation of business people	[D] fail to reflect the true state of economy
+17.	The author raises the question “what about pain without gain?” because ________.
+[A] he questions the truth of “no gain without pain”
+[B] he does not think the productivity revolution works
+[C] he wonders if the official statistics are misleading
+[D] he has conclusive evidence for the revival of businesses
+18.	Which of the following statements is NOT mentioned in the passage?
+[A] Radical reforms are essential for the increase of productivity.
+[B] New ways of organizing workplaces may help to increase productivity.
+[C] The reduction of costs is not a sure way to gain long-term profitability.
+[D] The consultants are a bunch of good-for-nothings.
+Passage 3
+Science has long had an uneasy relationship with other aspects of culture. Think of Gallileo’s 17th-century trial for his rebelling belief before the Catholic Church or poet William Blake’s harsh remarks against the mechanistic worldview of Isaac Newton. The schism between science and the humanities has, if anything, deepened in this century.
+Until recently, the scientific community was so powerful that it could afford to ignore its critics -- but no longer. As funding for science has declined, scientists have attacked “anti-science” in several books, notably Higher Superstition, by Paul R. Gross, a biologist at the University of Virginia, and Norman Levitt, a mathematician at Rutgers University; and The Demon-Haunted World, by Carl Sagan of Cornell University.
+Defenders of science have also voiced their concerns at meetings such as “The Flight from Science and Reason,” held in New York City in 1995, and “Science in the Age of (Mis) information,” which assembled last June near Buffalo.
+Anti-science clearly means different things to different people. Gross and Levitt find fault primarily with sociologists, philosophers and other academics who have questioned science’s objectivity. Sagan is more concerned with those who believe in ghosts, creationism and other phenomena that contradict the scientific worldview.
+A survey of news stories in 1996 reveals that the anti-science tag has been attached to many other groups as well, from authorities who advocated the elimination of the last remaining stocks of smallpox virus to Republicans who advocated decreased funding for basic research.
+Few would dispute that the term applies to the Unabomber, whose manifesto, published in 1995, scorns science and longs for return to a pre-technological utopia. But surely that does not mean environmentalists concerned about uncontrolled industrial growth are anti-science, as an essay in US News & World Report last May seemed to suggest.
+The environmentalists, inevitably, respond to such critics. The true enemies of science, argues Paul Ehrlich of Stanford University, a pioneer of environmental studies, are those who question the evidence supporting global warming, the depletion of the ozone layer and other consequences of industrial growth.
+Indeed, some observers fear that the anti-science epithet is in danger of becoming meaningless. “The term ‘anti-science’ can lump together too many, quite different things,” notes Harvard University philosopher Gerald Holton in his 1993 work Science and Anti-Science. “They have in common only one thing that they tend to annoy or threaten those who regard themselves as more enlightened.”
+19.The word “schism” (Line 4, Paragraph 1) in the context probably means ________.
+[A] confrontation   [B] dissatisfaction   [C] separation   [D] contempt
+20.	Paragraphs 2 and 3 are written to ________.
+[A] discuss the cause of the decline of science’s power	[B] show the author’s sympathy with scientists
+[C] explain the way in which science develops	[D] exemplify the division of science and the humanities
+21.	Which of the following is true according to the passage?
+[A] Environmentalists were blamed for anti-science in an essay.
+[B] Politicians are not subject to the labeling of anti-science.
+[C] The “more enlightened” tend to tag others as anti-science.
+[D] Tagging environmentalists as “anti-science” is justifiable.
+22.	The author’s attitude toward the issue of “science vs. anti-science” is ________.
+[A] impartial   [B] subjective   [C] biased    [D] puzzling
+Passage 4
+Emerging from the 1980 census is the picture of a nation developing more and more regional competition, as population growth in the Northeast and Midwest reaches a near standstill.
+This development -- and its strong implications for US politics and economy in years ahead -- has enthroned the South as America’s most densely populated region for the first time in the history of the nation’s head counting.
+Altogether, the US population rose in the 1970s by 23.2 million people -- numerically the third-largest growth ever recorded in a single decade. Even so, that gain adds up to only 11.4 percent, lowest in American annual records except for the Depression years.
+Americans have been migrating south and west in larger numbers since World War II, and the pattern still prevails.
+Three sun-belt states -- Florida, Texas and California -- together had nearly 10 million more people in 1980 than a decade earlier. Among large cities, San Diego moved from 14th to 8th and San Antonio from 15th to 10th -- with Cleveland and Washington. D. C., dropping out of the top 10.
+Not all that shift can be attributed to the movement out of the snow belt, census officials say. Nonstop waves of immigrants played a role, too -- and so did bigger crops of babies as yesterday’s “baby boom” generation reached its child bearing years.
+Moreover, demographers see the continuing shift south and west as joined by a related but newer phenomenon: More and more, Americans apparently are looking not just for places with more jobs but with fewer people, too. Some instances—
+■Regionally, the Rocky Mountain states reported the most rapid growth rate -- 37.1 percent since 1970 in a vast area with only 5 percent of the US population.
+■Among states, Nevada and Arizona grew fastest of all: 63.5 and 53.1 percent respectively. Except for Florida and Texas, the top 10 in rate of growth is composed of Western states with 7.5 million people -- about 9 per square mile.
+The flight from overcrowdedness affects the migration from snow belt to more bearable climates.
+Nowhere do 1980 census statistics dramatize more the American search for spacious living than in the Far West. There, California added 3.7 million to its population in the 1970s, more than any other state.
+In that decade, however, large numbers also migrated from California, mostly to other parts of the West. Often they chose -- and still are choosing -- somewhat colder climates such as Oregon, Idaho and Alaska in order to escape smog, crime and other plagues of urbanization in the Golden State.
+As a result, California’s growth rate dropped during the 1970s, to 18.5 percent -- little more than two thirds the 1960s’ growth figure and considerably below that of other Western states.
+23.Discerned from the perplexing picture of population growth the 1980 census provided, America in 1970s ________.
+[A] enjoyed the lowest net growth of population in history
+[B] witnessed a southwestern shift of population
+[C] underwent an unparalleled period of population growth
+[D] brought to a standstill its pattern of migration since World War II
+24.	The census distinguished itself from previous studies on population movement in that ________.
+[A] it stresses the climatic influence on population distribution
+[B] it highlights the contribution of continuous waves of immigrants
+[C] it reveals the Americans’ new pursuit of spacious living
+[D] it elaborates the delayed effects of yesterday’s “baby boom”
+25.	We can see from the available statistics that ________.
+[A] California was once the most thinly populated area in the whole US
+[B] the top 10 states in growth rate of population were all located in the West
+[C] cities with better climates benefited unanimously from migration
+[D] Arizona ranked second of all states in its growth rate of population
+26.	The word “demographers” (Line 1, Paragraph 8) most probably means ________.
+[A] people in favor of the trend of democracy	[B] advocates of migration between states
+[C] scientists engaged in the study of population	[D] conservatives clinging to old patterns of life
+Passage 5
+Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots. Unlike most of the world’s volcanoes, they are not always found at the boundaries of the great drifting plates that make up the earth’s surface; on the contrary, many of them lie deep in the interior of a plate. Most of the hot spots move only slowly, and in some cases the movement of the plates past them has left trails of dead volcanoes. The hot spots and their volcanic trails are milestones that mark the passage of the plates.
+That the plates are moving is now beyond dispute. Africa and South America, for example, are moving away from each other as new material is injected into the sea floor between them. The complementary coastlines and certain geological features that seem to span the ocean are reminders of where the two continents were once joined. The relative motion of the plates carrying these continents has been constructed in detail, but the motion of one plate with respect to another cannot readily be translated into motion with respect to the earth’s interior. It is not possible to determine whether both continents are moving in opposite directions or whether one continent is stationary and the other is drifting away from it. Hot spots, anchored in the deeper layers of the earth, provide the measuring instruments needed to resolve the question. From an analysis of the hot-spot population it appears that the African plate is stationary and that it has not moved during the past 30 million years.
+The significance of hot spots is not confined to their role as a frame of reference. It now appears that they also have an important influence on the geophysical processes that propel the plates across the globe. When a continental plate come to rest over a hot spot, the material rising from deeper layers creates a broad dome. As the dome grows, it develops deep fissures (cracks); in at least a few cases the continent may break entirely along some of these fissures, so that the hot spot initiates the formation of a new ocean. Thus just as earlier theories have explained the mobility of the continents, so hot spots may explain their mutability (inconstancy).
+27.The author believes that ________.
+[A] the motion of the plates corresponds to that of the earth’s interior
+[B] the geological theory about drifting plates has been proved to be true
+[C] the hot spots and the plates move slowly in opposite directions
+[D] the movement of hot spots proves the continents are moving apart
+28.	That Africa and South America were once joined can be deduced from the fact that ________.
+[A] the two continents are still moving in opposite directions
+[B] they have been found to share certain geological features
+[C] the African plate has been stable for 30 million years
+[D] over 100 hot spots are scattered all around the globe
+29.	The hot spot theory may prove useful in explaining ________.
+[A] the structure of the African plates	[B] the revival of dead volcanoes
+[C] the mobility of the continents	[D] the formation of new oceans
+30.	The passage is mainly about ________.
+[A] the features of volcanic activities	
+[B] the importance of the theory about drifting plates
+[C] the significance of hot spots in geophysical studies	
+[D] the process of the formation of volcanoes
+Part III English-Chinese Translation
+Directions:
+Read the following passage carefully and then translate the underlined sentences into Chinese. Your translation must be written clearly on the ANSWER SHEET 2. (15 points)
+They were, by far, the largest and most distant objects that scientists had ever detected: a strip of enormous cosmic clouds some 15 billion light-years from earth. 31) But even more important, it was the farthest that scientists had been able to look into the past, for what they were seeing were the patterns and structures that existed 15 billion years ago. That was just about the moment that the universe was born. What the researchers found was at once both amazing and expected: the US National Aeronautics and Space Administration’s Cosmic Background Explorer satellite -- Cobe -- had discovered landmark evidence that the universe did in fact begin with the primeval explosion that has become known as the Big Bang (the theory that the universe originated in an explosion from a single mass of energy).
+32) The existence of the giant clouds was virtually required for the Big Bang, first put forward in the 1920s, to maintain its reign as the dominant explanation of the cosmos. According to the theory, the universe burst into being as a submicroscopic, unimaginably dense knot of pure energy that flew outward in all directions, emitting radiation as it went, condensing into particles and then into atoms of gas. Over billions of years, the gas was compressed by gravity into galaxies, stars, plants and eventually, even humans.
+Cobe is designed to see just the biggest structures, but astronomers would like to see much smaller hot spots as well, the seeds of local objects like clusters and superclusters of galaxies. They shouldn’t have long to wait. 33) Astrophysicists working with ground-based detectors at the South Pole and balloon-borne instruments are closing in on such structures, and may report their findings soon.
+34) If the small hot spots look as expected, that will be a triumph for yet another scientific idea, a refinement of the Big Bang called the inflationary universe theory. Inflation says that very early on, the universe expanded in size by more than a trillion trillion trillion trillion fold in much less than a second, propelled by a sort of antigravity. 35) Odd though it sounds, cosmic inflation is a scientifically plausible consequence of some respected ideas in elementary particle physics, and many astrophysicists have been convinced for the better part of a decade that it is true.
+31.	________
+32.	________
+33.	________
+34.	________
+35.	________
+Section IV Writing
+Directions:
+[A] Study the following cartoon carefully and write an essay in no less than 150 words.
+[B] Your essay must be written clearly on the ANSWER SHEET 2. (15 points)
+[C] Your essay should meet the requirements below:
+1. Write out the messages conveyed by the cartoon.
+2. Give your commentsn.
+
+ 
+注：图片上的文字是：
+本母鸡承诺：
+①本鸡下蛋不见棱不见角
+②保证有蛋皮，蛋黄和蛋清     
+1997年全国硕士研究生招生考试英语试题
+Section I   Use of English
+Directions：
+For each numbered blank in the following passage, there are four choices marked ［A］, ［B］, ［C］ and ［D］. Choose the best one and mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets. (10 points)
+Manpower Inc., with 560 000 workers, is the world’s largest temporary employment agency. Every morning, its people  1  into the offices and factories of America, seeking a day’s work for a day’s pay. 
+One day at a time. 2  industrial giants like General Motors and IBM struggle to survive 3 reducing the number of employees, Manpower, based in Milwaukee, Wisconsin, is booming.
+4  its economy continues to recover, the US is increasingly becoming a nation of part- timers and temporary workers. This “  5  ” work force is the most important  6  in American business today, and it is  7  changing the relationship between people and their jobs. The phenomenon provides a way for companies to remain globally competitive   8  avoiding market cycles and the growing burdens  9  by employment rules, health care costs and pension plans. For workers it can mean an end to the security, benefits and sense of   10   that came from being a loyal employee. 
+1.［A］ swarm		［B］ stride 		［C］ separate		［D］ slip 
+2.［A］ For			［B］ Because	［C］ As 			［D］ Since
+3.［A］ from			［B］ in			［C］ on 			［D］ by 
+4.［A］ Even though	［B］ Now that 	［C］ If only			［D］ Provided that
+5.［A］ durable		［B］ disposable	［C］ available		［D］ transferable 
+6.［A］ approach		［B］ flow 		［C］ fashion		［D］ trend 
+7.［A］ instantly  	［B］ reversely	［C］ fundamentally	［D］ sufficiently
+8.［A］ but 			［B］ while		［C］ and			［D］ whereas 
+9.［A］ imposed		［B］ restricted	［C］ illustrated		［D］ confined 
+10.［A］ excitement	［B］ conviction	［C］ enthusiasm		［D］ importance
+
+Section II Reading Comprehension
+
+Directions:
+Each of the passages below is followed by some questions. For each question there are four answers marked ［A］, ［B］, ［C］ and ［D］. Read the passages carefully and choose the best answer to each of the questions. Then mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets. (40 points)
+Passage 1
+It was 3: 45 in the morning when the vote was finally taken. After six months of arguing and final 16 hours of hot parliamentary debates, Australia’s Northern Territory became the first legal authority in the world to allow doctors to take the lives of incurably ill patients who wish to die. The measure passed by the convincing vote of 15 to 10. Almost immediately word flashed on the Internet and was picked up, half a world away, by John Hofsess, executive director of the Right to Die Society of Canada. He sent it on via the group’s on-line service, Death NET. Says Hofsess: “We posted bulletins all day long, because of course this isn’t just something that happened in Australia. It’s world history.”
+The full import may take a while to sink in. The NT Rights of the Terminally Ill law has left physicians and citizens alike trying to deal with its moral and practical implications. Some have breathed sighs of relief, others, including churches, right-to-life groups and the Australian Medical Association, bitterly attacked the bill and the haste of its passage. But the tide is unlikely to turn back. In Australia—where an aging population, life-extending technology and changing community attitudes have all played their part—other states are going to consider making a similar law to deal with euthanasia. In the US and Canada, where the right-to-die movement is gathering strength, observers are waiting for the dominoes to start falling.
+Under the new Northern Territory law, an adult patient can request death—probably by a deadly injection or pill—to put an end to suffering. The patient must be diagnosed as terminally ill by two doctors. After a “cooling off” period of seven days, the patient can sign a certificate of request. After 48 hours the wish for death can be met. For Lloyd Nickson, a 54-year-old Darwin resident suffering from lung cancer, the NT Rights of Terminally Ill law means he can get on with living without the haunting fear of his suffering: a terrifying death from his breathing condition. “I’m not afraid of dying from a spiritual point of view, but what I was afraid of was how I’d go, because I’ve watched people die in the hospital fighting for oxygen and clawing at their masks, ” he says.
+11. From the second paragraph we learn that        .
+［A］ the objection to euthanasia is slow to come in other countries
+［B］ physicians and citizens share the same view on euthanasia
+［C］ changing technology is chiefly responsible for the hasty passage of the law
+［D］ it takes time to realize the significance of the law’s passage
+12. When the author says that observers are waiting for the dominoes to start falling, he means        .
+［A］ observers are taking a wait-and-see attitude towards the future of euthanasia
+［B］ similar bills are likely to be passed in the US, Canada and other countries
+［C］ observers are waiting to see the result of the game of dominoes
+［D］ the effect-taking process of the passed bill may finally come to a stop
+13. When Lloyd Nickson dies, he will        .
+［A］ face his death with calm characteristic of euthanasia
+［B］ experience the suffering of a lung cancer patient
+［C］ have an intense fear of terrible suffering
+［D］ undergo a cooling off period of seven days
+14. The author’s attitude towards euthanasia seems to be that of        .
+［A］ opposition		［B］ suspicion		［C］ approval		［D］ indifference
+Passage 2
+A report consistently brought back by visitors to the US is how friendly, courteous, and helpful most Americans were to them. To be fair, this observation is also frequently made of Canada and Canadians, and should best be considered North American. There are, of course, exceptions. Small-minded officials, rude waiters, and ill-mannered taxi drivers are hardly unknown in the US. Yet it is an observation made so frequently that it deserves comment.
+For a long period of time and in many parts of the country, a traveler was a welcome break in an otherwise dull existence. Dullness and loneliness were common problems of the families who generally lived distant from one another. Strangers and travelers were welcome sources of diversion, and brought news of the outside world. 
+The harsh realities of the frontier also shaped this tradition of hospitality. Someone traveling alone, if hungry, injured, or ill, often had nowhere to turn except to the nearest cabin or settlement. It was not a matter of choice for the traveler or merely a charitable impulse on the part of the settlers. It reflected the harshness of daily life: if you didn’t take in the stranger and take care of him, there was no one else who would. And someday, remember, you might be in the same situation.
+Today there are many charitable organizations which specialize in helping the weary traveler. Yet, the old tradition of hospitality to strangers is still very strong in the US, especially in the smaller cities and towns away from the busy tourist trails. “I was just traveling through, got talking with this American, and pretty soon he invited me home for dinner—amazing.” Such observations reported by visitors to the US are not uncommon, but are not always understood properly. The casual friendliness of many Americans should be interpreted neither as superficial nor as artificial, but as the result of a historically developed cultural tradition.
+As is true of any developed society, in America a complex set of cultural signals, assumptions, and conventions underlies all social interrelationships. And, of course, speaking a language does not necessarily mean that someone understands social and cultural patterns. Visitors who fail to “translate” cultural meanings properly often draw wrong conclusions. For example, when an American uses the word “friend”, the cultural implications of the word may be quite different from those it has in the visitor’s language and culture. It takes more than a brief encounter on a bus to distinguish between courteous convention and individual interest. Yet, being friendly is a virtue that many Americans value highly and expect from both neighbors and strangers.
+15. In the eyes of visitors from the outside world        ,. 
+［A］ rude taxi drivers are rarely seen in the US
+［B］ small-minded officials deserve a serious comment
+［C］ Canadians are not so friendly as their neighbors
+［D］ most Americans are ready to offer help
+16. It could be inferred from the last paragraph that        .
+［A］ culture exercises an influence over social interrelationship
+［B］ courteous convention and individual interest are interrelated
+［C］ various virtues manifest themselves exclusively among friends
+［D］ social interrelationships equal the complex set of cultural conventions
+17. Families in frontier settlements used to entertain strangers        . 
+［A］ to improve their hard life	［B］ in view of their long-distance travel
+［C］ to add some flavor to their own daily life	［D］ out of a charitable impulse
+18. The tradition of hospitality to strangers        .
+［A］ tends to be superficial and artificial	
+［B］ is generally well kept up in the United States
+［C］ is always understood properly	
+［D］ has something to do with the busy tourist trails
+Passage 3
+Technically, any substance other than food that alters our bodily or mental functioning is a drug. Many people mistakenly believe the term drug refers only to some sort of medicine or an illegal chemical taken by drug addicts. They don’t realize that familiar substances such as alcohol and tobacco are also drugs. This is why the more neutral term substance is now used by many physicians and psychologists. The phrase “substance abuse” is often used instead of “drug abuse” to make clear that substances such as alcohol and tobacco can be just as harmfully misused as heroin and cocaine.
+We live in a society in which the medical and social use of substances (drugs) is pervasive: an aspirin to quiet a headache, some wine to be sociable, coffee to get going in the morning, a cigarette for the nerves. When do these socially acceptable and apparently constructive uses of a substance become misuses? First of all, most substances taken in excess will produce negative effects such as poisoning or intense perceptual distortions. Repeated use of a substance can also lead to physical addiction or substance dependence. Dependence is marked first by an increased tolerance, with more and more of the substance required to produce the desired effect, and then by the appearance of unpleasant withdrawal symptoms when the substance is discontinued.
+Drugs (substances) that affect the central nervous system and alter perception, mood, and behavior are known as psychoactive substances. Psychoactive substances are commonly grouped according to whether they are stimulants, depressants, or hallucinogens. Stimulants initially speed up or activate the central nervous system, whereas depressants slow it down. Hallucinogens have their primary effect on perception, distorting and altering it in a variety of ways including producing hallucinations. These are the substances often called psychedelic (from the Greek word meaning “mind-manifestation”) because they seemed to radically alter one’s state of consciousness.
+
+19. “Substance abuse”(Line 5, Paragraph 1) is preferable to “drug abuse” in that        .
+［A］ substances can alter our bodily or mental functioning if illegally used
+［B］ “drug abuse” is only related to a limited number of drugtakers
+［C］ alcohol and tobacco are as fatal as heroin and cocaine
+［D］ many substances other than heroin or cocaine can also be poisonous
+20. The word “pervasive” (Line 1, Paragraph 2) might mean        .
+［A］ widespread	［B］ overwhelming
+［C］ piercing	［D］ fashionable
+21. Physical dependence on certain substances results from        .
+［A］ uncontrolled consumption of them over long periods of time
+［B］ exclusive use of them for social purposes
+［C］ quantitative application of them to the treatment of diseases
+［D］ careless employment of them for unpleasant symptoms
+22. From the last paragraph we can infer that        .
+［A］ stimulants function positively on the mind
+［B］ hallucinogens are in themselves harmful to health
+［C］ depressants are the worst type of psychoactive substances
+［D］ the three types of psychoactive substances were commonly used in groups
+Passage 4
+No company likes to be told it is contributing to the moral decline of a nation. “Is this what you intended to accomplish with your careers?” Senator Robert Dole asked Time Warner executives last week. “You have sold your souls, but must you corrupt our nation and threaten our children as well?” At Time Warner, however, such questions are simply the latest manifestation of the soul-searching that has involved the company ever since the company was born in 1990. It’s a self-examination that has, at various times, involved issues of responsibility, creative freedom and the corporate bottom line.
+At the core of this debate is chairman Gerald Levin, 56, who took over for the late Steve Ross in 1992. On the financial front, Levin is under pressure to raise the stock price and reduce the company’s mountainous debt, which will increase to $ 17.3 billion after two new cable deals close. He has promised to sell off some of the property and restructure the company, but investors are waiting impatiently.
+The flap over rap is not making life any easier for him. Levin has consistently defended the company’s rap music on the grounds of expression. In 1992, when Time Warner was under fire for releasing Ice-T’s violent rap song Cop Killer, Levin described rap as a lawful expression of street culture, which deserves an outlet. “The test of any democratic society, ”he wrote in a Wall Street Journal column, “lies not in how well it can control expression but in whether it gives freedom of thought and expression the widest possible latitude, however disputable or irritating the results may sometimes be. We won’t retreat in the face of any threats.”
+Levin would not comment on the debate last week, but there were signs that the chairman was backing off his hard-line stand, at least to some extent. During the discussion of rock singing verses at last month’s stockholders’ meeting, Levin asserted that “music is not the cause of society’s ills” and even cited his son, a teacher in the Bronx, New York, who uses rap to communicate with students. But he talked as well about the “balanced struggle” between creative freedom and social responsibility, and he announced that the company would launch a drive to develop standards for distribution and labeling of potentially objectionable music.
+The 15-member Time Warner board is generally supportive of Levin and his corporate strategy. But insiders say several of them have shown their concerns in this matter. “Some of us have known for many, many years that the freedoms under the First Amendment are not totally unlimited, ” says Luce. “I think it is perhaps the case that some people associated with the company have only recently come to realize this.”
+23. Senator Robert Dole criticized Time Warner for        .
+［A］ its raising of the corporate stock price	［B］ its self-examination of soul
+［C］ its neglect of social responsibility	［D］ its emphasis on creative freedom
+24. According to the passage, which of the following is TRUE?
+［A］ Luce is a spokesman of Time Warner.	 ［B］ Gerald Levin is liable to compromise.
+［C］ Time Warner is united as one in the face of the debate.［D］ Steve Ross is no longer alive
+25. In face of the recent attacks on the company, the chairman        .
+［A］ stuck to a strong stand to defend freedom of expression
+［B］ softened his tone and adopted some new policy
+［C］ changed his attitude and yielded to objection
+［D］ received more support from the 15-member board
+26. The best title for this passage might be        .
+［A］ A Company under Fire	［B］ A Debate on Moral Decline
+［C］ A Lawful Outlet of Street Culture	［D］ A Form of Creative Freedom
+Passage 5
+Much of the language used to describe monetary policy, such as “steering the economy to a soft landing” or “a touch on the brakes”, makes it sound like a precise science. Nothing could be further from the truth. The link between interest rates and inflation is uncertain. And there are long, variable lags before policy changes have any effect on the economy. Hence the analogy that likens the conduct of monetary policy to driving a car with a blackened windscreen, a cracked rear-view mirror and a faulty steering wheel.
+Given all these disadvantages, central bankers seem to have had much to boast about of late. Average inflation in the big seven industrial economies fell to a mere 2.3% last year, close to its lowest level in 30 years, before rising slightly to 2.5% this July. This is a long way below the double-digit rates which many countries experienced in the 1970s and early 1980s.
+It is also less than most forecasters had predicted. In late 1994 the panel of economists which The Economist polls each month said that America’s inflation rate would average 3.5% in 1995. In fact, it fell to 2.6% in August, and is expected to average only about 3% for the year as a whole. In Britain and Japan inflation is running half a percentage point below the rate predicted at the end of last year. This is no flash in the pan; over the past couple of years, inflation has been consistently lower than expected in Britain and America.
+Economists have been particularly surprised by favourable inflation figures in Britain and the United States, since conventional measures suggest that both economies, and especially America’s, have little productive slack. America’s capacity utilisation, for example, hit historically high levels earlier this year, and its jobless rate (5.6% in August) has fallen below most estimates of the natural rate of unemployment—the rate below which inflation has taken off in the past.
+Why has inflation proved so mild? The most thrilling explanation is, unfortunately, a little defective. Some economists argue that powerful structural changes in the world have up-ended the old economic models that were based upon the historical link between growth and inflation.
+27. From the passage we learn that        .
+［A］ there is a definite relationship between inflation and interest rates
+［B］ economy will always follow certain models
+［C］ the economic situation is better than expected
+［D］ economists had foreseen the present economic situation
+28. According to the passage, which of the following is TRUE?
+［A］ Making monetary policies is comparable to driving a car.
+［B］ An extremely low jobless rate will lead to inflation.
+［C］ A high unemployment rate will result from inflation.
+［D］ Interest rates have an immediate effect on the economy.
+29. The sentence “This is no flash in the pan” (Line 5, Paragraph 3) means that        .
+［A］ the low inflation rate will last for some time	［B］ the inflation rate will soon rise
+［C］ the inflation will disappear quickly	［D］ there is no inflation at present
+30. The passage shows that the author isthe present situation        .
+［A］ critical of	［B］ puzzled by
+［C］ disappointed at	［D］ amazed at
+
+Part III English-Chinese Translation
+Directions:
+Read the following passage carefully and then translate the underlined segments into Chinese. Your translation must be written clearly on ANSWER SHEET 2. (15 points)
+Do animals have rights? This is how the question is usually put. It sounds like a useful, ground-clearing way to start. 31）Actually, it isn’t, because it assumes that there is an agreed account of human rights, which is something the world does not have. 
+	On one view of rights, to be sure, it necessarily follows that animals have none.32）Some philosophers argue that rights exist only within a social contract, as part of an exchange of duties and entitlements. Therefore animals cannot have rights. The idea of punishing a tiger that kills somebody is absurd, for exactly the same reason, so is the idea that tigers have rights. However, this is only one account, and by no means an uncontested one. It denies rights not only to animals but also to some people—for instance, to infants, the mentally incapable and future generations. In addition, it is unclear what force a contract can have for people who never consented to it: how do you reply to somebody who says “ I don’t like this contract”?
+The point is this: without agreement on the rights of people, arguing about the rights of animals is fruitless.33）It leads the discussion to extremes at the outset: it invites you to think that animals should be treated either with the consideration humans extend to other humans, or with no consideration at all. This is a false choice. Better to start with another, more fundamental, question: is the way we treat animals a moral issue at all?
+Many deny it.34）Arguing from the view that humans are different from animals in every relevant respect, extremists of this kind think that animals lie outside the area of moral choice. Any regard for the suffering of animals is seen as a mistake—a sentimental displacement of feeling that should properly be directed to other humans. 
+This view, which holds that torturing a monkey is morally equivalent to chopping wood, may seem bravely “logical”. In fact it is simply shallow: the confused centre is right to reject it. The most elementary form of moral reasoning—the ethical equivalent of learning to crawl—is to weigh other’s interests against one’s own. This in turn requires sympathy and imagination: without which there is no capacity for moral thought. To see an animal in pain is enough, for most, to engage sympathy.35）When that happens, it is not a mistake: it is mankind’s instinct for moral reasoning in action, an instinct that should be encouraged rather than laughed at.
+
+Section IV Writing(15 points)
+36. Directions:
+A. Study the following set of pictures carefully and write an essay in no less than 120 words.
+B. Your essay must be written clearly on ANSWER SHEET 2.
+C. Your essay should cover all the information provided and meet the requirements below:
+1. Interpret the following pictures.
+2. Predict the tendency of tobacco consumption and give your reasons.
+ 
+        1996年全国硕士研究生招生考试英语试题
+
+Section I   Use of English
+
+Directions：
+For each numbered blank in the following passage, there are four choices marked ［A］, ［B］, ［C］ and [D]. Choose the best one and mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets. (10 points)
+
+Vitamins are organic compounds necessary in small amounts in the diet for the normal growth and maintenance of life of animals, including man.
+They do not provide energy,   1   do they construct or build any part of the body. They are needed for   2    foods into energy and body maintenance. There are thirteen or more of them, and if   3   is missing a deficiency disease becomes  4   .
+Vitamins are similar because they are made of the same elements—usually carbon, hydrogen, oxygen, and   5   nitrogen. They are different   6   their elements are arranged differently, and each vitamin   7    one or more specific functions in the body. 
+8   enough vitamins is essential to life, although the body has no nutritional use for  9  vitamins. Many people,  10   , believe in being on the “safe side” and thus take extra vitamins. However, a wellbalanced diet will usually meet all the body’s vitamin needs.  
+1.［A］either			［B］so				［C］nor		［D］never 
+2.［A］shifting 		［B］transferring 		［C］altering 	［D］transforming
+3.［A］any			［B］some			［C］anything  	［D］something
+4.［A］serious		［B］apparent		［C］severe		［D］fatal
+5.［A］mostly		［B］partially			［C］sometimes	［D］rarely
+6.［A］in that 		［B］so that			［C］such that	［D］except that
+7.［A］undertakes 	［B］holds			［C］plays		［D］performs
+8.［A］Supplying 	［B］Getting			［C］Providing	［D］Furnishing
+9.［A］exceptional	［B］exceeding		［C］excess		［D］external
+10.［A］nevertheless	［B］therefore		［C］moreover 	［D］meanwhile
+
+Section II Reading Comprehension
+
+
+Directions:
+Each of the passages below is followed by some questions. For each questions there are four answers marked ［A］, ［B］, ［C］ and ［D］. Read the passages carefully and choose the best answer to each of the questions. Then mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (40 points)
+
+Passage 1
+
+Tightlipped elders used to say, “It’s not what you want in this world, but what you get.”
+Psychology teaches that you do get what you want if you know what you want and want the right things.
+You can make a mental blueprint of a desire as you would make a blueprint of a house, and each of us is continually making these blueprints in the general routine of everyday living. If we intend to have friends to dinner, we plan the menu, make a shopping list, decide which food to cook first, and such planning is an essential for any type of meal to be served.
+Likewise, if you want to find a job, take a sheet of paper, and write a brief account of yourself. In making a blueprint for a job, begin with yourself, for when you know exactly what you have to offer, you can intelligently plan where to sell your services.
+This account of yourself is actually a sketch of your working life and should include education, experience and references. Such an account is valuable. It can be referred to in filling out standard application blanks and is extremely helpful in personal interviews. While talking to you, your could be employer is deciding whether your education, your experience, and other qualifications will pay him to employ you and your “wares” and abilities must be displayed in an orderly and reasonably connected manner.
+When you have carefully prepared a blueprint of your abilities and desires, you have something tangible to sell. Then you are ready to hunt for a job. Get all the possible information about your could be job. Make inquiries as to the details regarding the job and the firm. Keep your eyes and ears open, and use your own judgment. Spend a certain amount of time each day seeking the employment you wish for, and keep in mind: Securing a job is your job now. 
+
+11. What do the elders mean when they say, “It’s not what you want in this world, but what you get.”?
+［A］ You’ll certainly get what you want.
+［B］ It’s no use dreaming.
+［C］ You should be dissatisfied with what you have.
+［D］ It’s essential to set a goal for yourself.
+12. A blueprint made before inviting a friend to dinner is used in this passage as         .
+［A］ an illustration of how to write an application for a job
+［B］ an indication of how to secure a good job
+［C］ a guideline for job description
+［D］ a principle for job evaluation
+13. According to the passage, one must write an account of himself before starting to find a job because         .
+［A］ that is the first step to please the employer
+［B］ that is the requirement of the employer
+［C］ it enables him to know when to sell his services
+［D］ it forces him to become clearly aware of himself
+14. When you have carefully prepared a blueprint of your abilities and desires, you have something        .
+［A］ definite to offer			［B］ imaginary to provide
+［C］ practical to supply		［D］ desirable to present
+
+Passage 2
+With the start of BBC World Service Television, millions of viewers in Asia and America can now watch the Corporation’s news coverage, as well as listen to it.
+And of course in Britain listeners and viewers can tune in to two BBC television channels, five BBC national radio services and dozens of local radio stations. They are brought sport, comedy, drama, music, news and current affairs, education, religion, parliamentary coverage, children’s programmes and films for an annual licence fee of ￡83 per household.
+It is a remarkable record, stretching back over 70 years — yet the BBC’s future is now in doubt. The Corporation will survive as a publiclyfunded broadcasting organization, at least for the time being, but its role, its size and its programmes are now the subject of a nationwide debate in Britain.
+The debate was launched by the Government, which invited anyone with an opinion of the BBC — including ordinary listeners and viewers — to say what was good or bad about the Corporation, and even whether they thought it was worth keeping. The reason for its inquiry is that the BBC’s royal charter runs out in 1996 and it must decide whether to keep the organization as it is, or to make changes.
+Defenders of the Corporation — of whom there are many — are fond of quoting the American slogan “If it ain’t broke, don’t fix it.” The BBC “ain’t broke”, they say, by which they mean it is not broken (as distinct from the word  ‘broke’, meaning having no money), so why bother to change it?
+Yet the BBC will have to change, because the broadcasting world around it is changing. The commercial TV channels —— ITV and Channel 4 —— were required by the Thatcher Government’s Broadcasting Act to become more commercial, competing with each other for advertisers, and cutting costs and jobs. But it is the arrival of new satellite channels — funded partly by advertising and partly by viewers’subscriptions — which will bring about the biggest changes in the long term.
+
+15. The world famous BBC now faces         .
+［A］ the problem of news coverage		［B］ an uncertain prospect
+［C］ inquiries by the general public		［D］ shrinkage of audience
+16. In the passage, which of the following about the BBC is not mentioned as the key issue?
+［A］ Extension of its TV service to Far East.
+［B］ Programmes as the subject of a nation-wide debate.
+［C］ Potentials for further international co-operations.
+［D］ Its existence as a broadcasting organization.
+17. The BBC’s “royal charter” (Line 4, Paragraph 4) stands for         .
+［A］ the financial support from the royal family.
+［B］ the privileges granted by the Queen.
+［C］ a contract with the Queen.
+［D］ a unique relationship with the royal family.
+18. The foremost reason why the BBC has to readjust itself is no other than         .
+［A］ the emergence of commercial TV channels.
+［B］ the enforcement of Broadcasting Act by the government.
+［C］ the urgent necessity to reduce costs and jobs.
+［D］ the challenge of new satellite channels.
+
+Passage 3
+In the last half of the nineteenth century “capital” and “labour” were enlarging and perfecting their rival organizations on modern lines. Many an old firm was replaced by a limited liability company with a bureaucracy of salaried managers. The change met the technical requirements of the new age by engaging a large professional element and prevented the decline in efficiency that so commonly spoiled the fortunes of family firms in the second and third generation after the energetic founders. It was moreover a step away from individual initiative, towards collectivism and municipal and state-owned business. The railway companies, though still private business managed for the benefit of shareholders, were very unlike old family business. At the same time the great municipalities went into business to supply lighting, trams and other services to the taxpayers.
+The growth of the limited liability company and municipal business had important consequences. Such large, impersonal manipulation of capital and industry greatly increased the numbers and importance of shareholders as a class, an element in national life representing irresponsible wealth detached from the land and the duties of the landowners; and almost equally detached from the responsible management of business. All through the nineteenth century, America, Africa, India, Australia and parts of Europe were being developed by British capital, and British shareholders were thus enriched by the world’s movement towards industrialization. Towns like Bournemouth and Eastbourne sprang up to house large “comfortable” classes who had retired on their incomes, and who had no relation to the rest of the community except that of drawing dividends and occasionally attending a shareholders’ meeting to dictate their orders to the management. On the other hand “shareholding” meant leisure and freedom which was used by many of the later Victorians for the highest purpose of a great civilization.
+The “shareholders” as such had no knowledge of the lives, thoughts or needs of the workmen employed by the company in which he held shares, and his influence on the relations of capital and labor was not good. The paid manager acting for the company was in more direct relation with the men and their demands, but even he had seldom that familiar personal knowledge of the workmen which the employer had often had under the more patriarchal system of the old family business now passing away. Indeed the mere size of operations and the numbers of workmen involved rendered such personal relations impossible. Fortunately, however, the increasing power and organization of the trade unions, at least in all skilled trades, enabled the workmen to meet on equal terms the managers of the companies who employed them. The cruel discipline of the strike and lockout taught the two parties to respect each other’s strength and understand the value of fair negotiation.
+
+19. It’s true of the old family firms that         .
+［A］ they were spoiled by the younger generations
+［B］ they failed for lack of individual initiative 
+［C］ they lacked efficiency compared with modern companies
+［D］ they could supply adequate services to the taxpayers
+20. The growth of limited liability companies resulted in         . 
+［A］ the separation of capital from management
+［B］ the ownership of capital by managers 
+［C］ the emergence of capital and labour as two classes
+［D］ the participation of shareholders in municipal business
+21. According to the passage, all of the following are true except that         . 
+［A］ the shareholders were unaware of the needs of the workers
+［B］ the old firm owners had a better understanding of their workers 
+［C］ the limited liability companies were too large to run smoothly 
+［D］ the trade unions seemed to play a positive role
+22. The author is most critical of         .
+［A］ family firm owners			［B］ landowners 
+［C］ managers					［D］ shareholders
+
+Passage 4
+What accounts for the great outburst of major inventions in early America— breakthroughs such as the telegraph, the steamboat and the weaving machine?
+Among the many shaping factors, I would single out the country’s excellent elementary schools; a labor force that welcomed the new technology; the practice of giving premiums to inventors; and above all the American genius for nonverbal, “spatial” thinking about things technological.
+Why mention the elementary schools? Because thanks to these schools our early mechanics, especially in the New England and Middle Atlantic states, were generally literate and at home in arithmetic and in some aspects of geometry and trigonometry.
+Acute foreign observers related American adaptiveness and inventiveness to this educational advantage. As a member of a British commission visiting here in 1853 reported, “With a mind prepared by thorough school discipline, the American boy develops rapidly into the skilled workman.”
+A further stimulus to invention came from the “premium” system, which preceded our patent system and for years ran parallel with it. This approach, originated abroad, offered inventors medals, cash prizes and other incentives.
+In the United States, multitudes of premiums for new devices were awarded at country fairs and at the industrial fairs in major cities. Americans flocked to these fairs to admire the new machines and thus to renew their faith in the beneficence of technological advance.
+Given this optimistic approach to technological innovation, the American worker took readily to that special kind of nonverbal thinking required in mechanical technology. As Eugene Ferguson has pointed out, “A technologist thinks about objects that cannot be reduced to unambiguous verbal descriptions; they are dealt with in his mind by a visual, nonverbal process … The designer and the inventor … are able to assemble and manipulate in their minds devices that as yet do not exist.”
+This nonverbal “spatial” thinking can be just as creative as painting and writing. Robert Fulton once wrote, “The mechanic should sit down among levers, screws, wedges, wheels, etc, like a poet among the letters of the alphabet, considering them as an exhibition of his thoughts, in which a new arrangement transmits a new idea.”
+When all these shaping forces—schools, open attitudes, the premium system, a genius for spatial thinking —interacted with one another on the rich U.S. mainland, they produced that American characteristic emulation. Today that word implies mere imitation. But in earlier times it meant a friendly but competitive striving for fame and excellence.
+
+23. According to the author, the great outburst of major inventions in early America was in a large part due to         .
+［A］ elementary schools			［B］ enthusiastic workers
+［C］ the attractive premium system ［D］ a special way of thinking
+24. It is implied that adaptiveness and inventiveness of the early American mechanics        .
+［A］ benefited a lot from their mathematical knowledge.
+［B］ shed light on disciplined school management.
+［C］ was brought about by privileged home training.
+［D］ owed a lot to the technological development.
+25. A technologist can be compared to an artist because         .
+［A］ they are both winners of awards.	［B］ they are both experts in spatial thinking.
+［C］ they both abandon verbal description	［D］ they both use various instruments
+26. The best title for this passage might be         .
+［A］ Inventive Mind							［B］ Effective Schooling
+［C］ Ways of Thinking						［D］ Outpouring of Inventions
+
+Passage 5
+Rumor has it that more than 20 books on creationism/evolution are in the publisher’s pipelines. A few have already appeared. The goal of all will be to try to explain to a confused and often unenlightened citizenry that there are not two equally valid scientific theories for the origin and evolution of universe and life. Cosmology, geology, and biology have provided a consistent, unified, and constantly improving account of what happened. “Scientific” creationism, which is being pushed by some for “equal time” in the classrooms whenever the scientific accounts of evolution are given, is based on religion, not science. Virtually all scientists and the majority of nonfundamentalist religious leaders have come to regard “scientific” creationism as bad science and bad religion.
+The first four chapters of Kitcher’s book give a very brief introduction to evolution. At appropriate places, he introduces the criticisms of the creationists and provides answers. In the last three chapters, he takes off his gloves and gives the creationists a good beating. He describes their programmes and tactics, and, for those unfamiliar with the ways of creationists, the extent of their deception and distortion may come as an unpleasant surprise. When their basic motivation is religious, one might have expected more Christian behavior.
+Kitcher is a philosopher, and this may account, in part, for the clarity and effectiveness of his arguments. The non-specialist will be able to obtain at least a notion of the sorts of data and argument that support evolutionary theory. The final chapters on the creationists will be extremely clear to all. On the dust jacket of this fine book, Stephen Jay Gould says: “This book stands for reason itself.” And so it does - and all would be well were reason the only judge in the creationism/evolution debate.
+27. “Creationism” in the passage refers to         .
+［A］ evolution in its true sense as to the origin of the universe
+［B］ a notion of the creation of religion
+［C］ the scientific explanation of the earth formation
+［D］ the deceptive theory about the origin of the universe
+28. Kitcher’s book is intended to         .
+［A］ recommend the views of the evolutionists  	［B］ expose the true features of creationists
+［C］ curse bitterly at his opponents            	［D］ launch a surprise attack on creationists
+29. From the passage we can infer that         .
+［A］ reasoning has played a decisive role in the debate
+［B］ creationists do not base their argument on reasoning
+［C］ evolutionary theory is too difficult for non-specialists
+［D］ creationism is supported by scientific findings
+30. This passage appears to be a digest of         .
+［A］ a book review								［B］ a scientific paper
+［C］ a magazine feature							［D］ a newspaper editorial
+
+Part III English-Chinese Translation
+Directions:
+Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (15 points)
+The differences in relative growth of various areas of scientific research have several causes. 31）Some of these causes are completely reasonable results of social needs. Others are reasonable consequences of particular advances in science being to some extent self-accelerating. Some, however, are less reasonable processes of different growth in which preconceptions of the form scientific theory ought to take, by persons in authority, act to alter the growth pattern of different areas. This is a new problem probably not yet unavoidable; but it is a frightening trend. 32）This trend began during the Second World War, when several governments came to the conclusion that the specific demands that a government wants to make of its scientific establishment cannot generally be foreseen in detail. It can be predicted, however, that from time to time questions will arise which will require specific scientific answers. It is therefore generally valuable to treat the scientific establishment as a resource or machine to be kept in functional order. 33）This seems mostly effectively done by supporting a certain amount of research not related to immediate goals but of possible consequence in the future.
+This kind of support, like all government support, requires decisions about the appropriate recipients of funds. Decisions based on utility as opposed to lack of utility are straightforward. But a decision among projects none of which has immediate utility is more difficult. The goal of the supporting agencies is the praisable one of supporting “good” as opposed to “bad” science, but a valid determination is difficult to make. Generally, the idea of good science tends to become confused with the capacity of the field in question to generate an elegant theory. 34）However, the world is so made that elegant systems are in principle unable to deal with some of the world’s more fascinating and delightful aspects. 35）New forms of thought as well as new subjects for thought must arise in the future as they have in the past, giving rise to new standards of elegance. 
+Section IV Writing
+36. Directions:
+A. Title: GOOD HEALTH
+B. Time limit: 40minutes
+C. Word limit: 120—150 words (not including the given opening sentence)
+D. Your composition should be based on the “OUTLINE” below and should start with the given opening sentence: “The desire for good health is universal”.
+E. Your composition must be written clearly on the ANSWER SHEET.
+
+Outline:
+1. Importance of good health.
+2. Ways to keep fit.
+3. My own practices.
