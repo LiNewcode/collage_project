@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Ti';  //重命名字体名
+src: url('times.ttf');  //引入字体
+font-weight: normal;
+    font-style: normal;
+}
